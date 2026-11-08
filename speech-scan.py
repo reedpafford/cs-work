@@ -24,7 +24,7 @@ def scan(text, lfs=False):
     hard, soft = [], []
     lines = [l for l in text.splitlines() if l.strip()]
     words = len(text.split())
-    # Meta compliance (Reed, 2026-09-29): RP40 V1 and RP41 V2/V3 were disapproved under Adult Sexual
+    # Meta compliance (Reed, 2026-09-29): JC40 V1 and JC41 V2/V3 were disapproved under Adult Sexual
     # Exploitation ("sexual violence"). The ceiling word is now "assaulted"; death is implied, never said.
     for ln, line in enumerate(lines, 1):
         hits = BANNED.findall(line)
