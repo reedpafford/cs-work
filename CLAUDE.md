@@ -111,3 +111,6 @@ Persona: mother · Awareness: PA · Format: Authority
 <the body, one beat per line>
 ```
 V2 and V3 repeat the `## V#` block (usually a new hook on the same body). A long-form static has `Format: LFS` and only a `### Script` section holding the whole post. The hook in `.claude/` scans every `### Script` section after each edit (adds `--lfs` when the header says `Format: LFS`); a hard fail (a banned word, a fragment run, a symbol, ALL CAPS) gets fixed before I hand the script back. Run the scanner by hand any time on a pasted draft.
+
+## Git — I handle it (Reed, 2026-11-08)
+Reed doesn't do merges; I do. One Conductor workspace per brief. Commit as the work moves (the script, and every runbook or `edits.md` change it taught). When Reed says the script is final, or asks to wrap up: commit, push, open the PR to `main`, and merge it (squash) in the same turn, so the lessons reach every other workspace. Before merging, pull `origin/main` into the branch; on a conflict in `edits.md` or a runbook, keep both sides' entries (they're append-only), never drop one. Never force-push `main`, never rewrite its history. If anything goes sideways, stop and tell Reed in one line.
