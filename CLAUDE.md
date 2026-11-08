@@ -61,12 +61,13 @@ Reed is the writer and the strategist: ideates, writes the front of every script
 
 **The plan (Reed, 2026-09-16, replaces 09-14):** this market has almost no solution-aware buyers, because there is no active daily pain. Women's safety is preventative; nobody acts until something makes them act. It's the beetroot market again (no pain today, sold on the fear of a heart attack), except the fear here (her daughter assaulted, unprotected) is so strong that one ad can close it. A pure impulse product, built for Meta. So the job is unaware and problem-aware only: the engine of every ad is one belief, **her daughter could be assaulted at any moment, and a personal alarm is how you stop it**, and a story is the best way to install that belief; the stories are unlimited, so the engine is evergreen. Broad nets are fine because the TAM is every woman, so an unaware opener still lands on a buyer by the end. Fewer ads, written harder: one really good UA-to-PA long-form static or video beats five SA ads, and it's the one motion that gets to ten thousand a day in spend, maybe a hundred. SA and product-aware get one occasional bottom-of-funnel ad behind a winner, never a cold open. The edge over She's Birdie lives exactly here: most of the market has never heard of them or isn't in the mindset yet, and an emotional unaware story is what brings those people in. First engine for it: the archived Rosabella long-form static winners, because the first half of an unaware ad is product-agnostic, so the front transposes as-is and only the back end pivots to the alarm. One proven avatar (parents and grandparents buying for their daughter). Levers (`levers.md`) get pulled on winners, not on guesses.
 
-**Past briefs** (hooks, personas, status, what Reed changed): `briefs.md`. Open it when a command needs a past brief, never by default. **Newest product block per persona:** male detective RP33 (and RP33 carries the live mechanism for every persona), female detective RP17, mother RP31 (story form, where the facts happen to her; RP19 for the lecture form). Update this line when a newer brief replaces one. **Next new brief is RP62.** Confirm the number with Reed before starting a file.
+**Past briefs** (hooks, personas, status, what Reed changed): `briefs.md`. Open it when a command needs a past brief, never by default. **Newest product block per persona:** male detective RP33 (and RP33 carries the live mechanism for every persona), female detective RP17, mother RP31 (story form, where the facts happen to her; RP19 for the lecture form). Update this line when a newer brief replaces one. **Next brief number:** the highest `RP##` in `scripts/` on `origin/main`, plus one (RP62 if `scripts/` is empty), unless Reed names one.
 
 ## The runbooks — open the one the command names, nothing else
 | Command | Runbook |
 |---|---|
-| "start RP##" / new brief | create `scripts/RP##.md` from the shape below, nothing else; Reed writes the front |
+| "new brief" / "start RP##" | create `scripts/RP##.md` from the shape below (next number per the line above), Status: drafting, nothing else; Reed writes the front |
+| "final" / "wrap it up" | the finalize steps in **Git** below |
 | "audit" / "check" / "review" / "what would you change" | `audit.md` |
 | a pasted ad line / "change this ad to our product" | ask Reed for the full ad if only a line was pasted, then `LFS.md` (long-form static) or `write.md` §4 (video) |
 | "add a paragraph" / "transpose this swipe" / "pull the product block" / "lines for this beat" / "what's missing from the winners" | `write.md` — the WHAT: market truths, script anatomy, the winning-messaging inventory |
@@ -102,6 +103,7 @@ A miss adds one line to one runbook or one test to a gate, never a paragraph to 
 ```
 # RP62 — <working title>
 Persona: mother · Awareness: PA · Format: Authority
+Status: drafting
 
 ## V1
 ### Text Hook
@@ -113,4 +115,12 @@ Persona: mother · Awareness: PA · Format: Authority
 V2 and V3 repeat the `## V#` block (usually a new hook on the same body). A long-form static has `Format: LFS` and only a `### Script` section holding the whole post. The hook in `.claude/` scans every `### Script` section after each edit (adds `--lfs` when the header says `Format: LFS`); a hard fail (a banned word, a fragment run, a symbol, ALL CAPS) gets fixed before I hand the script back. Run the scanner by hand any time on a pasted draft.
 
 ## Git — I handle it (Reed, 2026-11-08)
-Reed doesn't do merges; I do. One Conductor workspace per brief. Commit as the work moves (the script, and every runbook or `edits.md` change it taught). When Reed says the script is final, or asks to wrap up: commit, push, open the PR to `main`, and merge it (squash) in the same turn, so the lessons reach every other workspace. Before merging, pull `origin/main` into the branch; on a conflict in `edits.md` or a runbook, keep both sides' entries (they're append-only), never drop one. Never force-push `main`, never rewrite its history. If anything goes sideways, stop and tell Reed in one line.
+Reed doesn't do merges; I do. One Conductor workspace per brief, so several briefs can run at once without touching each other. Commit as the work moves (the script, and every runbook or `edits.md` change it taught).
+**On "final" (or "wrap it up"), in one turn:**
+1. Log any hand edits Reed made since my last look (principle 9).
+2. Set `Status: final` in the script file.
+3. Append one entry to the bottom of `briefs.md`: `**RP## final YYYY-MM-DD**`, persona, awareness, format, the story in one line, each variation's hook, and what Reed changed that mattered.
+4. If this brief now has the newest product block for its persona, update that line in CLAUDE.md.
+5. Pull `origin/main` into the branch; on a conflict in `edits.md`, `briefs.md` or a runbook, keep both sides' entries (they're append-only), never drop one.
+6. Commit, push, open the PR to `main`, squash-merge it, and tell Reed in one line that the workspace can be archived.
+Never force-push `main`, never rewrite its history. If anything goes sideways, stop and tell Reed in one line.
