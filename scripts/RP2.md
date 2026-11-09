@@ -1,7 +1,7 @@
-# RP1 — A father's job
+# RP2 — A father's job
 Persona: father (southern, conservative; new) · Awareness: UA · Format: Authority
 Status: drafting
-Parent: "Nobody's coming" (kigali workspace) · Lever: L5 Angle, mother → father
+Parent: RP1 · Lever: L5 Angle, mother → father
 
 ## V1
 ### Text Hook
