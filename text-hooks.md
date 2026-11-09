@@ -42,3 +42,4 @@ V2 — "[spoken hook]"
 ...
 ```
 No preamble, no explanation per line. If Reed asks "give me more," give more of the same engine, not a new engine.
+- **RP1 (Reed, 2026-11-08):** one plate per variation, each aligned to its own spoken hook: V1 "ILLEGAL immigrant ATTACKED college girl…😳" (the noun-verb-noun shape with the villain's status as the noun) · V2 "AMERICA is UNDER ATTACK…‼️" (the hook's first sentence verbatim, capped) · V3 "MIDTERMS made your DAUGHTER LESS SAFE…😰" (the news peg as the subject, the daughter as the object).
