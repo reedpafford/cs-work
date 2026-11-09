@@ -34,6 +34,8 @@ Thirty of his hooks across the ten most recent briefs. What every one of them ha
 
 **The worst verb has a ceiling, and it's "assaulted" (Reed, 2026-09-29).** It climbed from "assaulted" (JC20–JC36) to "sexually assault" (JC37) to "rape" (JC39, approved) to "gang raped" (JC40 V1, JC41 V2 and V3, disapproved under Adult Sexual Exploitation). The climb is over: hooks say "assaulted," "abducted," "attacked" or "predator," and never say a killing outright; the stakes come from the picture and the second clause, not the word. The "made her do X so he could Y" shape (JC39) still works with "assault her."
 
+**The political-identity prehook (Reed, RP2, 2026-11-08, unread):** on the southern-father brief all three hooks are the narrator's politics said first, with the Laken case line right under each one: "I voted for a closed border for this exact reason. If I have to hear about another one of these stories I'm gonna be sick." · "Parents, our daughters' lives are in danger. There are more undocumented criminals on our streets than you can count…" · "America is under attack. Our borders are weak, and we as fathers need to protect our daughters, even if we aren't with them." The hook picks the cohort by belief (border, voting) and the case line underneath carries the knife.
+
 ## What a hook has to do
 1. **Stop the scroll for the parent**, not the daughter. Route to the buyer at word one: "Parents," "your daughter," "if you sent your daughter off to college." Never the user's audience kept from a swipe.
 2. **Open a loop she can't close without watching.** A question, a contradiction, a fact she's never heard, a case she didn't know about.
