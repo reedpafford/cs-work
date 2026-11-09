@@ -5,7 +5,7 @@ Parent: RP1 · Lever: L5 Angle, mother → father
 
 ## V1
 ### Text Hook
-
+ILLEGAL immigrant ATTACKED college girl…😳
 ### Script
 I voted for a closed border for this exact reason. If I have to hear about another one of these stories I'm gonna be sick.
 A twenty-two-year-old nursing student went for a morning run on her college campus, and she never came home. The predator had crossed our border illegally.
@@ -52,12 +52,12 @@ Click the link below before they sell out again. Don't wait until it's too late.
 
 ## V2
 ### Text Hook
-
+PREDATORS are crossing our BORDER…😳
 ### Script
 Parents, our daughters' lives are in danger. There are more undocumented criminals on our streets than you can count, and that problem ain't going away any time soon.
 
 ## V3
 ### Text Hook
-
+AMERICA is under ATTACK…🚨
 ### Script
 America is under attack. Our borders are weak, and we as fathers need to protect our daughters, even if we aren't with them.
