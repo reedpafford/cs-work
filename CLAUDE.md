@@ -75,6 +75,7 @@ Reed is the writer and the strategist: ideates, writes the front of every script
 | "LFS" / "long-form static" / "transpose this Rosabella LFS" / "write the unaware static" | `LFS.md` — what is mechanically different when the ad is one photo and a wall of text; the Rosabella patterns; the two UA forms |
 | "movie" / "make this a movie" / `Format: Movie` | `movie.md` — several speakers, scenes, long run time; the shape, the narrator rule, the scanner mode (DRAFT until Reed edits one) |
 | "text hooks" | `text-hooks.md` |
+| "b-roll" / "b-roll for V1" / "overlay ideas" (on request only) | `broll.md` — a `### B-roll` section under the variation's Script: cue → shot, and what never goes on screen |
 | "Spanish version" / "translate RP##" | `spanish.md` |
 | "proliferate RP##" / "build off this winner" / "lever-map this" | `levers.md` — the seven levers for this brand, what's proven, the use pattern |
 A command with no runbook → ask Reed, don't guess. Distribution, finalize, Notion and account reads are not done here. More runbooks get added as we write.
@@ -93,6 +94,7 @@ A miss adds one line to one runbook or one test to a gate, never a paragraph to 
 ├── spanish.md             ← full-Spanish proliferation
 ├── levers.md              ← the seven levers (language, narrative, structure, awareness, angle, format, revive)
 ├── movie.md               ← multi-speaker long-form: scenes, cast, the narrator carries the sell (draft)
+├── broll.md               ← b-roll / overlay cues for talking heads, on request (draft)
 ├── LFS.md                 ← long-form statics: the Rosabella winner patterns, UA-indirect vs UA-direct, the P.S. stack
 ├── edits.md               ← Reed's manual edits, logged as ❌/✅ pairs
 ├── speech-scan.py         ← the scanner: `python3 speech-scan.py <draft.txt>` for spoken scripts; add `--lfs` for a long-form static
@@ -115,7 +117,7 @@ Parent: — · Lever: —
 <hook line>
 <the body, one beat per line>
 ```
-V2 and V3 repeat the `## V#` block (usually a new hook on the same body). `Parent` and `Lever` stay `—` on a net-new brief; a proliferation (a Spanish version, a new narrative on a winner, any `levers.md` pull) is its own new RP brief and names its source there, e.g. `Parent: RP3 · Lever: L1 Spanish`. A movie has `Format: Movie`, a `Cast:` line, and scenes inside `### Script` (shape in `movie.md`). A long-form static has `Format: LFS` and only a `### Script` section holding the whole post. The hook in `.claude/` scans every `### Script` section after each edit (adds `--lfs` for `Format: LFS`, `--movie` for `Format: Movie`); a hard fail (a banned word, a fragment run, a symbol, ALL CAPS) gets fixed before I hand the script back. Run the scanner by hand any time on a pasted draft.
+V2 and V3 repeat the `## V#` block (usually a new hook on the same body). `Parent` and `Lever` stay `—` on a net-new brief; a proliferation (a Spanish version, a new narrative on a winner, any `levers.md` pull) is its own new RP brief and names its source there, e.g. `Parent: RP3 · Lever: L1 Spanish`. On request, a variation can also carry a `### B-roll` section after its Script (shape in `broll.md`); the Script itself stays only spoken lines. A movie has `Format: Movie`, a `Cast:` line, and scenes inside `### Script` (shape in `movie.md`). A long-form static has `Format: LFS` and only a `### Script` section holding the whole post. The hook in `.claude/` scans every `### Script` section after each edit (adds `--lfs` for `Format: LFS`, `--movie` for `Format: Movie`); a hard fail (a banned word, a fragment run, a symbol, ALL CAPS) gets fixed before I hand the script back. Run the scanner by hand any time on a pasted draft.
 
 ## Git — I handle it (Reed, 2026-11-08)
 Reed doesn't do merges; I do. One Conductor workspace per brief, so several briefs can run at once without touching each other. Commit as the work moves (the script, and every runbook or `edits.md` change it taught).
