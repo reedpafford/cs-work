@@ -78,6 +78,7 @@ Reed is the writer and the strategist: ideates, writes the front of every script
 | "song" / "make this a song" / "song version of JC##" | `song.md` — a spoken script that gets sung: the story skeleton from the winning song ads, the narrator rule, the mood map (DRAFT until Reed runs one) |
 | "b-roll" / "b-roll for V1" / "overlay ideas" (on request only) | `broll.md` — a `### B-roll` section under the variation's Script: cue → shot, and what never goes on screen |
 | "Spanish version" / "translate RP##" | `spanish.md` |
+| "BOF version of RP##" / "bottom of funnel" / "SA / product-aware version" | `levers.md` L4 (Awareness): only behind a PA winner, never a cold open; same persona and face as the winner, a shorter second ask; the back half from `write.md` (offer, guarantee, anti-misfire, no subscription vs Birdie). A new RP brief with `Parent: RP## · Lever: L4 BOF` and `Awareness: SA` (or PDA / MA) |
 | "proliferate RP##" / "build off this winner" / "lever-map this" | `levers.md` — the seven levers for this brand, what's proven, the use pattern |
 A command with no runbook → ask Reed, don't guess. Distribution, finalize, Notion and account reads are not done here. More runbooks get added as we write.
 
