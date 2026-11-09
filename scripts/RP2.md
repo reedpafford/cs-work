@@ -1,6 +1,6 @@
 # RP2 — A father's job
 Persona: father (southern, conservative; new) · Awareness: UA · Format: Authority
-Status: drafting
+Status: final
 Parent: RP1 · Lever: L5 Angle, mother → father
 
 ## V1
