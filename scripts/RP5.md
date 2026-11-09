@@ -2,7 +2,7 @@
 Persona: daughter (narrator) · Awareness: UA · Format: Movie
 Status: drafting
 Parent: — · Lever: —
-Cast: Paige (16, tallest girl in her grade) · Dana (her mom, 40s) · Tyler (her older brother) · the three men (gray sweatsuits, work boots, no lines) · the woman with the stroller · the cart kid · the store manager (red shirt) · the police officer · the detective (50s, flat and quiet) · a teammate
+Cast: Paige (16, tallest girl in her grade) · Dana (her mom, 40s) · Tyler (her older brother) · the three men (gray sweatsuits, work boots; one line, V3) · the woman with the stroller · the cart kid · the store manager (red shirt) · the police officer · the detective (50s, flat and quiet) · a teammate
 
 ## V1
 ### Text Hook
@@ -58,6 +58,7 @@ Paige (V.O.): Nobody's buying anything.
 (Paige looks at her)
 (Paige opens her mouth, then closes it)
 (she scans her eggs; the manager never looks up)
+(by the front doors, one of the men takes his phone out)
 
 [SCENE 7 — the kitchen at home, the same minute]
 (Dana checks her phone: Paige's dot is sitting in the Target parking lot, right where it should be)
@@ -199,15 +200,16 @@ Dana: She's at Target. She's getting eggs.
 
 ## V3
 ### Text Hook
-Predators tried to abduct three girls near the same Target. Only two came home.
+Three men followed my daughter around Target. Then they tried to abduct her in the parking lot.
 ### Script
-[SCENE 1 — the kitchen table]
-(a detective sits across from Dana; he hasn't touched his coffee)
-Detective: The plate on that van matched two other abduction reports this week. Two other girls.
-Dana: Are they okay?
-Detective: One of them is.
-Dana: And the other one?
-(he looks at his hands)
-(Dana turns and looks at the stairs, where Paige is sitting with her knees pulled up to her chest)
+[SCENE 1 — Target, the front doors, just after sunset]
+(Paige walks out with a bag of milk and eggs in one hand and her keys in the other)
+(behind the glass, a man in a gray sweatsuit watches her go, phone to his ear)
+Man in Gray (on the phone): That's her. Tall one, volleyball sweatshirt. Back half of the lot.
+(at the end of the row, a white van with no windows turns its lights on)
+(Paige is three steps from her car when it stops three spaces away)
+(the side door is already open)
+(two men get out and walk straight at her)
+(she opens her mouth and nothing comes out)
 (cut to black)
 (then V1 from SCENE 2 to the end)
