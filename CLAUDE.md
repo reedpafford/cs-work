@@ -94,7 +94,7 @@ A miss adds one line to one runbook or one test to a gate, never a paragraph to 
 ├── text-hooks.md          ← the plate rules
 ├── spanish.md             ← full-Spanish proliferation
 ├── levers.md              ← the seven levers (language, narrative, structure, awareness, angle, format, revive)
-├── movie.md               ← multi-speaker long-form: scenes, cast, the narrator carries the sell (draft)
+├── movie.md               ← movie ads: the winners' skeleton, perspective, script shape; breakdowns in archive/movie-ads/ (draft)
 ├── song.md                ← song ads: the winners' story skeleton, perspective, mood map; transcripts in archive/song-ads/ (draft)
 ├── broll.md               ← b-roll / overlay cues for talking heads, on request (draft)
 ├── LFS.md                 ← long-form statics: the Rosabella winner patterns, UA-indirect vs UA-direct, the P.S. stack
