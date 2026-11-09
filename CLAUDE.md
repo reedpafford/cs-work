@@ -75,6 +75,7 @@ Reed is the writer and the strategist: ideates, writes the front of every script
 | "LFS" / "long-form static" / "transpose this Rosabella LFS" / "write the unaware static" | `LFS.md` — what is mechanically different when the ad is one photo and a wall of text; the Rosabella patterns; the two UA forms |
 | "movie" / "make this a movie" / `Format: Movie` | `movie.md` — several speakers, scenes, long run time; the shape, the narrator rule, the scanner mode (DRAFT until Reed edits one) |
 | "text hooks" | `text-hooks.md` |
+| "song" / "make this a song" / "song version of JC##" | `song.md` — a spoken script that gets sung: the story skeleton from the winning song ads, the narrator rule, the mood map (DRAFT until Reed runs one) |
 | "b-roll" / "b-roll for V1" / "overlay ideas" (on request only) | `broll.md` — a `### B-roll` section under the variation's Script: cue → shot, and what never goes on screen |
 | "Spanish version" / "translate RP##" | `spanish.md` |
 | "proliferate RP##" / "build off this winner" / "lever-map this" | `levers.md` — the seven levers for this brand, what's proven, the use pattern |
@@ -94,6 +95,7 @@ A miss adds one line to one runbook or one test to a gate, never a paragraph to 
 ├── spanish.md             ← full-Spanish proliferation
 ├── levers.md              ← the seven levers (language, narrative, structure, awareness, angle, format, revive)
 ├── movie.md               ← multi-speaker long-form: scenes, cast, the narrator carries the sell (draft)
+├── song.md                ← song ads: the winners' story skeleton, perspective, mood map; transcripts in archive/song-ads/ (draft)
 ├── broll.md               ← b-roll / overlay cues for talking heads, on request (draft)
 ├── LFS.md                 ← long-form statics: the Rosabella winner patterns, UA-indirect vs UA-direct, the P.S. stack
 ├── edits.md               ← Reed's manual edits, logged as ❌/✅ pairs
