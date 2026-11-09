@@ -30,8 +30,8 @@ for line in text.splitlines():
         if m.group(1) == "##": variation = m.group(2).strip()
         elif m.group(1) == "###" and m.group(2).strip().lower() == "script":
             cur = [variation or "Script", []]
-        elif m.group(1) == "###" and m.group(2).strip().lower() == "b-roll":
-            cur = [(variation or "") + " B-roll", [], "broll"]
+        elif m.group(1) == "###":  # Text Hook, B-roll, Notes: not speech, banned words only
+            cur = [f"{variation} {m.group(2).strip()}".strip(), [], "other"]
         continue
     if cur is not None:
         cur[1].append(line.replace("**", ""))  # bold marks Claude's new lines; not part of the script
@@ -42,7 +42,7 @@ for block in blocks:
     body = "\n".join(lines).strip()
     if not body:
         continue
-    if len(block) > 2:  # B-roll: shot notes, not speech; only the banned-word rule applies
+    if len(block) > 2:  # non-Script sections: not speech; only the banned-word rule applies
         bad = [f"FAIL BANNED WORD: {l.strip()[:90]}" for l in lines if BANNED.search(l)]
         if bad: failures.append(f"{name}:\n  " + "\n  ".join(bad))
         continue
