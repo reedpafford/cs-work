@@ -13,7 +13,7 @@
 Same job as every ad: install the one belief (her daughter could be assaulted at any moment, and a personal alarm is how you stop it) and get the parent to buy. A movie does it with scenes the viewer watches instead of a story she's told. Length is never the problem; a boring scene is (principle 1). The winners hold 6 to 14 minutes because every scene either hurts, explains, or pays off.
 
 ## The skeleton (all four winners)
-1. **Cold open = the wound, in the scene, in the first line of dialogue.** Not a narrator, not a setup. Granny pats her stomach: "When are you due?" The guys in the diner: "That's Bear's wife." The hook is said *by someone in the scene*, and the viewer understands it on one listen. For us the hook is a flash-forward to the worst moment in the body, with the keyword spoken (hooks.md still rules: predator, abducted, assaulted, never a stand-in). If a narrator line rides over it, it's one sentence.
+1. **Cold open = the wound, in the scene, in the first line of dialogue. Nobody talks to the camera (Reed, RP5, 2026-11-09: "It is a movie, they don't talk to the viewers.").** Granny pats her stomach: "When are you due?" The guys in the diner: "That's Bear's wife." The hook is said by one character to another, and the viewer understands it on one listen. No narrator line, no V.O. over the hook, not even one sentence. The keyword is spoken by whoever would really say it: the officer on the phone, the witness calling 911, the detective at the table (hooks.md still rules: predator, abducted, assaulted, never a stand-in). The plate carries the rest. For us it's a flash-forward to a moment in the body.
 2. **The wound happens in public.** Someone else does it, out loud, with witnesses: the whole bleacher section boos; the mean friend says it in her ear; the club knew for months. For us: the manager ten feet away, the lot full of people, the store that knew for two weeks.
 3. **The private low point, mostly silent.** Alone at the truck, the bathroom mirror, the car in the driveway with the engine off. One or two V.O. lines over held shots of a face. This is where the lead says the one line that names the identity the wound broke ("I was the pretty one my whole life." · "I used to be the scariest man in that club.").
 4. **The expert, in a long dialogue scene.** A friend who used to have it, a guy at the gym, a boxing coach, a 92-year-old father. Always someone who lived it, never a salesman. This is the longest scene in every winner (two to three minutes) and the only place long speeches are allowed. Ours: the detective at the kitchen table.
@@ -28,7 +28,8 @@ Same job as every ad: install the one belief (her daughter could be assaulted at
 13. **The close is the lead's V.O. over product shots:** the story in one sentence aimed at the viewer ("If you were always the pretty one and somewhere along the way you got puffy…"), the mechanism in one sentence, the dose, the offer, the guarantee, "if the button's still there, grab it." Ours adds the "Maybe" lines (song.md), the regret beat, the share CTA, and "Don't wait."
 
 ## Perspective
-**One narrator, and it's the lead: the person the movie is about, on screen.** In all four the lead carries every V.O. line and the close. Other characters only speak in scenes. On RP5 Reed called for the daughter's side, so Paige narrates and the mother is a character; the mother's regret and the product facts come out in scenes (Dana at the detective's table), and Paige carries them in the close ("my mom almost didn't buy it"). Untested whether the daughter's voice or the mother's sells harder; the swap is one pass on the V.O. lines.
+**It's a movie: the story is told by people talking to each other, never to the viewer, until the close.** The lead is on screen and is the one the movie is about. Mid-story V.O. is only a short thought in the moment, in the lead's head ("Weird. But whatever." · "Something was moving. I didn't tell anybody."), never narration that explains or sets up ("you need to know who I am first" is out). Anything a narrator would explain becomes a scene or a line between characters: her toughness is her brother on the floor yelling "she broke my nose"; the freeze is her answer when the officer asks "Did you scream?"; the mother's guilt is said to the daughter. **The close is the only place the lead speaks to the viewer**, in V.O. over product shots, the way all four winners end.
+On RP5 Reed called for the daughter's side, so Paige is the lead and the close is hers; the mother's regret and the product facts come out in scenes (Dana at the detective's table). Untested whether the daughter's or the mother's voice sells harder in the close.
 
 ## The shape (in the script file)
 ```
@@ -42,11 +43,11 @@ Cast: Paige (16, narrates) · Dana (her mom, 40s) · the detective (50s, flat an
 ### Text Hook
 <the plate>
 ### Script
-[SCENE 1 — Target parking lot, just after sunset]
-(a white van with no windows rolls up three spaces away)
-Paige (V.O.): Three predators tried to abduct me in a Target parking lot.
-(she opens her mouth and nothing comes out)
-Dana: Baby, slow down. I can't understand you.
+[SCENE 1 — the kitchen at home, just after sunset]
+(Dana's phone on the counter shows Paige's dot sitting in the Target parking lot)
+Dana: Hey, did you get the eggs?
+Officer (on the phone): Ma'am, your daughter's safe. Three men just tried to abduct her in the Target parking lot.
+(Dana slides down the cabinet to the kitchen floor)
 ```
 - `[SCENE n — place, time]` opens each scene. `(…)` is what the camera sees, one visual per line (principle 2), so a silent beat is its own line: `(she looks at the manager)` · `(she opens her mouth, then closes it)`. `Name: line` is speech. `(V.O.)` is voice-over, `(O.S.)` off screen, `(on the phone)` for a voice on a call.
 - **Silence is written, not implied.** The winners run 15 to 30 second stretches with no words: the montage, the low point, the payoff walk-in. Write each shot as its own direction line so the editor knows the beat is there.
@@ -65,7 +66,7 @@ Dana: Baby, slow down. I can't understand you.
 
 ## Before handing it back
 - The scanner runs on every edit in Movie mode: banned words fail anywhere (speech or direction), symbols and ALL CAPS fail in speech, fragment and repeated-shape checks are off. Plate text shows up as "(unlabeled)" words; that's expected.
-- Read the narrator's lines alone, top to bottom: they should tell the whole story as a talking head. If they don't, the sell is leaning on a scene the viewer might scroll past.
+- Read every V.O. line before the close: each one is a thought in the moment, never a sentence to the viewer. If one explains or sets up, turn it into a scene or a line between characters.
 - Read the cast list against the skeleton: who wounds, who explains, who doubts, who notices. A movie missing one of those is missing a beat.
 
 ## Open, for Reed
