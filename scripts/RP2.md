@@ -50,14 +50,55 @@ If your daughter's at college, these weeks right now, between move-in and Thanks
 **Share this with every mom and dad you know so their daughter doesn't get abducted or assaulted.**
 Click the link below before they sell out again. Don't wait until it's too late.
 
+### B-roll
+- whole video → him on his own front porch, late fifties, gray beard, pearl-snap shirt, wedding ring, a flag hanging soft and out of focus behind him; one setting the whole way, so every cut away comes back home to him
+- "I voted for a closed border for this exact reason" → open tight on his face, already mid-thought, no establishing shot
+- "she never came home" → a pair of women's running shoes by a front door, laces still tied, morning light moving across them
+- "they let him go" → a holding-cell door sliding open, a man's back walking out into daylight, no face
+- "Her daddy never got to walk her down the aisle" → an empty church aisle in sunlight, one white bow on the end of a pew, slow push down it
+- "that makes my blood boil" → stay on his face, his jaw working, no cut
+- "One in six women in this country" → six college girls walking across a lawn, the camera drifts and settles on one of them
+- "somebody new every sixty-eight seconds" → a kitchen wall clock, the second hand sweeping
+- "I looked up the cases near our town" → his reading glasses on, a laptop at the kitchen table at night, a map of his town with red pins on it
+- "I'm the guy who checks the locks twice before bed" → his hand turning the deadbolt, then trying the knob again, porch light clicking on
+- "It takes a predator about thirty seconds" → a phone stopwatch running, 0:30 next to 15:00
+- "a man protects his family" → an old photo on the fridge, him in his thirties with a little girl on his shoulders
+- "three hours from home" → his phone on the dash, the map from his house to her campus, 3 hr 4 min
+- "she runs every morning" → his daughter tying her running shoes in a dorm room before sunrise, earbuds in, out the door
+- "I can't, I can't be there" → stay on him, no cut; hold one second longer than feels right before the next line
+- "She grew up shooting with me out back" → tin cans lined up on a fence rail, a little girl in oversized ear muffs laughing next to him
+- "they don't stand a chance against a man with nothing to lose" → an empty running path at dawn, fog, nobody else on it
+- "If one person gets even a glimpse of his face, or his truck" → porch lights coming on one by one down a quiet street, a neighbor pulling back a curtain
+- "pull one pin" → the real alarm in her hand, pin out, strobe flashing, a coffee shop full of people turning toward the sound
+- "She called me crying" → his phone lighting up on the nightstand in the dark, Savannah on the screen
+- "digging through her drawers looking for it" → a dorm drawer pulled open, things shoved aside, her hand closing on the alarm
+- "She clipped it right onto her keychain" → close-up, the alarm clipping onto a ring next to her car key
+- "it'd go off in class" → the alarm on her backpack strap under a lecture hall desk, sitting quiet
+- "the cheap colorful ones on Amazon are garbage" → a cracked pastel alarm in a junk drawer, no brand showing, the button pressed and nothing happens
+- "The one I trust is a tiny company called Palace Guard" → the alarm in his big rough hand, then set down on the porch rail next to his truck key, same size
+- "A detective gal makes them in small batches" → a woman's hands at a workbench, packing alarms into small boxes, a short stack ready to ship
+- "it came with two free" → five alarms laid out on the tailgate of his truck
+- "keys, backpacks, and even keep some spare ones laying around" → quick cuts: on her keys, on her backpack, on her gym bag, one in the glovebox
+- "between move-in and Thanksgiving" → move-in day, boxes and a mini fridge on a dolly, a mom and dad hugging their girl goodbye at the car
+- "in the places you'd least expect" → a sunny quiet street, a sprinkler going, a girl jogging past
+- "I think about Laken's daddy every time I see my daughter's keys" → her keys on the hook by his front door from her last visit home, the alarm hanging there, slow push in
+- "Share this with every mom and dad you know" → back on his face to the end, looking straight into the lens
+
 ## V2
 ### Text Hook
 PREDATORS are crossing our BORDER…😳
 ### Script
 Parents, our daughters' lives are in danger. There are more undocumented criminals on our streets than you can count, and that problem ain't going away any time soon.
 
+### B-roll
+- "Parents, our daughters' lives are in danger" → open tight on his face on the porch, no cut until the Laken line
+
 ## V3
 ### Text Hook
 AMERICA is under ATTACK…🚨
 ### Script
 America is under attack. Our borders are weak, and we as fathers need to protect our daughters, even if we aren't with them.
+
+### B-roll
+- "America is under attack" → the flag on his porch moving in the wind, then his face
+- "even if we aren't with them" → her childhood bedroom at his house, bed made, a high school swim ribbon on the wall, nobody in it
