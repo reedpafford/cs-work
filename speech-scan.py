@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Readiness scanner for ad drafts. Usage: speech-scan.py draft.txt [--pass] [--lfs]
+"""Readiness scanner for ad drafts. Usage: speech-scan.py draft.txt [--pass] [--lfs | --movie]
 Default (spoken script): flags fragment runs, repeated sentence shapes, digits, symbols, caps,
 filler budget, word count.
 --lfs (long-form static, read not spoken): digits and $ are receipts and fragments are rhythm,
@@ -113,6 +113,36 @@ def scan(text, lfs=False):
     return hard, soft, words
 
 
+SPEAKER = re.compile(r"^\s*([A-Z][\w .'-]{0,40}?)\s*(\((?:V\.O\.|O\.S\.|[^)]{0,20})\))?\s*:\s*(.*)$")
+
+def scan_movie(text):
+    """Movie mode (movie.md): banned words fail anywhere, speech or direction. Symbols and ALL CAPS fail in speech.
+    Fragment runs and repeated shapes are off: dialogue is short by nature."""
+    hard, soft = [], []
+    lines = [l for l in text.splitlines() if l.strip()]
+    speech_words, speakers, scenes = 0, {}, 0
+    for ln, line in enumerate(lines, 1):
+        hits = BANNED.findall(line)
+        if hits:
+            hard.append(f"L{ln} BANNED WORD {sorted(set(h[0] if isinstance(h, tuple) else h for h in hits))}: say 'assaulted' or 'abducted', imply death: {line[:90]}")
+        bare = line.strip()
+        if bare.startswith("["):
+            scenes += 1; continue
+        if bare.startswith("("):
+            continue
+        m = SPEAKER.match(line)
+        who, said = (m.group(1).strip(), m.group(3)) if m else ("(unlabeled)", bare)
+        said = re.sub(r"\([^)]*\)", "", said)
+        speakers[who] = speakers.get(who, 0) + len(said.split())
+        speech_words += len(said.split())
+        if re.search(r"[$%]", said): hard.append(f"L{ln} SYMBOL: {line[:80]}")
+        caps = [w for w in re.findall(r"\b[A-Z]{3,}\b", said) if w not in CAPS_OK]
+        if caps: hard.append(f"L{ln} ALL CAPS {caps}: {line[:80]}")
+    soft.append(f"SCENES: {scenes}  SPOKEN WORDS: {speech_words}  ~{speech_words/160:.1f} min @160wpm")
+    soft.append("SPEAKERS: " + ", ".join(f"{k} {v}w" for k, v in sorted(speakers.items(), key=lambda x: -x[1])))
+    return hard, soft, speech_words
+
+
 def norm(s):
     """Shared normalization: strip Notion markup, cut at Primary Text, drop **header** lines, collapse whitespace."""
     s = re.sub(r'<[^>]+>', ' ', s)
@@ -140,8 +170,9 @@ if __name__ == "__main__":
     if len(sys.argv) < 2: print(__doc__); sys.exit(2)
     text = open(sys.argv[1]).read()
     lfs = "--lfs" in sys.argv
-    hard, soft, _ = scan(text, lfs=lfs)
-    print("MODE:", "LFS (read)" if lfs else "SCRIPT (spoken)")
+    movie = "--movie" in sys.argv
+    hard, soft, _ = scan_movie(text) if movie else scan(text, lfs=lfs)
+    print("MODE:", "MOVIE (scenes, several speakers)" if movie else "LFS (read)" if lfs else "SCRIPT (spoken)")
     for h in hard: print("FAIL", h)
     for s in soft: print("NOTE", s)
     if hard:

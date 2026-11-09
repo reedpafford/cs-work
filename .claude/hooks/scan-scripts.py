@@ -14,6 +14,7 @@ if not (rel.startswith("scripts" + os.sep) and rel.endswith(".md")):
 
 text = open(path, encoding="utf-8").read()
 lfs = re.search(r"^Format:.*\bLFS\b|·\s*Format:\s*LFS", text, re.M | re.I) is not None
+movie = re.search(r"Format:\s*Movie\b", text, re.I) is not None
 scanner = os.path.join(root, "speech-scan.py")
 
 variation, failures = "", []
@@ -37,7 +38,7 @@ for name, lines in blocks:
         continue
     with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False) as f:
         f.write(body)
-    args = [sys.executable, scanner, f.name] + (["--lfs"] if lfs else [])
+    args = [sys.executable, scanner, f.name] + (["--movie"] if movie else ["--lfs"] if lfs else [])
     out = subprocess.run(args, capture_output=True, text=True).stdout
     os.unlink(f.name)
     fails = [l for l in out.splitlines() if l.startswith("FAIL")]
