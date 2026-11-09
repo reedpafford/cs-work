@@ -49,6 +49,54 @@ I think about her mother every time I see my daughter’s keys. That keychain is
 Share this with every mother you know so their daughter doesn’t get abducted or assaulted.
 Click the link below before they sell out again. Don’t wait until it’s too late.
 
+### B-roll
+- "went for a morning run on her college campus" → a first-person run at sunrise, sneakers on a paved trail, earbuds in, breath in the cold air
+- "she never came home" → the same trail, same angle, empty; one earbud lying in the leaves
+- "crossed our border illegally" → a border fence at dusk, the infrastructure only, no people in frame
+- "or a granddaughter" → a grandmother's thumb scrolling phone photos of a girl: kindergarten, prom, graduation
+- "around nine on a Thursday morning" → a phone lock screen, 9:02 AM, Thursday
+- "broad daylight, on a college campus" → wide shot, a sunny quad full of students with backpacks
+- "his skin under her fingernails" → a sealed evidence envelope on a steel table, a gloved hand writing the label
+- "She never came home." → a roommate's phone, a text thread going unanswered: "where are you" · "call me" · "Laken??"
+- "Her parents didn't see their daughter again" → a kitchen table set for three, one chair pushed in and untouched
+- "life without parole" → a courtroom from the back row, then a cell door closing
+- "At the border, then again in New York" → split screen: a border gate swinging open, a man's back walking out of a police station into the street
+- "that makes me sick to my stomach" → no cut, slow push in on her face
+- "the people being elected into these government positions" → a TV in a dark living room, election night map, muted
+- "I stayed up late that night" → laptop glow in a dark kitchen, reading glasses, the microwave clock at 1:14
+- "One in six women" → six college girls walking side by side, one of them slowly goes gray and fades out of the shot
+- "somebody new every sixty-eight seconds" → a kitchen clock's second hand, a small counter ticking up in the corner
+- "at or near her own home" → a front porch light flicking on, a girl's car in the driveway
+- "I looked up the cases near my town" → a map on the laptop, pins dropping one by one around a house pin in a cul-de-sac
+- "the safest area around" → a quiet street, sprinklers, a kid on a bike, an American flag on a porch
+- "ten or fifteen minutes" / "about thirty seconds" → split screen: a patrol car stopped at a red light, against a stopwatch hitting thirty
+- "a sophomore, three hours from home" → move-in day, the mom's car pulling away, the girl waving in the rearview mirror
+- "she runs every morning, just like Laken did" → match cut to the opening run: same trail, same sneakers, now Brooke
+- "She grew up shooting with her daddy" → a dad and a little girl in his truck at sunrise, orange caps, her feet on the dashboard; no gun in frame
+- "won't let her carry pepper spray" → a student handbook page, "prohibited items" highlighted in yellow
+- "But Laken fought too." → no cut, hold on her face
+- "a man with nothing to lose" → the empty trail again, a figure far off at the tree line, out of focus
+- "sends these men running is attention" → a coffee shop, every head looking up from their phones at once
+- "a glimpse of his face, or his car" → a doorbell camera still, a license plate sharp in the corner
+- "That's why he goes for her mouth first." → no cut, stay on her face
+- "pull one pin" → extreme close-up, the pin coming out, the strobe firing
+- "every head on that street turns" → a sidewalk at dusk, people turning one after another, windows lighting up down the block
+- "She said it was embarrassing" → the alarm tossed into a dresser drawer with hair ties and old chargers, drawer shut
+- "She called me crying" → a phone lighting up on a nightstand, 11:48 PM, "Brooke 💕"
+- "digging through her drawers looking for it" → the same drawer yanked open, hands throwing things out, the alarm found
+- "barely even noticeable" → her keys on a table, the alarm smaller than the car key
+- "going off in lectures" → a lecture hall, a backpack on the floor, the alarm clipped to the strap
+- "peace of mind" → the mother turning off her bedside lamp, phone face down
+- "the cheap colorful ones on Amazon" → a pile of pastel alarms, one cracked on pavement, a dead battery rolling out
+- "Palace Guard" → the alarm in a dark room, strobe going, then sitting next to a car key on a kitchen scale
+- "a detective gal makes them in small batches" → a woman's hands at a workbench, a tray of alarms, a "sold out" screen on a phone
+- "buy three for some of her friends" → five alarms laid out on a bed, three girls clipping them to keys and backpacks in a dorm room
+- "the red zone" → fall leaves on a campus path, a girl walking alone at dusk with her keys out
+- "places you'd least expect" → the same safe street from earlier, now at night, one porch light on
+- "every time I see my daughter's keys" → the mother lifting her daughter's keys off the hook by the door, the alarm on them, holding them a second too long
+- "Share this with every mother you know" → no cut, on her face, she looks straight in the lens
+- "Click the link below" → keys swinging from a car ignition, the alarm catching the light
+
 ## V2
 ### Text Hook
 AMERICA is UNDER ATTACK…‼️
@@ -56,9 +104,21 @@ AMERICA is UNDER ATTACK…‼️
 ### Script
 America is under attack. Our borders are weak, and we as parents need to look out for our children. No one else is going to.
 
+### B-roll
+- "America is under attack" → a flag on a porch snapping in the wind, gray sky
+- "Our borders are weak" → a gap in a border fence at dusk, no people in frame
+- "we as parents need to look out for our children" → a dad on the porch steps watching his girls ride bikes down the driveway
+- "No one else is going to." → a phone screen, a 911 call on hold, the timer running
+- the rest → as V1, from "or a granddaughter"
+
 ## V3
 ### Text Hook
 MIDTERMS made your DAUGHTER LESS SAFE…😰
 
 ### Script
 Parents, after these midterms, your daughter is less safe than she was a week ago.
+
+### B-roll
+- "after these midterms" → an "I Voted" sticker on a fridge, next to a girl's college photo
+- "your daughter is less safe than she was a week ago" → a girl walking alone to her car in a campus lot at dusk, keys in hand
+- the rest → as V1, from "or a granddaughter"
