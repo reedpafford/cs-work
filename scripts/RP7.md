@@ -9,29 +9,23 @@ Parent: JC31 · Lever: L6 Format (Zack D)
 2. Her mom had sent her in for eggs after volleyball practice.
 3. In the first aisle, there's a man in a gray sweatsuit and work boots, with no cart.
 4. In the next aisle, another one. Same sweatsuit, same boots. Then a third.
-5. Every aisle she turns down, one of them walks past the end of it. Now it's suspicious.
-6. She checks out, and walks right past a manager, without saying anything.
-7. Halfway to her car, a red Suburban rolls up, and two of them get out and walk straight at her.
-8. She tries to scream, but nothing comes out.
-9. She begins to panic, and then she remembers something.
-10. There's a little alarm on her keys, so she drops the eggs and pulls the pin.
-11. A siren as loud as an ambulance rips across the parking lot, and every head turns at once.
-12. The men look at each other, walk back to the Suburban and drive off, and the kid pushing carts gets the plate.
-13. The sheriff on the scene reported that plate matched two other girls that same week, and said she was lucky to have the alarm.
-14. She called her mom and thanked her for getting her the alarm.
-**She calls her mom from the front seat, still holding her keys.**
-15. The sheriff asked where she had gotten it. He has two daughters of his own.
-**The sheriff asks where she got the alarm, because he has two daughters of his own.**
-16. She told him it was from a small company called Palace Guard.
-17. He got on his phone and ordered 3 and got two free.
-**It's called Palace Guard, and before he leaves the lot, he's ordered three for his girls.**
-18. He even said his daughters loved the colors.
-**A week later, his two daughters are fighting over who gets which color.**
+5. She checks out, and walks right past a manager, without saying anything.
+6. Halfway to her car, a red Suburban rolls up, and two of them get out and walk straight at her.
+7. She tries to scream, but nothing comes out.
+8. She begins to panic, and then she remembers something.
+9. There's a little alarm on her keys, so she drops the eggs and pulls the pin.
+**10. The pin pulls free, and a siren as loud as an ambulance rips across the parking lot, and every head turns at once.**
+11. The men look at each other, walk back to the Suburban and drive off, and the kid pushing carts gets the plate.
+**12. The sheriff on the scene says that plate matched two other girls that same week, and that she's lucky to have the alarm.**
+**13. She calls her mom from the front seat, still holding her keys.**
+**14. The sheriff asks where she got the alarm, because he has two daughters of his own.**
+**15. It's called Palace Guard, and before he leaves the lot, he's ordered three for his girls.**
+**16. A week later, his two daughters are fighting over who gets which color.**
 
 ### Notes
 Title: Eggs at Target
-Length: ~85 s (about 260 words, with the bold tail)
+Length: ~85 s (about 250 words)
 Gag: the cart kid hands her the egg carton, and every egg is smashed except one.
-45-50 s cut: drop lines 3, 5, 6, 9 (about 145 words left); a true 30 s needs the story told again from scratch
-Hardest line to show: 5, "Now it's suspicious."
+Shorter cut, if wanted: drop lines 3, 5, 8 (about 215 words, ~70 s)
+Hardest line to show: 8, "She begins to panic, and then she remembers something."
 On-screen text after the gag: Buy 3, get 2 free · under $20 each · 30-day guarantee
