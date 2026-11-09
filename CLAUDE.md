@@ -104,6 +104,7 @@ A miss adds one line to one runbook or one test to a gate, never a paragraph to 
 # RP1 — <working title>
 Persona: mother · Awareness: PA · Format: Authority
 Status: drafting
+Parent: — · Lever: —
 
 ## V1
 ### Text Hook
@@ -112,7 +113,7 @@ Status: drafting
 <hook line>
 <the body, one beat per line>
 ```
-V2 and V3 repeat the `## V#` block (usually a new hook on the same body). A long-form static has `Format: LFS` and only a `### Script` section holding the whole post. The hook in `.claude/` scans every `### Script` section after each edit (adds `--lfs` when the header says `Format: LFS`); a hard fail (a banned word, a fragment run, a symbol, ALL CAPS) gets fixed before I hand the script back. Run the scanner by hand any time on a pasted draft.
+V2 and V3 repeat the `## V#` block (usually a new hook on the same body). `Parent` and `Lever` stay `—` on a net-new brief; a proliferation (a Spanish version, a new narrative on a winner, any `levers.md` pull) is its own new RP brief and names its source there, e.g. `Parent: RP3 · Lever: L1 Spanish`. A long-form static has `Format: LFS` and only a `### Script` section holding the whole post. The hook in `.claude/` scans every `### Script` section after each edit (adds `--lfs` when the header says `Format: LFS`); a hard fail (a banned word, a fragment run, a symbol, ALL CAPS) gets fixed before I hand the script back. Run the scanner by hand any time on a pasted draft.
 
 ## Git — I handle it (Reed, 2026-11-08)
 Reed doesn't do merges; I do. One Conductor workspace per brief, so several briefs can run at once without touching each other. Commit as the work moves (the script, and every runbook or `edits.md` change it taught).
