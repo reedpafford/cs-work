@@ -5,6 +5,7 @@ Parent: — · Lever: —
 
 ## V1
 ### Text Hook
+**ILLEGAL immigrant ATTACKED college girl…😳**
 
 ### Script
 A twenty-two-year-old nursing student went for a morning run on her college campus, and she never came home. The predator had crossed our border illegally.
@@ -50,12 +51,14 @@ Click the link below before they sell out again. Don’t wait until it’s too l
 
 ## V2
 ### Text Hook
+**AMERICA is UNDER ATTACK…‼️**
 
 ### Script
 America is under attack. Our borders are weak, and we as parents need to look out for our children. No one else is going to.
 
 ## V3
 ### Text Hook
+**MIDTERMS made your DAUGHTER LESS SAFE…😰**
 
 ### Script
 **Parents, after these midterms, your daughter is less safe than she was a week ago.**
