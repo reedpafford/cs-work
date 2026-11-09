@@ -52,6 +52,8 @@ Officer (on the phone): Ma'am, your daughter's safe. Three men just tried to abd
 - `[SCENE n — place, time]` opens each scene. `(…)` is what the camera sees, one visual per line (principle 2), so a silent beat is its own line: `(she looks at the manager)` · `(she opens her mouth, then closes it)`. `Name: line` is speech. `(V.O.)` is voice-over, `(O.S.)` off screen, `(on the phone)` for a voice on a call.
 - **Silence is written, not implied.** The winners run 15 to 30 second stretches with no words: the montage, the low point, the payoff walk-in. Write each shot as its own direction line so the editor knows the beat is there.
 - **V2 and V3 change only the cold open:** a different flash-forward from the body, then `(then V1 from SCENE 2 to the end)`.
+- **Each variation is named for its job** (Reed, RP5): `## V1 - Action start` · `## V2 - Moms POV` · `## V3 - Another action start`. Pick the jobs before writing the hooks: dropped into the action, the mother's side, a second way into the action.
+- **After the cold open, go straight into the day it happened** (Reed cut RP5's backstory scenes and the weeks-after montage). Who she is comes out in a line in the scene ("She's the most vocal girl on the block"), not a flashback; the proof is the event itself, so no proof montage unless Reed asks.
 
 ## Writing it
 1. **Short lines, people talking past each other.** Three to ten words is normal in a scene; interruptions and half-answers are how people talk. Only the expert gets runs of several sentences. Nobody tells someone what both already know.
