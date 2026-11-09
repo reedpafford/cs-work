@@ -7,6 +7,7 @@ Parent: RP1 · Lever: L5 Angle, mother → father
 ### Text Hook
 
 ### Script
+I voted for a closed border for this exact reason. If I have to hear about another one of these stories I'm gonna be sick.
 A twenty-two-year-old nursing student went for a morning run on her college campus, and she never came home. The predator had crossed our border illegally.
 If you have a daughter, or a granddaughter, this video could save her life. Please watch until the end.
 Her name was Laken, she was in nursing school down in Georgia, and she went out for a run around nine on a Thursday morning.
@@ -53,10 +54,10 @@ Click the link below before they sell out again. Don't wait until it's too late.
 ### Text Hook
 
 ### Script
-America is under attack. Our borders are weak, and **we as fathers need to protect our daughters.** No one else is going to.
+Parents, our daughters' lives are in danger. There are more undocumented criminals on our streets than you can count, and that problem ain't going away any time soon.
 
 ## V3
 ### Text Hook
 
 ### Script
-Parents, after these midterms, your daughter is less safe than she was a week ago.
+America is under attack. Our borders are weak, and we as fathers need to protect our daughters, even if we aren't with them.
