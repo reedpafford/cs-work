@@ -5,10 +5,10 @@ Parent: JC31 · Lever: L6 Format (song)
 
 ## V1
 ### Text Hook
-3 PREDATORS almost ABDUCTED my DAUGHTER…😳
+How PREDATORS ABDUCT GIRLS at TARGET…🚨
 
 ### Script
-**Three predators stalked my daughter through Target and pulled a van up right next to her. I almost lost my baby girl over a carton of eggs.**
+Stay alert, parents, predators have a new method of abducting girls at Target, and it almost happened to my daughter.
 **Paige is sixteen.** She's tallest in her class, and when she was fourteen, she broke her brother's nose because he grabbed her arm. She's the feisty one.
 **I sent her to Target for milk and eggs, right after the sun went down.**
 **She noticed three grown men in matching gray sweatsuits, and none of them had a cart.** Weird, but whatever.
@@ -47,10 +47,10 @@ Share this with every mother you know so their daughter doesn't get abducted or 
 
 ## V2
 ### Text Hook
-3 PREDATORS almost ABDUCTED my DAUGHTER…😳
+How PREDATORS ABDUCT GIRLS at TARGET…🚨
 
 ### Script
-**Three predators stalked my daughter through Target and pulled a van up right next to her. I almost lost my baby girl over a carton of eggs.**
+Stay alert, parents, predators have a new method of abducting girls at Target, and it almost happened to my daughter.
 **Paige is sixteen.** She's tallest in her class, and when she was fourteen, she broke her brother's nose because he grabbed her arm. She's the feisty one.
 **I sent her to Target for milk and eggs, right after the sun went down.**
 **She noticed three grown men in matching gray sweatsuits, and none of them had a cart.** Weird, but whatever.
@@ -89,10 +89,10 @@ Share this with every mother you know so their daughter doesn't get abducted or 
 
 ## V3
 ### Text Hook
-3 PREDATORS almost ABDUCTED my DAUGHTER…😳
+How PREDATORS ABDUCT GIRLS at TARGET…🚨
 
 ### Script
-**Three predators stalked my daughter through Target and pulled a van up right next to her. I almost lost my baby girl over a carton of eggs.**
+Stay alert, parents, predators have a new method of abducting girls at Target, and it almost happened to my daughter.
 **Paige is sixteen.** She's tallest in her class, and when she was fourteen, she broke her brother's nose because he grabbed her arm. She's the feisty one.
 **I sent her to Target for milk and eggs, right after the sun went down.**
 **She noticed three grown men in matching gray sweatsuits, and none of them had a cart.** Weird, but whatever.
