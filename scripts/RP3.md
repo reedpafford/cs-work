@@ -1,12 +1,11 @@
 # RP3 — Eggs at Target (song)
 Persona: mother · Awareness: PA · Format: Authority
-Status: drafting
+Status: final
 Parent: JC31 · Lever: L6 Format (song)
 
 ## V1
 ### Script
 Stay alert, parents, predators have a new method of abducting girls at Target, and it almost happened to my daughter.
-If you have a daughter, or a granddaughter, this video could save her life, please watch to the end.
 This was three weeks ago, on a Tuesday. Paige had volleyball practice, and I asked her to stop at Target on her way home and grab milk and eggs, it was just after sunset.
 And you need to know who Paige is. She's tallest in her class, and when she was fourteen, she broke her brother's nose because he grabbed her arm. She’s the feisty one.
 So she's in the store maybe ten minutes, and she notices this guy. Gray sweatsuit, work boots, no cart, hands in his pockets, he glanced at her and looked away.
@@ -19,7 +18,7 @@ And she told me every aisle she turned down, one of them walked past the end of 
 So she hurried to checkout and there was a manager standing right there by the self-checkout. And Paige didn't say a word to her.
 I asked her why. She said, Mom, I didn't want to be dramatic.
 And that's on me. I raised her not to make a fuss.
-So she pays for her milk and her eggs and she walks out to her car by herself, **way out at the end of the lot.**
+So she pays for her milk and her eggs and she walks out to her car by herself, way out at the end of the lot.
 She's almost to her door, she's got her keys in one hand and the bag in the other, when a white van with no windows slowly rolls up next to her car, bout three parking spaces away.
 Two of them get out, and walk right at her.
 And my daughter, who is the loudest one at dinner, could not move. She opened her mouth to scream and nothing came out.
@@ -57,7 +56,6 @@ If there's a link down below, they might have some left. Don't wait until it's t
 ## V2
 ### Script
 Stay alert, parents, predators have a new method of abducting girls at Target, and it almost happened to my daughter.
-If you have a daughter, or a granddaughter, this video could save her life, please watch to the end.
 This was three weeks ago, on a Tuesday. Paige had volleyball practice, and I asked her to stop at Target on her way home and grab milk and eggs, it was just after sunset.
 And you need to know who Paige is. She's tallest in her class, and when she was fourteen, she broke her brother's nose because he grabbed her arm. She’s the feisty one.
 So she's in the store maybe ten minutes, and she notices this guy. Gray sweatsuit, work boots, no cart, hands in his pockets, he glanced at her and looked away.
@@ -70,7 +68,7 @@ And she told me every aisle she turned down, one of them walked past the end of 
 So she hurried to checkout and there was a manager standing right there by the self-checkout. And Paige didn't say a word to her.
 I asked her why. She said, Mom, I didn't want to be dramatic.
 And that's on me. I raised her not to make a fuss.
-So she pays for her milk and her eggs and she walks out to her car by herself, **way out at the end of the lot.**
+So she pays for her milk and her eggs and she walks out to her car by herself, way out at the end of the lot.
 She's almost to her door, she's got her keys in one hand and the bag in the other, when a white van with no windows slowly rolls up next to her car, bout three parking spaces away.
 Two of them get out, and walk right at her.
 And my daughter, who is the loudest one at dinner, could not move. She opened her mouth to scream and nothing came out.
@@ -108,7 +106,6 @@ If there's a link down below, they might have some left. Don't wait until it's t
 ## V3
 ### Script
 Stay alert, parents, predators have a new method of abducting girls at Target, and it almost happened to my daughter.
-If you have a daughter, or a granddaughter, this video could save her life, please watch to the end.
 This was three weeks ago, on a Tuesday. Paige had volleyball practice, and I asked her to stop at Target on her way home and grab milk and eggs, it was just after sunset.
 And you need to know who Paige is. She's tallest in her class, and when she was fourteen, she broke her brother's nose because he grabbed her arm. She’s the feisty one.
 So she's in the store maybe ten minutes, and she notices this guy. Gray sweatsuit, work boots, no cart, hands in his pockets, he glanced at her and looked away.
@@ -121,7 +118,7 @@ And she told me every aisle she turned down, one of them walked past the end of 
 So she hurried to checkout and there was a manager standing right there by the self-checkout. And Paige didn't say a word to her.
 I asked her why. She said, Mom, I didn't want to be dramatic.
 And that's on me. I raised her not to make a fuss.
-So she pays for her milk and her eggs and she walks out to her car by herself, **way out at the end of the lot.**
+So she pays for her milk and her eggs and she walks out to her car by herself, way out at the end of the lot.
 She's almost to her door, she's got her keys in one hand and the bag in the other, when a white van with no windows slowly rolls up next to her car, bout three parking spaces away.
 Two of them get out, and walk right at her.
 And my daughter, who is the loudest one at dinner, could not move. She opened her mouth to scream and nothing came out.
