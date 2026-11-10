@@ -1,5 +1,5 @@
 > Trigger (Reed, 2026-11-09): "Zack D" · "Zack D version of RP##" · "make this Zack D" · `Format: Zack D`. On call only, never unasked. Usually a proliferation: its own RP brief with `Parent: RP## · Lever: L6 Format`.
-> **This style overrides the house voice where they conflict:** third-person present-tense narrator instead of the persona; no fillers, stumbles or real-speech toolkit; no regret beat, no share CTA, no "Don't wait," no offer in the narration; and I write the words when asked, even with no supplied script. **What never changes:** the word rule (CLAUDE.md principle 8: "assaulted"/"abducted" ceiling, death implied) and the image rule (nothing on screen that shows or suggests a sexual threat, no weapons in frame), which matter more here because every line becomes a shot.
+> **This style overrides the house voice where they conflict:** third-person present-tense narrator instead of the persona; no fillers, stumbles or real-speech toolkit; no regret beat, no share CTA, no "Don't wait"; the offer is spoken once, in the close (The close, below); and I write the words when asked, even with no supplied script. **What never changes:** the word rule (CLAUDE.md principle 8: "assaulted"/"abducted" ceiling, death implied) and the image rule (nothing on screen that shows or suggests a sexual threat, no weapons in frame), which matter more here because every line becomes a shot.
 > **In the script file:** the numbered lines go in `### Script` (one per line, keep the numbers); `Title`, `Length`, `Gag`, `30 s cut`, `Hardest line to show` and `On-screen text after the gag` go in a `### Notes` section under it.
 
 # How to write a Zack D-style script
@@ -18,8 +18,8 @@ Your job is the words only. Every line will become a shot, so write lines a came
 2. **Then one chain of cause and effect, in the order it physically happens.** This happens, so that happens, then this, which means that. Each clause names the thing the camera has just reached.
 3. **Time passing is a picture, not a summary.** Write "Two weeks later…" and the picture shows it (a calendar flipping, the moon crossing a window).
 4. **Put one surprising number or detail in the middle.** "A whole armful gives up just a few drops." "That plate matched two other girls that same week."
-5. **End on the payoff, then one silent visual gag.** The gag lands just under a second after the last word: a sneeze, a deadpan look, someone flopping back to sleep, a smashed carton of eggs. Write it as a note under the script, not as a line. It's one small action, never a routine.
-6. **No sign-off.** No "follow for more", no "share this", no slogan, no question to the viewer.
+5. **End on the payoff, then one silent visual gag.** The gag lands just under a second after the last word: a sneeze, a deadpan look, someone flopping back to sleep, a smashed carton of eggs. Write it as a note under the script, not as a line. It's one small action, never a routine. In a brand ad the gag sits on the payoff line, before the close, because the last shot belongs to the product.
+6. **Then the close, which is the ask** (see The close). No "follow for more", no "share this", no slogan, no question to the viewer.
 
 Two variations the originals use:
 - **Why, then why else:** show the act, then reason one acted out as a quick scene, then reason two the same way, then what it costs.
@@ -49,7 +49,21 @@ Two variations the originals use:
 ## The product
 - It enters as one link in the chain, at the moment it physically does something ("so she drops the eggs and pulls the pin"), never as a pitch.
 - Name it once, late, plainly: "The alarm is called Palace Guard." One credible proof line can follow (an expert who uses it themselves).
-- Price, discounts, guarantees and "sold out" don't go in the narration. If wanted, list them separately as on-screen text for after the gag.
+- The offer is spoken once, in the close, never earlier.
+
+## The close (Reed's references, 2026-11-09, transcripts in `archive/zackd-ads/`)
+Both brand ads in this style end on a spoken ask, in the same flat voice as the rest, in two or three lines:
+1. **A crowd number:** how many people already use it. "the same signal thousands of women are already getting with Vital Drops." · "Over 250,000 families use this bait every summer."
+2. **The offer and the link, one line:** "Buy two, get one free with the link below." · "And right now, you can try it up to 41% off when you bundle. Click below to get yours while stocks still last."
+
+The picture under the close is the product itself: a warehouse stacked with the boxes, then a hand holding one box with the website above it. In a story ad the expert proof line (the sheriff ordering three) already does the crowd's job, so the close swaps the crowd number for the founder's scarcity and puts the per-unit price in the offer (Reed, RP7): "A detective makes them in small batches, and the last batch is almost gone." · "Right now, you can buy three and get two free, for less than twenty dollars each, with the link below."
+
+The references also show the product-led form, where the product is the subject from line 1 and the story is what it does:
+- **Line 1 points at the product:** "This is what would happen to a skinny woman and the men around her if she drank two droppers of this every morning." · "When you mix this mosquito slayer bait with warm water, it activates…"
+- **A time ladder carries the middle:** "Within a few weeks…" · "By day three…" · "After a full week…"
+- **The mechanism names its parts:** "Maca root, fenugreek, and ashwagandha work together…"
+- **One line knocks down what she tried before:** "That's why the gym never worked."
+- **"You" is allowed** when the product is for the viewer ("your yard", "you can sit outside"); a story about someone else stays in the third person.
 - If a script is supplied, keep its words. Only change what you were asked to change, and flag any line that's hard to show, with an optional rewording.
 
 ## What to deliver
@@ -60,11 +74,14 @@ Length: ~NN s (NNN words)
 1. <line>
 2. <line>
 ...
+N. <crowd number>
+N. <offer + link below>
 
-Gag: <one silent visual beat after the last word>
+See-inside: <line N, what the breakdown opens up>
+Gag: <one silent visual beat on the payoff line>
 30 s cut: drop lines X, Y, Z
 Hardest line to show: <line, and a suggested rewording>
-On-screen text after the gag (optional): <price / offer>
+End card: <the product shot and the website>
 ```
 Don't write speaker labels like "NARRATOR:" (one narrator reads everything). Don't write captions, music or camera directions; those come later.
 
