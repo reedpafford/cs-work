@@ -50,7 +50,7 @@ I asked the detective about those other two girls. He said one of them was safe.
 But he told me one thing I can’t forget.
 The only reason Paige is still here is because she made noise. She didn’t need to physically stop them. She couldn’t have. The only thing that really stops these animals is their own decision. And she can make it for them if she makes herself too risky to grab.
 Look, an alarm isn’t a force field, but drawing attention is the most powerful defense she has.
-He’s said he has sat with parents whose girls froze just like Paige, but nobody heard them. By the time they’re taken to that second location, it’s too late.
+He said he’s sat with parents whose girls froze just like Paige, but nobody heard them. By the time they’re taken to that second location, it’s too late.
 Share this with every parent you know so their daughter doesn't get abducted or assaulted.
 If there's a link down below, they might have some left. Don't wait until it's too late.
 
@@ -101,7 +101,7 @@ I asked the detective about those other two girls. He said one of them was safe.
 But he told me one thing I can’t forget.
 The only reason Paige is still here is because she made noise. She didn’t need to physically stop them. She couldn’t have. The only thing that really stops these animals is their own decision. And she can make it for them if she makes herself too risky to grab.
 Look, an alarm isn’t a force field, but drawing attention is the most powerful defense she has.
-He’s said he has sat with parents whose girls froze just like Paige, but nobody heard them. By the time they’re taken to that second location, it’s too late.
+He said he’s sat with parents whose girls froze just like Paige, but nobody heard them. By the time they’re taken to that second location, it’s too late.
 Share this with every parent you know so their daughter doesn't get abducted or assaulted.
 If there's a link down below, they might have some left. Don't wait until it's too late.
 
@@ -152,6 +152,6 @@ I asked the detective about those other two girls. He said one of them was safe.
 But he told me one thing I can’t forget.
 The only reason Paige is still here is because she made noise. She didn’t need to physically stop them. She couldn’t have. The only thing that really stops these animals is their own decision. And she can make it for them if she makes herself too risky to grab.
 Look, an alarm isn’t a force field, but drawing attention is the most powerful defense she has.
-He’s said he has sat with parents whose girls froze just like Paige, but nobody heard them. By the time they’re taken to that second location, it’s too late.
+He said he’s sat with parents whose girls froze just like Paige, but nobody heard them. By the time they’re taken to that second location, it’s too late.
 Share this with every parent you know so their daughter doesn't get abducted or assaulted.
 If there's a link down below, they might have some left. Don't wait until it's too late.
