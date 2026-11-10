@@ -40,8 +40,6 @@ Parent: — · Lever: —
 Cast: Paige (16, narrates) · Dana (her mom, 40s) · the detective (50s, flat and quiet)
 
 ## V1
-### Text Hook
-<the plate>
 ### Script
 [SCENE 1 — the kitchen at home, just after sunset]
 (Dana's phone on the counter shows Paige's dot sitting in the Target parking lot)
@@ -52,6 +50,7 @@ Officer (on the phone): Ma'am, your daughter's safe. Three men just tried to abd
 - `[SCENE n — place, time]` opens each scene. `(…)` is what the camera sees, one visual per line (principle 2), so a silent beat is its own line: `(she looks at the manager)` · `(she opens her mouth, then closes it)`. `Name: line` is speech. `(V.O.)` is voice-over, `(O.S.)` off screen, `(on the phone)` for a voice on a call.
 - **Silence is written, not implied.** The winners run 15 to 30 second stretches with no words: the montage, the low point, the payoff walk-in. Write each shot as its own direction line so the editor knows the beat is there.
 - **V2 and V3 change only the cold open:** a different flash-forward from the body, then `(then V1 from SCENE 2 to the end)`.
+- **No Text Hook plate on a movie** (Reed cut them on RP5): the cold open carries the hook alone.
 - **Each variation is named for its job** (Reed, RP5): `## V1 - Action start` · `## V2 - Moms POV` · `## V3 - Another action start`. Pick the jobs before writing the hooks: dropped into the action, the mother's side, a second way into the action.
 - **After the cold open, go straight into the day it happened** (Reed cut RP5's backstory scenes and the weeks-after montage). Who she is comes out in a line in the scene ("She's the most vocal girl on the block"), not a flashback; the proof is the event itself, so no proof montage unless Reed asks.
 
