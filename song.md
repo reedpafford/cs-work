@@ -26,7 +26,7 @@ Dark true-crime score, minor key, not horror effects. Her voice: in her 50s, clo
 Reed (RP3): not country. The story is suspense, so it should sound like it.
 
 ## Worked example
-RP3 (JC31 retold as a song): `scripts/RP3.md`. About 1,070 words, 5.5 to 6.5 minutes sung.
+RP3 (JC31 as a song): `scripts/RP3.md`. About 730 words, 4 to 5 minutes sung. Three variations with the same script and hook; only the music and the scenes change (moody and gloomy, etc.). That tests the treatment, not the words.
 
 ## What I do on "make this a song"
-Take the source story, keep its facts and Reed's best lines, and rebuild the telling on the skeleton above. Reed on RP3: "you don't need to respect the original script as much," so this is a rebuild, not a light edit. Then run the scanner as usual, give the mood map in chat, and paste a plain copy in a code block for him.
+Stay close to the source script (Reed, RP3, 2026-11-09: "much, much closer to JC31"). I tried a full rebuild on the skeleton above; he liked it, then sent it back to the source. So the source's lines and order stay. The song changes are small: an action hook, straight into the story (no "watch to the end" line), and fixes where a line won't read on one listen. The skeleton above is for reading the winners and for a net-new song story, not for rewriting a proven script. The variations come from the music and the scenes, in chat. Then run the scanner as usual and paste a plain copy in a code block for him.
