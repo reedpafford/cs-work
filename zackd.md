@@ -56,7 +56,7 @@ Both brand ads in this style end on a spoken ask, in the same flat voice as the 
 1. **A crowd number:** how many people already use it. "the same signal thousands of women are already getting with Vital Drops." · "Over 250,000 families use this bait every summer."
 2. **The offer and the link, one line:** "Buy two, get one free with the link below." · "And right now, you can try it up to 41% off when you bundle. Click below to get yours while stocks still last."
 
-The picture under the close is the product itself: a warehouse stacked with the boxes, then a hand holding one box with the website above it. A story ad keeps its expert proof line (the sheriff ordering three) right before the crowd number.
+The picture under the close is the product itself: a warehouse stacked with the boxes, then a hand holding one box with the website above it. In a story ad the expert proof line (the sheriff ordering three) already does the crowd's job, so the close swaps the crowd number for the founder's scarcity and puts the per-unit price in the offer (Reed, RP7): "A detective makes them in small batches, and the last batch is almost gone." · "Right now, you can buy three and get two free, for less than twenty dollars each, with the link below."
 
 The references also show the product-led form, where the product is the subject from line 1 and the story is what it does:
 - **Line 1 points at the product:** "This is what would happen to a skinny woman and the men around her if she drank two droppers of this every morning." · "When you mix this mosquito slayer bait with warm water, it activates…"
@@ -77,6 +77,7 @@ Length: ~NN s (NNN words)
 N. <crowd number>
 N. <offer + link below>
 
+See-inside: <line N, what the breakdown opens up>
 Gag: <one silent visual beat on the payoff line>
 30 s cut: drop lines X, Y, Z
 Hardest line to show: <line, and a suggested rewording>
