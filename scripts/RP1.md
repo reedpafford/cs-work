@@ -13,15 +13,26 @@ If you have a daughter, or a granddaughter, this video could save her life. Plea
 Her name was Laken, she was in nursing school down in Georgia, and she went out for a run around nine on a Thursday morning.
 It was broad daylight, on a college campus, when she was attacked by a man who crossed our borders illegally.
 When they pulled the surveillance footage they saw her fight. And man did she fight. But it didn’t matter. She never came home. Her parents didn’t see their daughter again, and he got life without parole.
+**Her name was Laken, she was twenty-two, and she was in nursing school down in Georgia.**
+**It's a Thursday morning, a little before nine, and she ties her shoes and heads out for a run on the trail by the lake on campus, the same loop she always does.**
+**It's broad daylight, there's kids walking to class with their coffee, um, maybe a few hundred yards away.**
+**And somewhere on that trail, a man who crossed our borders illegally steps out in front of her.**
+**And man did she fight. They found his skin under her fingernails.**
+**Her watch showed her heart racing, and then it just stopped.**
+**Around noon her roommate starts calling her phone, and it just rings.**
+**That afternoon the police found her in the woods, right off that trail.**
+**Her parents never saw their daughter again, and he got life without parole.**
 That same man had been arrested in New York the year before, and they let him go. This could have been prevented twice. At the border, then again in New York.
-And these judges and policies have now taken over. I used to think my Texas was safe. It’s not anymore.
+And these policies have now taken over. I used to think my Texas was safe. It’s not anymore.
+**And these policies have now taken over. I used to think my Texas was safe, my girls rode their bikes to the Dairy Queen by themselves all summer. I wouldn't let them do that now.**
 I’ll be honest with you, that makes me sick to my stomach.
 That man should never have been here, and the people who let him walk never had to answer for it.
 And as I watch what goes on in the news, and the people being elected into these government positions, my gut tells me these problems aren’t going away anytime soon.
 I stayed up late that night, and what I found was almost worse.
 It’s not just the border. One in six women in this country gets assaulted at some point in her life, and it’s, um, somebody new every sixty-eight seconds.
-With the weakened border laws, and the amount of criminals flooding our country daily, it’s only going to get worse.
-More than half the time it happens at or near her own home. I looked up the cases near my town, which I always thought was the safest area around, and it turns out it happens here too. I had no idea, and I worry about everything.
+With the weak border laws, and the amount of criminals flooding our country daily, I fear for us as women, and our daughters.
+More than half the time it happens at or near her own home. I looked up the cases near my town, which I always thought was the safest area around, and it turns out it happens here too.
+I had no idea, and I worry about everything.
 And believe me, I love our police, but on a good day they take, like, ten or fifteen minutes to get there. It takes a predator about thirty seconds.
 My daughter Brooke’s a sophomore at school, three hours from home, and she runs every morning, just like Laken did.
 She grew up shooting with her daddy, and she’s not scared of anything.
@@ -33,8 +44,9 @@ That’s why he goes for her mouth first. Noise is predator repellent.
 I recently had my daughter start to carry a personal alarm. If she freezes, or he gets a hand over her mouth, all she has to do is pull one pin, and she’s as loud as an ambulance, and every head on that street turns.
 She had no problem getting one, because it came in her favorite color.
 She did worry about it going off in lectures. I assured her it couldn’t because there’s an anti-misfire feature. But Heaven forbid the time ever came when she needed to, it was as easy as pulling a pin and the entire block would be on alert.
-We both live with peace of mind now, knowing that if the worst comes to worst, she’s ready to protect herself.
-Just be careful, the cheap colorful ones on Amazon are garbage. The batteries die without you knowing, or they crack the first time she drops her keys. Some girls carried one for years just for it to not work when they needed it most.
+And I sleep a whole lot better now, knowing she’s got something on her if worst comes to worst.
+Just be careful, the cheap ones on Amazon are garbage. The batteries die without you knowing, or they crack the first time she drops her keys.
+Some girls carried one for years just for it to not work when they needed it most.
 I don’t cheap out on my daughter’s safety.
 The one I trust is a tiny company called Palace Guard. A true hundred and thirty five decibels, that’s an ambulance siren in her pocket with a strobe light, and it weighs less than her car key.
 A detective gal makes them in small batches, I think, and I waited about two weeks to get mine because they were sold out.
