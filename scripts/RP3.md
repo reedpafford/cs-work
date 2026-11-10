@@ -1,64 +1,154 @@
 # RP3 — Eggs at Target (song)
 Persona: mother · Awareness: PA · Format: Authority
-Status: drafting
+Status: final
 Parent: JC31 · Lever: L6 Format (song)
 
 ## V1
-### Text Hook
-3 PREDATORS almost ABDUCTED my DAUGHTER…😳
-
 ### Script
-**Three predators stalked my daughter through Target and pulled a van up right next to her. I almost lost my baby girl over a carton of eggs.**
-**So here's what happened.**
-**Paige is sixteen.** She's the tallest in her class, and when she was fourteen, she broke her brother's nose because he grabbed her arm. She's the feisty one**, the loudest one at dinner, the one I never worried about.**
-**It was a Tuesday in October, about six thirty, just dark. I was making meatloaf and I was out of eggs, so I said, honey, run to Target for me. Milk and eggs, that's it.**
-**I watched her little dot pull into the parking lot, and I put the oven on.**
-**She told me everything later, so I'm gonna tell it to you the way she told it to me.**
-**She walks in, and there's three grown men by the front doors in matching gray sweatsuits. No cart, no basket, nothing.**
-**She thinks,** weird, but whatever. **Maybe it's a construction crew or something.**
-**She goes to the dairy aisle. One of them is standing at the end of it.**
-**She goes to the next aisle over. Another one.**
-**So she tests it, she walks all the way back up to the front of the store, and, I'm not exaggerating, the third one's already standing there, looking at nothing.**
-**Come on.**
-**There was a manager, like, ten feet away, and she didn't say a word. She told me,** Mom, I didn't want to be dramatic.
-**And** that's on me, I raised her not to make a fuss.
-**She pays, she walks out, and the sweatsuits are gone. Okay, she thinks, I'm being crazy.**
-**Her car's way out at the end of the lot, where it's darkest.**
-**She's halfway there when** a white van with no windows **rolls up, real slow, about three spaces from her car.**
-Two of them get out**,** and walk right at her. **Then the side door slides open.**
-And my daughter, **the** loudest one at dinner, could not move. She opened her mouth to scream**,** and nothing came out.
-**And me? I'm at home, looking at her little dot, sitting in Target right where it should be.**
-**Her keys were in her hand, and there's a little alarm on them. She dropped the eggs, and she pulled it.**
-**I've watched the parking lot footage, um, eleven times now.**
-Right when she pulls **it**, you just see every head in that parking lot turn at the same time.
-**The two men stop. They turn right around, the door slams, and that van's gone before anybody gets a good look. Except a kid pushing carts. He got the plate.**
-**She** called me twenty minutes later, and I almost passed out.
-**That night she slept in my bed, sixteen years old, holding onto my arm like she was five.**
-**And I lay there till three in the morning thinking, I sent her. I sent her for eggs.**
-**Two days later a detective came and sat at my kitchen table.**
-**He said, ma'am, that plate matches two other girls.** One of them was safe**. He** wouldn't talk about the other one.
-**Then Paige asked him the thing she was too ashamed to ask me. Why couldn't I scream?**
-**And he said, sweetheart, that's not you being weak. That's what almost everybody does. Your body locks up and it takes your voice first, and they count on that. They pick the girls who won't make a scene.**
-**He said, if three grown men follow a girl through a store, that's not weird. That's a plan.**
-**He said, you didn't have to fight three grown men. You didn't even have to scream. You just had to be loud for one second, and you were.**
-**He said** the only thing that really stops these animals is their own decision, **and that alarm made it for them, because nobody grabs a girl with fifty people looking.**
-**Then he asked what it was, so I read it off my order, and he said, that's the one my girls carry.**
-**He said he's had** the cheap colorful ones handed to him in evidence bags, the battery dead, or cracked the first time it hit the ground.
-**I put it on her keys in August when she got her license, and I** didn't think much of it, **it was** just a nice to have. Turns out it **saved her life.**
-**The first week, she wouldn't drive anywhere without it in her hand.**
-**The second week, I bought, um, five more, and she gave one to every girl in her friend group.**
-**One of those girls' mothers called me, crying, just to say thank you.**
-**A month later the detective called again. They got all three of them.**
-**And last Tuesday I ran out of eggs again. Paige had her keys before I could even ask.**
-**She parks under the lights now. And before she's even out of the car, that alarm's already in her hand.**
-**Maybe your daughter's the feisty one too. Maybe she's the one you never worry about.**
-**Maybe she runs to the store for you after dark, and you watch her little dot the whole time, like I did.**
-**And maybe you think, my girl would scream. So did I.**
-**It's called Palace Guard. It's a tiny company, a detective gal makes them in small batches, I think, and I waited about two weeks because they were sold out.**
-**It's as loud as an ambulance, and it's got this feature so it won't go off in her bag by accident. That was the only thing Paige worried about.**
-**I bought three and got two free, so it was less than twenty dollars each, and there's a thirty-day guarantee, so if she won't carry it, you send it back.**
-**And I'm not affiliated with them.** I'm just a mom whose daughter made it home.
-**We live in a safe neighborhood. I** never thought stuff like this actually happens, let alone **to** my own girl.
-**That detective has sat with** parents whose girls froze just like Paige, but nobody heard them. **By the time they were at that second location, it was too late.**
-Share this with every mother you know so their daughter doesn't get abducted or assaulted.
-**If you still see the link below, they're still in stock.** Don't wait until it's too late.
+Stay alert, parents, predators have a new method of abducting girls at Target, and it almost happened to my daughter.
+This was three weeks ago, on a Tuesday. Paige had volleyball practice, and I asked her to stop at Target on her way home and grab milk and eggs, it was just after sunset.
+And you need to know who Paige is. She's tallest in her class, and when she was fourteen, she broke her brother's nose because he grabbed her arm. She’s the feisty one.
+So she's in the store maybe ten minutes, and she notices this guy. Gray sweatsuit, work boots, no cart, hands in his pockets, he glanced at her and looked away.
+Weird, but whatever.
+Next aisle over there's another one. Same gray sweatsuit. Same boots. No cart.
+And then a third.
+Now her first thought was maybe it's just a construction crew or something.
+But three grown men in a Target, wearing the same thing, with nothing in their hands. Come on.
+And she told me every aisle she turned down, one of them walked past the end of it.
+So she hurried to checkout and there was a manager standing right there by the self-checkout. And Paige didn't say a word to her.
+I asked her why. She said, Mom, I didn't want to be dramatic.
+And that's on me. I raised her not to make a fuss.
+So she pays for her milk and her eggs and she walks out to her car by herself, way out at the end of the lot.
+She's almost to her door, she's got her keys in one hand and the bag in the other, when a white van with no windows slowly rolls up next to her car, bout three parking spaces away.
+Two of them get out, and walk right at her.
+And my daughter, who is the loudest one at dinner, could not move. She opened her mouth to scream and nothing came out.
+But her keys were in her hand, and there's a little alarm on them.
+She dropped the eggs and she pulled it.
+And I know exactly what happened next, because I've watched it.
+Target pulled the parking lot camera for the police, and the detective let me see it. I've watched it, I don't know, eleven times.
+Right when she pulls her alarm, a siren as loud as an ambulance ripped through that parking lot.
+You just see every head in that parking lot turn at the same time.
+A man loading his trunk two rows over. The kid pushing carts. A woman with a stroller.
+And you see those two men stop. They look at each other. And they walk back to that van like nothing happened, and it pulls out.
+The cart kid got the plate.
+Now, where was I. I was home. I had checked her dot on my phone, and it was sitting in Target, right where it was supposed to be. So I put my phone down and I preheated the oven.
+Then she called me twenty minutes later, and I almost passed out.
+The manager told the police they'd had complaints about those men for two weeks.
+Two weeks. And nobody said a word to a sixteen-year-old buying eggs.
+The detective called me two days later. That plate matched two other girls, that same week, in the shopping center across the street.
+He said the difference with Paige is that forty people looked at her at the same time. He said these guys need it quiet and they need nobody watching, and she took both of those away in one second.
+He asked me what kind of alarm it was, and I had to go look up my order. It's called Palace Guard.
+He said good. I guess he’s had different colorful alarms handed to him in evidence bags, the battery was dead, or it cracked the first time it hit the ground. He said his own girls carry that same one.
+And here's the thing. I put that on her keys in August when she got her license, didn’t think much of it, just a nice to have. She was scared it would go off in class, but that one has this feature so it doesn’t misfire, probably the reason she actually carried it.
+And it turns out it just saved her life.
+That night I bought five more and told her to give them to all her friends. I bought three and got two free, I think that's less than twenty dollars each.
+I had to wait about a week, it's a tiny company and they were sold out. There's a thirty-day guarantee, I checked, so if you just don't like it, you get every penny back.
+And I'm not affiliated with them. I'm just a mom whose daughter made it home.
+And let me be clear, we live in a safe neighborhood, I never thought stuff like this actually happens, let alone happen to my own girl.
+I asked the detective about those other two girls. He said one of them was safe. He wouldn't talk about the other one.
+But he told me one thing I can’t forget.
+The only reason Paige is still here is because she made noise. She didn’t need to physically stop them. She couldn’t have. The only thing that really stops these animals is their own decision. And she can make it for them if she makes herself too risky to grab.
+Look, an alarm isn’t a force field, but drawing attention is the most powerful defense she has.
+He said he’s sat with parents whose girls froze just like Paige, but nobody heard them. By the time they’re taken to that second location, it’s too late.
+Share this with every parent you know so their daughter doesn't get abducted or assaulted.
+If there's a link down below, they might have some left. Don't wait until it's too late.
+
+## V2
+### Script
+Stay alert, parents, predators have a new method of abducting girls at Target, and it almost happened to my daughter.
+This was three weeks ago, on a Tuesday. Paige had volleyball practice, and I asked her to stop at Target on her way home and grab milk and eggs, it was just after sunset.
+And you need to know who Paige is. She's tallest in her class, and when she was fourteen, she broke her brother's nose because he grabbed her arm. She’s the feisty one.
+So she's in the store maybe ten minutes, and she notices this guy. Gray sweatsuit, work boots, no cart, hands in his pockets, he glanced at her and looked away.
+Weird, but whatever.
+Next aisle over there's another one. Same gray sweatsuit. Same boots. No cart.
+And then a third.
+Now her first thought was maybe it's just a construction crew or something.
+But three grown men in a Target, wearing the same thing, with nothing in their hands. Come on.
+And she told me every aisle she turned down, one of them walked past the end of it.
+So she hurried to checkout and there was a manager standing right there by the self-checkout. And Paige didn't say a word to her.
+I asked her why. She said, Mom, I didn't want to be dramatic.
+And that's on me. I raised her not to make a fuss.
+So she pays for her milk and her eggs and she walks out to her car by herself, way out at the end of the lot.
+She's almost to her door, she's got her keys in one hand and the bag in the other, when a white van with no windows slowly rolls up next to her car, bout three parking spaces away.
+Two of them get out, and walk right at her.
+And my daughter, who is the loudest one at dinner, could not move. She opened her mouth to scream and nothing came out.
+But her keys were in her hand, and there's a little alarm on them.
+She dropped the eggs and she pulled it.
+And I know exactly what happened next, because I've watched it.
+Target pulled the parking lot camera for the police, and the detective let me see it. I've watched it, I don't know, eleven times.
+Right when she pulls her alarm, a siren as loud as an ambulance ripped through that parking lot.
+You just see every head in that parking lot turn at the same time.
+A man loading his trunk two rows over. The kid pushing carts. A woman with a stroller.
+And you see those two men stop. They look at each other. And they walk back to that van like nothing happened, and it pulls out.
+The cart kid got the plate.
+Now, where was I. I was home. I had checked her dot on my phone, and it was sitting in Target, right where it was supposed to be. So I put my phone down and I preheated the oven.
+Then she called me twenty minutes later, and I almost passed out.
+The manager told the police they'd had complaints about those men for two weeks.
+Two weeks. And nobody said a word to a sixteen-year-old buying eggs.
+The detective called me two days later. That plate matched two other girls, that same week, in the shopping center across the street.
+He said the difference with Paige is that forty people looked at her at the same time. He said these guys need it quiet and they need nobody watching, and she took both of those away in one second.
+He asked me what kind of alarm it was, and I had to go look up my order. It's called Palace Guard.
+He said good. I guess he’s had different colorful alarms handed to him in evidence bags, the battery was dead, or it cracked the first time it hit the ground. He said his own girls carry that same one.
+And here's the thing. I put that on her keys in August when she got her license, didn’t think much of it, just a nice to have. She was scared it would go off in class, but that one has this feature so it doesn’t misfire, probably the reason she actually carried it.
+And it turns out it just saved her life.
+That night I bought five more and told her to give them to all her friends. I bought three and got two free, I think that's less than twenty dollars each.
+I had to wait about a week, it's a tiny company and they were sold out. There's a thirty-day guarantee, I checked, so if you just don't like it, you get every penny back.
+And I'm not affiliated with them. I'm just a mom whose daughter made it home.
+And let me be clear, we live in a safe neighborhood, I never thought stuff like this actually happens, let alone happen to my own girl.
+I asked the detective about those other two girls. He said one of them was safe. He wouldn't talk about the other one.
+But he told me one thing I can’t forget.
+The only reason Paige is still here is because she made noise. She didn’t need to physically stop them. She couldn’t have. The only thing that really stops these animals is their own decision. And she can make it for them if she makes herself too risky to grab.
+Look, an alarm isn’t a force field, but drawing attention is the most powerful defense she has.
+He said he’s sat with parents whose girls froze just like Paige, but nobody heard them. By the time they’re taken to that second location, it’s too late.
+Share this with every parent you know so their daughter doesn't get abducted or assaulted.
+If there's a link down below, they might have some left. Don't wait until it's too late.
+
+## V3
+### Script
+Stay alert, parents, predators have a new method of abducting girls at Target, and it almost happened to my daughter.
+This was three weeks ago, on a Tuesday. Paige had volleyball practice, and I asked her to stop at Target on her way home and grab milk and eggs, it was just after sunset.
+And you need to know who Paige is. She's tallest in her class, and when she was fourteen, she broke her brother's nose because he grabbed her arm. She’s the feisty one.
+So she's in the store maybe ten minutes, and she notices this guy. Gray sweatsuit, work boots, no cart, hands in his pockets, he glanced at her and looked away.
+Weird, but whatever.
+Next aisle over there's another one. Same gray sweatsuit. Same boots. No cart.
+And then a third.
+Now her first thought was maybe it's just a construction crew or something.
+But three grown men in a Target, wearing the same thing, with nothing in their hands. Come on.
+And she told me every aisle she turned down, one of them walked past the end of it.
+So she hurried to checkout and there was a manager standing right there by the self-checkout. And Paige didn't say a word to her.
+I asked her why. She said, Mom, I didn't want to be dramatic.
+And that's on me. I raised her not to make a fuss.
+So she pays for her milk and her eggs and she walks out to her car by herself, way out at the end of the lot.
+She's almost to her door, she's got her keys in one hand and the bag in the other, when a white van with no windows slowly rolls up next to her car, bout three parking spaces away.
+Two of them get out, and walk right at her.
+And my daughter, who is the loudest one at dinner, could not move. She opened her mouth to scream and nothing came out.
+But her keys were in her hand, and there's a little alarm on them.
+She dropped the eggs and she pulled it.
+And I know exactly what happened next, because I've watched it.
+Target pulled the parking lot camera for the police, and the detective let me see it. I've watched it, I don't know, eleven times.
+Right when she pulls her alarm, a siren as loud as an ambulance ripped through that parking lot.
+You just see every head in that parking lot turn at the same time.
+A man loading his trunk two rows over. The kid pushing carts. A woman with a stroller.
+And you see those two men stop. They look at each other. And they walk back to that van like nothing happened, and it pulls out.
+The cart kid got the plate.
+Now, where was I. I was home. I had checked her dot on my phone, and it was sitting in Target, right where it was supposed to be. So I put my phone down and I preheated the oven.
+Then she called me twenty minutes later, and I almost passed out.
+The manager told the police they'd had complaints about those men for two weeks.
+Two weeks. And nobody said a word to a sixteen-year-old buying eggs.
+The detective called me two days later. That plate matched two other girls, that same week, in the shopping center across the street.
+He said the difference with Paige is that forty people looked at her at the same time. He said these guys need it quiet and they need nobody watching, and she took both of those away in one second.
+He asked me what kind of alarm it was, and I had to go look up my order. It's called Palace Guard.
+He said good. I guess he’s had different colorful alarms handed to him in evidence bags, the battery was dead, or it cracked the first time it hit the ground. He said his own girls carry that same one.
+And here's the thing. I put that on her keys in August when she got her license, didn’t think much of it, just a nice to have. She was scared it would go off in class, but that one has this feature so it doesn’t misfire, probably the reason she actually carried it.
+And it turns out it just saved her life.
+That night I bought five more and told her to give them to all her friends. I bought three and got two free, I think that's less than twenty dollars each.
+I had to wait about a week, it's a tiny company and they were sold out. There's a thirty-day guarantee, I checked, so if you just don't like it, you get every penny back.
+And I'm not affiliated with them. I'm just a mom whose daughter made it home.
+And let me be clear, we live in a safe neighborhood, I never thought stuff like this actually happens, let alone happen to my own girl.
+I asked the detective about those other two girls. He said one of them was safe. He wouldn't talk about the other one.
+But he told me one thing I can’t forget.
+The only reason Paige is still here is because she made noise. She didn’t need to physically stop them. She couldn’t have. The only thing that really stops these animals is their own decision. And she can make it for them if she makes herself too risky to grab.
+Look, an alarm isn’t a force field, but drawing attention is the most powerful defense she has.
+He said he’s sat with parents whose girls froze just like Paige, but nobody heard them. By the time they’re taken to that second location, it’s too late.
+Share this with every parent you know so their daughter doesn't get abducted or assaulted.
+If there's a link down below, they might have some left. Don't wait until it's too late.
