@@ -19,7 +19,7 @@ And she told me every aisle she turned down, one of them walked past the end of 
 So she hurried to checkout and there was a manager standing right there by the self-checkout. And Paige didn't say a word to her.
 I asked her why. She said, Mom, I didn't want to be dramatic.
 And that's on me. I raised her not to make a fuss.
-So she pays for her milk and her eggs and she walks out to her car by herself.
+So she pays for her milk and her eggs and she walks out to her car by herself, **way out at the end of the lot.**
 She's almost to her door, she's got her keys in one hand and the bag in the other, when a white van with no windows slowly rolls up next to her car, bout three parking spaces away.
 Two of them get out, and walk right at her.
 And my daughter, who is the loudest one at dinner, could not move. She opened her mouth to scream and nothing came out.
@@ -70,7 +70,7 @@ And she told me every aisle she turned down, one of them walked past the end of 
 So she hurried to checkout and there was a manager standing right there by the self-checkout. And Paige didn't say a word to her.
 I asked her why. She said, Mom, I didn't want to be dramatic.
 And that's on me. I raised her not to make a fuss.
-So she pays for her milk and her eggs and she walks out to her car by herself.
+So she pays for her milk and her eggs and she walks out to her car by herself, **way out at the end of the lot.**
 She's almost to her door, she's got her keys in one hand and the bag in the other, when a white van with no windows slowly rolls up next to her car, bout three parking spaces away.
 Two of them get out, and walk right at her.
 And my daughter, who is the loudest one at dinner, could not move. She opened her mouth to scream and nothing came out.
@@ -121,7 +121,7 @@ And she told me every aisle she turned down, one of them walked past the end of 
 So she hurried to checkout and there was a manager standing right there by the self-checkout. And Paige didn't say a word to her.
 I asked her why. She said, Mom, I didn't want to be dramatic.
 And that's on me. I raised her not to make a fuss.
-So she pays for her milk and her eggs and she walks out to her car by herself.
+So she pays for her milk and her eggs and she walks out to her car by herself, **way out at the end of the lot.**
 She's almost to her door, she's got her keys in one hand and the bag in the other, when a white van with no windows slowly rolls up next to her car, bout three parking spaces away.
 Two of them get out, and walk right at her.
 And my daughter, who is the loudest one at dinner, could not move. She opened her mouth to scream and nothing came out.
