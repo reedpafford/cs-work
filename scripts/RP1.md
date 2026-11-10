@@ -10,24 +10,21 @@ ILLEGAL immigrant ATTACKED college girl…😳
 ### Script
 A twenty-two-year-old nursing student went for a morning run on her college campus, and she never came home. The predator had crossed our border illegally.
 If you have a daughter, or a granddaughter, this video could save her life. Please watch until the end.
-Her name was Laken, she was in nursing school down in Georgia, and she went out for a run around nine on a Thursday morning.
-It was broad daylight, on a college campus, when she was attacked by a man who crossed our borders illegally.
-When they pulled the surveillance footage they saw her fight. And man did she fight. But it didn’t matter. She never came home. Her parents didn’t see their daughter again, and he got life without parole.
-**Her name was Laken, she was twenty-two, and she was in nursing school down in Georgia.**
-**It's a Thursday morning, a little before nine, and she ties her shoes and heads out for a run on the trail by the lake on campus, the same loop she always does.**
-**It's broad daylight, there's kids walking to class with their coffee, um, maybe a few hundred yards away.**
-**And somewhere on that trail, a man who crossed our borders illegally steps out in front of her.**
-**And man did she fight. They found his skin under her fingernails.**
-**Her watch showed her heart racing, and then it just stopped.**
-**Around noon her roommate starts calling her phone, and it just rings.**
-**That afternoon the police found her in the woods, right off that trail.**
-**Her parents never saw their daughter again, and he got life without parole.**
+Her name was Laken, she was twenty-two, and she was in nursing school down in Georgia.
+It's a Thursday morning, a little before nine. She loves goin’ on runs so she ties her shoes and heads out for a jog on the trail by the lake on campus, the same loop she always does.
+It's broad daylight, there's kids walking to class with their coffee, maybe a few hundred yards away.
+And somewhere on that trail, a criminal who crossed our borders illegally grabs her and throws her to the ground.
+I’ve seen the footage, and man did she fight. She clawed, scraped, bit. She did it all. They even found his skin under her fingernails.
+One minute her watch showed her heart beating to her jog, and the next it stopped.
+Around noon her roommate starts calling her phone, and it just rings.
+That afternoon the police found her in the woods, right off that trail.
+Her parents never saw their daughter again, and he got life without parole.
 That same man had been arrested in New York the year before, and they let him go. This could have been prevented twice. At the border, then again in New York.
-And these policies have now taken over. I used to think my Texas was safe. It’s not anymore.
-**And these policies have now taken over. I used to think my Texas was safe, my girls rode their bikes to the Dairy Queen by themselves all summer. I wouldn't let them do that now.**
 I’ll be honest with you, that makes me sick to my stomach.
 That man should never have been here, and the people who let him walk never had to answer for it.
 And as I watch what goes on in the news, and the people being elected into these government positions, my gut tells me these problems aren’t going away anytime soon.
+These immigration policies have now taken over. I used to think my Texas was safe. Growin’ up, my girls rode their bikes to the Dairy Queen by themselves all summer.
+I can’t imagine lettin’ young ones do that now.
 I stayed up late that night, and what I found was almost worse.
 It’s not just the border. One in six women in this country gets assaulted at some point in her life, and it’s, um, somebody new every sixty-eight seconds.
 With the weak border laws, and the amount of criminals flooding our country daily, I fear for us as women, and our daughters.
