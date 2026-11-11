@@ -14,7 +14,7 @@ Your job is the words only. Every line will become a shot, so write lines a came
 - One short sentence (or two short clauses) per line. Usually 6–13 lines.
 
 ## Structure
-1. **Line 1 starts in the middle of the action.** The first picture shows the thing already happening, and the voice starts on frame 1. Line 1 states the most surprising fact or event plainly, pointing at the picture ("This girl…", "They dump…", "Three men tried to…"). No question, no "Did you know", no "Stay alert", no setup.
+1. **Line 1 starts in the middle of the action.** The first picture shows the thing already happening, and the voice starts on frame 1. Line 1 states the most surprising fact or event plainly, pointing at the picture ("This girl…", "They dump…", "Three men tried to…"). No question, no "Did you know", no "Stay alert", no setup. Keep it under about ten words with one picture in it ("This girl was almost abducted buying eggs."); a hook with two clauses and a payoff reads long and loses the punch (Reed, RP7, 2026-11-10).
 2. **Then one chain of cause and effect, in the order it physically happens.** This happens, so that happens, then this, which means that. Each clause names the thing the camera has just reached.
 3. **Time passing is a picture, not a summary.** Write "Two weeks later…" and the picture shows it (a calendar flipping, the moon crossing a window).
 4. **Put one surprising number or detail in the middle.** "A whole armful gives up just a few drops." "That plate matched two other girls that same week."
