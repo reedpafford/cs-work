@@ -2,11 +2,11 @@
 > Trigger: "audit" · "audit the full script" · "check" · "review" · "what would you change." Output: typos fixed on the page silently, then the teardown in chat in the fixed order below. The script is Reed's; I tear it apart and hand back options. I never rewrite his lines uninvited.
 > Sources mined: script-audit-sop · script-for-speech · writing-variety-rules · jack-writing-style-patterns (two-pass gate + 35 patterns) · hook-equivalence-rule · marketing-morality-filter · meta-compliance · structural/specificity/voice (library) · JC13–JC20 audits.
 
-> 🚨 Before any write: re-read the script file in `scripts/`. Reed's manual edits override my plan. If a line I meant to change was edited by Reed, ask first.
+> 🚨 Before any write: re-read the script file in `brands/<brand>/scripts/`. Reed's manual edits override my plan. If a line I meant to change was edited by Reed, ask first.
 
 ## Before reading a line
-1. **Re-read the script file** (or the draft Reed pasted). Never audit a prior turn's copy. `git diff scripts/` shows what Reed changed since; log those first (CLAUDE.md principle 9).
-2. **Load:** the persona register (CLAUDE.md principle 3), `write.md` for the buyer, the offer and the beat bank, the newest product block for this persona (CLAUDE.md names it; the brief itself is in `briefs.md`), the swipe if this is a transposition.
+1. **Re-read the script file** (or the draft Reed pasted). Never audit a prior turn's copy. `git diff brands/` shows what Reed changed since; log those first (CLAUDE.md principle 9).
+2. **Load:** the persona register (the brand's `brand.md`), `write.md` for the buyer, the offer and the beat bank, the newest product block for this persona (the brand's `brand.md` names it; the brief itself is in `briefs.md`), the swipe if this is a transposition.
 3. **Name the goal in one sentence:** what must the BUYER (the mother, not the daughter) believe and feel to buy this?
 
 ## Layer 1 — Auto-fix on the page, then report (no permission needed)

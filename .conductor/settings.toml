@@ -6,6 +6,6 @@ run_mode = "concurrent"
 
 # One click: run the speech scanner on every script in scripts/ (banned words, fragment runs, symbols, caps).
 [scripts.run.scan]
-command = "for f in scripts/RP*.md; do [ -e \"$f\" ] || { echo 'No scripts yet.'; break; }; echo \"== $f\"; printf '{\"tool_input\":{\"file_path\":\"%s\"}}' \"$PWD/$f\" | CLAUDE_PROJECT_DIR=\"$PWD\" python3 .claude/hooks/scan-scripts.py && echo 'clean'; done"
+command = "for f in brands/*/scripts/RP*.md; do [ -e \"$f\" ] || { echo 'No scripts yet.'; break; }; echo \"== $f\"; printf '{\"tool_input\":{\"file_path\":\"%s\"}}' \"$PWD/$f\" | CLAUDE_PROJECT_DIR=\"$PWD\" python3 .claude/hooks/scan-scripts.py && echo 'clean'; done"
 default = true
 icon = "scan-text"
