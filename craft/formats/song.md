@@ -27,7 +27,7 @@ Dark true-crime score, minor key, not horror effects. Her voice: in her 50s, clo
 Reed (RP3): the story is suspense, so it should sound like it, and dark country does that.
 
 ## Worked example
-RP3 (JC31 as a song): `scripts/RP3.md`. JC31's dialogue word for word, about 1,000 words, 5 to 6 minutes sung. No text hook (Reed). Three variations with the same script; only the music and the scenes change (moody and gloomy, etc.). That tests the treatment, not the words.
+RP3 (JC31 as a song): `brands/palace-guard/scripts/RP3.md`. JC31's dialogue word for word, about 1,000 words, 5 to 6 minutes sung. No text hook (Reed). Three variations with the same script; only the music and the scenes change (moody and gloomy, etc.). That tests the treatment, not the words.
 
 ## What I do on "make this a song"
 Use the source script's dialogue as is, its hook included, the "watch to the end" line cut (Reed, RP3, 2026-11-09: "the same dialogue as JC31, with MINOR (if any) switches… to allow for more visual interest"). He sent back both a full rebuild on the skeleton and a version with a new action hook. So the only changes are small wording switches that give the screen something to show, and each one is quoted in chat for a yes before it goes in. The skeleton above is for reading the winners and for a net-new song story, never for rewriting a proven script. No text hook unless Reed asks. The variations come from the music and the scenes, described in chat. Then run the scanner and paste a plain copy in a code block.

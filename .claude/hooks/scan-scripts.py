@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""PostToolUse hook: after any edit to scripts/*.md, run speech-scan.py on every `### Script` section.
+"""PostToolUse hook: after any edit to brands/<brand>/scripts/*.md, run speech-scan.py on every `### Script` section.
 Hard fails go back to Claude (exit 2) so they get fixed before the script is handed back. Notes are ignored here."""
 import json, os, re, subprocess, sys, tempfile, importlib.util
 
@@ -9,7 +9,8 @@ root = os.environ.get("CLAUDE_PROJECT_DIR") or os.getcwd()
 if not path or not os.path.isfile(path):
     sys.exit(0)
 rel = os.path.relpath(os.path.abspath(path), root)
-if not (rel.startswith("scripts" + os.sep) and rel.endswith(".md")):
+parts = rel.split(os.sep)
+if not (len(parts) == 4 and parts[0] == "brands" and parts[2] == "scripts" and not parts[1].startswith("_") and rel.endswith(".md")):
     sys.exit(0)
 
 text = open(path, encoding="utf-8").read()
@@ -30,6 +31,8 @@ for line in text.splitlines():
         if m.group(1) == "##": variation = m.group(2).strip()
         elif m.group(1) == "###" and m.group(2).strip().lower() == "script":
             cur = [variation or "Script", []]
+        elif m.group(1) == "###" and variation.lower() == "memo":
+            pass
         elif m.group(1) == "###":  # Text Hook, B-roll, Notes: not speech, banned words only
             cur = [f"{variation} {m.group(2).strip()}".strip(), [], "other"]
         continue
