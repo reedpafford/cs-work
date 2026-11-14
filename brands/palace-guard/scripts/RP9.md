@@ -1,6 +1,6 @@
 # RP9 — Santa at the mall (the movie)
 Brand: palace-guard · Persona: grandmother · Awareness: UA · Format: Movie
-Status: drafting
+Status: final
 Parent: — · Lever: —
 Cast: Grandma (68, the lead) · Emma (7, pink backpack, pink alarm on the strap) · Noah (5, her little brother, blue dinosaur backpack, nothing on it) · Kristen (their mom, Grandma's daughter, 40s) · Santa (warm on the outside) · two elves (grown men) · the driver · two photo girls in elf hats · two mall security guards · the police officer · the detective (50s, flat and quiet)
 
