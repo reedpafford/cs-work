@@ -29,7 +29,7 @@ Same job as every ad: install the one belief (her daughter could be assaulted at
 
 ## Perspective
 **It's a movie: the story is told by people talking to each other, never to the viewer, until the close.** The lead is on screen and is the one the movie is about. Mid-story V.O. is only a short thought in the moment, in the lead's head ("Weird. But whatever." · "Something was moving. I didn't tell anybody."), never narration that explains or sets up ("you need to know who I am first" is out). Anything a narrator would explain becomes a scene or a line between characters: her toughness is her brother on the floor yelling "she broke my nose"; the freeze is her answer when the officer asks "Did you scream?"; the mother's guilt is said to the daughter. **The close is the only place the lead speaks to the viewer**, in V.O. over product shots, the way all four winners end.
-On RP5 Reed called for the daughter's side, so Paige is the lead and the close is hers; the mother's regret and the product facts come out in scenes (Dana at the detective's table). Untested whether the daughter's or the mother's voice sells harder in the close.
+On RP5 Reed called for the daughter's side, so Paige is the lead and the close is hers; the mother's regret and the product facts come out in scenes (Dana at the detective's table). **The close is the daughter's V.O., talking to the mother watching (Reed, RP5 and again RP10, 2026-11-15: I gave RP10's close to the mother and Reed moved it to the daughter).** The mother's regret comes out of the daughter's mouth ("my mom almost didn't buy mine") and the offer is "my mom bought three."
 
 ## The shape (in the script file)
 ```
