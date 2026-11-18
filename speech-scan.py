@@ -16,7 +16,7 @@ STUMBLE = re.compile(r"\b(\w+), \1\b", re.I)
 def sentences(text):
     return [s.strip() for s in re.split(r'(?<=[.!?])\s+', text) if s.strip()]
 
-CAPS_OK = ("ER","UGC","LFS","P.S","PS","AM","PM","TV","GPS","ICU","CVS","LDL","HDL","DOT","NA","MD","TSA","RA","SUV","ATM","YMCA")
+CAPS_OK = ("ER","UGC","LFS","P.S","PS","AM","PM","TV","GPS","ICU","CVS","LDL","HDL","DOT","NA","MD","TSA","RA","SUV","ATM","YMCA","UPD")
 BANNED = re.compile(r"\b(gang[- ]?rap\w*|rap(?:e|ed|es|ing|ist|ists)|sexual(?:ly)?\s+(?:assault\w*|violence|abuse)|molest\w*|kill(?:s|ed|ing|er|ers)?|murder\w*)\b", re.I)
 FORMATTING = re.compile(r'^\s*(#{1,6}\s|[-*•]\s|\d+\.\s)|\*\*|__|[\U0001F300-\U0001FAFF\u2600-\u27BF]')
 
