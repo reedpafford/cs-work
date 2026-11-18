@@ -141,6 +141,8 @@
 - **The dream-outcome story gets full context (Reed, 2026-09-14):** who she is, when, where he got her, the hand over the mouth, the freeze, the keys in her hand, the windows one by one, the patrol, the call, her first words. JC18's niece story is the model. A two-line version reads as a claim, not proof.
 - **Inside the body, from Reed's edits:** answer first, then justify. Mechanism before the action. Objection after the payoff, never interrupting it. One belief-kill per section; the story proves it once and nobody explains it again. Metaphor in the pitch, the number in the product block, once. Proof lands in someone else's mouth (the nurse, the detective, the officer, the niece). Name the alternative inside the contrast. The persona's own tribe never voices the objection. Manufacture recency ("two days ago," "a month ago," "five days in"). Product appears after the last belief falls.
 
+- **A case-with-a-save close: explain, then reveal, then recommend (Reed, RP14, 2026-11-18).** After the story, the authority first explains how these happen and that they're happening more, then says they asked the family what saved her and names Palace Guard, then makes it the one he's been telling mothers to get because of the cheap ones in evidence. The product name never opens the close.
+
 ## 6. What I do on each command
 - **"Add a paragraph about X"** → pull the nearest beat from section three, adapt to this persona and lead, give two options, each labeled with its source brief.
 - **"Transpose this swipe" / "make this our RP##"** → section four. Breakdown first (beat per line, load-bearing elements, belief chain), then the skeleton with the swipe's front and section three's back, diff bolded, placeholders where it's his call.
