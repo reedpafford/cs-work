@@ -69,7 +69,7 @@ Reed is the writer and the strategist: ideates, writes the front of every script
    - **Brand formula:** what has already won for this brand (`brand.md`); for Palace Guard, the persona story.
    - **Playbook default:** three hooks, each with its own bridge (~8 seconds), then one shared hold, each line labeled by its job in chat: objection → claim → proof → benefit as scenes → secondary benefit → risk reversal → offer/CTA (`craft/playbook.md` §4–§7, §9).
    - **A format:** song, movie, Zack D, LFS, static (`craft/formats/`), on the brand's material.
-4. Reed writes the front; then audit, hooks, lines, b-roll, Reed's hand edits, "final", as always.
+4. Reed writes the front; then audit, hooks, lines, b-roll, Reed's hand edits, "final", as always. **"Get a draft," "the outline," "the whole thing" at this stage means creative direction in chat (the concept, the story, the beats as ideas, the choices for him to make), never a written script dumped into the file (Reed, RP12, 2026-11-17).**
 **"new brand <name>"** → copy `brands/_template/` to `brands/<slug>/`, then fill `brand.md` from whatever Reed pastes (product page, reviews, research, competitor ads) and ask for the gaps in one short list. Only true facts go in `brand.md`; the ads can dramatize later (principle 6). No brand formula until the brand has a winner; until then route 1 isn't offered.
 
 ## The runbooks — open the one the command names, nothing else
