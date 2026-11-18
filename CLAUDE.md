@@ -12,7 +12,7 @@
    |---|---|---|
    | Setup / opener before a beat | ~1 per 3–4 beats, only where the person would | "Look," · "Here's the thing." · "I'll be honest with you." · "I'm gonna map this out the best I can." · "Keep in mind…" |
    | Transition into the next thought | free, this is how speech connects | "And the group kind of thinned out…" · "So I asked him…" · "Now, I'm not here to bash campus police." |
-   | Filler um / uh / like / and | 4–8, spread "here and there" (Reed, 2026-10-16: "add some filler words here and there, like, um, and"), mid-clause, before a number or a hard word, never in the hook or the product facts | "I've watched, um, two hundred ninety-five hours of footage." · "their punishment was an essay, like, are you kidding me?" |
+   | Filler um / uh / like / god | **0 unless Reed asks for it** (Reed, 2026-11-17: "I don't like the mandatory ums and stuff, let's remove that unless I ask for it"; replaces the 2026-10-16 budget of 4–8). When he asks: mid-clause, before a number or a hard word, never in the hook or the product facts | "I've watched, um, two hundred ninety-five hours of footage." |
    | Word stumble (repeat) | 1, on an emotional line | "That was, that was the last normal text I got from her." |
    | Self-correction | ~1 per minute | "And it's not, look, it doesn't mean she's weak." |
    | Hedge / uncertainty on a small fact | 1–2, reads as memory | "it was on a Thursday night I think" · "ten forty-ish" · "thirty-day guarantee, I think" |
