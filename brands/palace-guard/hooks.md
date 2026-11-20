@@ -125,6 +125,8 @@ My misses come from writing **from the body out**: I take the story's best plot 
 6. **His words:** "literally" is his intensifier ("I literally had no idea," "It's literally called the red zone," "There's literally a group chat," "literally just assaulted"). Ages and counts appear in about two-thirds of his hooks. "Moms" has been the address since JC38. Every hook is 8–25 words, one or two sentences.
 7. **The default three slots:** the plain sentence · the warning shape · a reversal or outcome.
 
+**The insider-revulsion hook (Reed, RP19, 2026-11-19):** for an investigator who sees what's inside, the second clause can be his own reaction instead of a reversal: "I pull girls out of human trafficking rings for a living, and what I've seen makes me sick." The credential is the first half; the disgust promises the inside. Plates route to the buyer: "What TRAFFICKERS do to YOUR DAUGHTER…" over "…to GIRLS."
+
 ## Rules on the words
 - **Specific, never vague.** Keep the hook as specific as the source; edit hooks last and most cautiously. "In a parking lot tonight," not "in a dangerous situation."
 - **A hard number over "some."** "Most" is an opt-out; a number is authority. (Fabricated-but-harmless is fine.)
