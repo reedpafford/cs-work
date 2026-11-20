@@ -14,8 +14,10 @@ The case-led rewrite (a named girl, the signs coming out of her story) was "bad 
 - **The guest** gets a persona register like any authority (`brand.md`): what they've seen, said flat, with their own words, never the stock openers ("Look," "Here's the thing") by default.
 - **The host** is the viewer's mouth, not a reaction track. One-word reactions ("No." "Oh my gosh.") are seasoning, once or twice; the host's real job is the question the viewer is thinking ("What if she doesn't see any of it?"), which becomes the turn into the product.
 
+**From Reed's RP21 pass:** the guest gives orders, not descriptions ("Don't touch it. She needs to get in her car and get to safety."). The host's lines are recognition, not just reactions: "I think I've heard this one" on a sign, and "Oh wait, I've heard of these! How do we get one?" on the brand, so the host is social proof for the product as well as the viewer's mouth.
+
 ## The back half
-The guest carries the sell as a recommendation ("That's why we've been telling moms…"), then the brand's product block, offer, share CTA and close from `write.md`, in the guest's voice. The host can ask where to get one; the host never pitches.
+The guest carries the sell as a recommendation ("That's why we've been telling moms…"), then the brand's product block, offer, share CTA and close from `write.md`, in the guest's voice. The host can ask where to get one, and can say she's heard of it; the host never pitches. The guest points at the link ("It'll be linked to this post") before the sale, and "not affiliated" comes as an afterthought ("Oh and I'm not affiliated with them at all").
 
 ## Read before drafting
 RP21 (`brands/palace-guard/scripts/RP21.md`) for what the first one did, and its `briefs.md` entry for what Reed changed, once it's final.
