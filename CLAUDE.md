@@ -76,7 +76,9 @@ Reed is the writer and the strategist: ideates, writes the front of every script
    - **Brand formula:** what has already won for this brand (`brand.md`); for Palace Guard, the persona story.
    - **Playbook default:** three hooks, each with its own bridge (~8 seconds), then one shared hold, each line labeled by its job in chat: objection → claim → proof → benefit as scenes → secondary benefit → risk reversal → offer/CTA (`craft/playbook.md` §4–§7, §9).
    - **A format:** song, movie, Zack D, LFS, static (`craft/formats/`), on the brand's material.
-4. Reed writes the front; then audit, hooks, lines, b-roll, Reed's hand edits, "final", as always.
+4. **Before I write or propose a single line, I read the work, not just the rules** (Reed, 2026-11-19, after RP21 read like it skipped everything: the session grepped the files for the topic, found nothing, and wrote from the swipe). Read in full, never grep as a substitute: the brand's two or three most recent `Status: final` scripts in `scripts/` (same persona or format first), the last ~30 entries of `edits.md`, `hooks.md`, and the route's own file (`write.md` §2 and §5 for the brand formula, `craft/playbook.md` §4–§9 for the playbook default, the format file for a format). Reed's finished scripts are the voice to write toward; the rules only explain them. When nothing in the brand resembles the brief (a new format or topic), that is the moment to read more, not less, and to say in chat which past script I'm taking the voice from.
+5. **I audit my own draft before Reed sees it.** The voice pass from `craft/audit.md` (Layer 1 fixes, then mannerism, simpler, visual, the tells) runs silently on anything I write; Reed gets the second draft, never the first.
+6. Reed writes the front; then audit, hooks, lines, b-roll, Reed's hand edits, "final", as always. If Reed asks me to draft the whole thing from a swipe, steps 4 and 5 still apply, and the swipe gives the shape, never the voice.
 **"new brand <name>"** → copy `brands/_template/` to `brands/<slug>/`, then fill `brand.md` from whatever Reed pastes (product page, reviews, research, competitor ads) and ask for the gaps in one short list. Only true facts go in `brand.md`; the ads can dramatize later (principle 6). No brand formula until the brand has a winner; until then route 1 isn't offered.
 
 ## The runbooks — open the one the command names, nothing else
@@ -95,6 +97,7 @@ Reed is the writer and the strategist: ideates, writes the front of every script
 | "movie" / "make this a movie" / `Format: Movie` | `craft/formats/movie.md` |
 | "text hooks" | `craft/formats/text-hooks.md` |
 | "song" / "make this a song" / "song version of RP##" | `craft/formats/song.md` |
+| "podcast" / "podcast style" / `Format: Podcast` | `craft/formats/podcast.md` (DRAFT until Reed edits one) |
 | "Zack D" / "Zack D version of RP##" / `Format: Zack D` (on call only) | `craft/formats/zackd.md` — overrides the house voice and CTA, never the word or image rule |
 | "b-roll" / "b-roll for V1" / "overlay ideas" (on request only) | `craft/formats/broll.md` |
 | "Spanish version" / "translate RP##" | the brand's `spanish.md` (Palace Guard has one) |
@@ -111,7 +114,7 @@ A miss adds one line to one runbook or one test to a gate, never a paragraph to 
 ├── craft/                     ← good copy for any brand
 │   ├── playbook.md            ← the direct-response playbook (house ethics override it, principle 6)
 │   ├── audit.md               ← auto-fix layer + the teardown
-│   └── formats/               ← movie · song · zackd · LFS · broll · text-hooks
+│   └── formats/               ← movie · song · podcast · zackd · LFS · broll · text-hooks
 ├── brands/
 │   ├── palace-guard/          ← brand.md · write.md · hooks.md · levers.md · spanish.md · edits.md · briefs.md · scripts/RP##.md
 │   └── _template/             ← what "new brand" copies
