@@ -150,6 +150,7 @@
 - **"Give me lines for this beat"** → two or three, each labeled with what it's built from. Never one unlabeled line.
 - **"What's missing from the winners?"** → section three checked against the draft, in the audit's beat-bank step.
 - **"Make this more natural / simpler"** → CLAUDE.md principles, applied to that line, result in chat.
+- **"Paste the script" / handing a draft back** → in chat, always in this order (Reed, RP20, 2026-11-19, "how we always do"): V1 hook and plate, V2 hook and plate, V3 hook and plate, then the shared body once. Never the file's V1-with-body-then-V2-V3 layout.
 
 ## 7. Rules of this file
 - No assumptions. If the answer isn't in this file, the last three briefs, or Reed's mouth, ask.
