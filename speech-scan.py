@@ -16,7 +16,7 @@ STUMBLE = re.compile(r"\b(\w+), \1\b", re.I)
 def sentences(text):
     return [s.strip() for s in re.split(r'(?<=[.!?])\s+', text) if s.strip()]
 
-CAPS_OK = ("ER","UGC","LFS","P.S","PS","AM","PM","TV","GPS","ICU","CVS","LDL","HDL","DOT","NA","MD","TSA","RA","SUV","ATM","YMCA")
+CAPS_OK = ("ER","UGC","LFS","P.S","PS","AM","PM","TV","GPS","ICU","CVS","LDL","HDL","DOT","NA","MD","TSA","RA","SUV","ATM","YMCA","UPD")
 BANNED = re.compile(r"\b(gang[- ]?rap\w*|rap(?:e|ed|es|ing|ist|ists)|sexual(?:ly)?\s+(?:assault\w*|violence|abuse)|molest\w*|kill(?:s|ed|ing|er|ers)?|murder\w*)\b", re.I)
 FORMATTING = re.compile(r'^\s*(#{1,6}\s|[-*•]\s|\d+\.\s)|\*\*|__|[\U0001F300-\U0001FAFF\u2600-\u27BF]')
 
@@ -103,10 +103,9 @@ def scan(text, lfs=False):
         fill = sum(_count(f) for f in FILLERS) + sum(low.count(f) for f in ("um,", "uh,", ", like,", " like, "))
         stum = len(STUMBLE.findall(text))
         hook = (lines[0] if lines else "").lower()
-        # Reed, 2026-10-16: "add some filler words here and there, like, um, and" -- aim 4-8 per script, never in the hook or the product facts
-        if fill < 4: soft.append(f"FILLERS: {fill} (too clean: add um / like / and here and there, aim 4-8, Reed 2026-10-16)")
-        elif fill > 10: soft.append(f"FILLERS: {fill} (over 10 reads as a tic; aim 4-8)")
-        else: soft.append(f"FILLERS: {fill} (in range 4-8)")
+        # Reed, 2026-11-17: no um / uh / like / god unless he asks for them (replaces the 2026-10-16 budget of 4-8)
+        spoken = sum(low.count(f) for f in ("um,", "uh,", ", like,", " like, ", "god,", "god.", ", god"))
+        if spoken: soft.append(f"FILLERS: {spoken} um/uh/like/god (default is none unless Reed asked for them, Reed 2026-11-17)")
         if any(f in hook for f in ("um,", "uh,", " like,")): soft.append("FILLER IN THE HOOK: take it out")
         if stum > 1: soft.append(f"STUMBLES: {stum} (budget 1, persona may override)")
         soft.append(f"WORDS: {words}  ~{words/190*60:.0f}s @190wpm  ~{words/160*60:.0f}s @160wpm")
