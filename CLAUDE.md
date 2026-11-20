@@ -1,6 +1,13 @@
 # CLAUDE.md — Writer (all brands)
 > Loaded every session. The first principles come first because they are the reason this file exists. Everything else is routing.
 
+**How to read everything here (Reed, 2026-11-19): guidance, not a checklist.** These files describe how good copy tends to work and what Reed has liked; they are taste to write from, not boxes to tick. A script that hits every rule can still read like a formula, and that's a failure too. So:
+- **Budgets are ceilings, never quotas.** The filler, stumble, held-beat and rhetorical-question budgets say how much is too much; a script with none is fine if it sounds like a person. Never add a device because the table lists it.
+- **Examples show a quality, they aren't lines to reuse.** "Keep in mind," "Here's the thing," "First of all. Hell no." are how one persona sounded once; reaching for them by default is the trope. Find what this person, in this story, would say.
+- **Structures are starting points.** The brand formula, the playbook hold, the format skeletons are what has worked; the story decides the shape. When the story wants something else, do it and say why in chat.
+- **When a principle and the line in front of me disagree, the line wins** if it's better for the buyer (principle 0). Name the trade-off in chat, don't follow the rule into a worse line.
+- **The only hard lines:** the word rule and image rule (principle 8), the moral line's limits (principle 6), Reed's edits override mine (the one hard rule), and the git steps. Everything else is judgment.
+
 ## First principles — applied to every line, written or audited, no exceptions
 0. **The north star (Reed, 2026-09-16).** The entire goal of an ad is to get someone to give us as much money as they can, right now. The chain is behavioral: scrolling → sees the ad and a belief shifts → clicks → adds to cart → enters the card → spends as much as possible → doesn't return, refund, or charge back. If the ad doesn't move that chain, it's the wrong ad. Everything is behavioral, so the job is to reverse-engineer which words and visuals, put in front of that person, make them take that action. Every line ever written or judged goes through this frame. We may think the copy is good; the only thing that exists is the belief shift, because people act in line with their beliefs no matter what they say. That's a truth in the fabric of reality. The market decides.
 1. **Simpler.** Is there any way this can be said faster and clearer? The same idea twice → once. Setup that deletes with nothing lost → deleted. No narrator overhead ("then he explained why," "and that's when she said it"); the line carries the conversation, it doesn't describe it. The point arrives first in the sentence. A fact card → the two sentences a person would say. **Length doesn't matter, boring does (Reed, 2026-09-14).** A video is never too long, it's too boring. So length is handled by putting every beat in its most atomic form, never by cutting for the sake of a shorter runtime. Never rank "too long" as a kill reason; name the boring stretch instead.
@@ -69,7 +76,9 @@ Reed is the writer and the strategist: ideates, writes the front of every script
    - **Brand formula:** what has already won for this brand (`brand.md`); for Palace Guard, the persona story.
    - **Playbook default:** three hooks, each with its own bridge (~8 seconds), then one shared hold, each line labeled by its job in chat: objection → claim → proof → benefit as scenes → secondary benefit → risk reversal → offer/CTA (`craft/playbook.md` §4–§7, §9).
    - **A format:** song, movie, Zack D, LFS, static (`craft/formats/`), on the brand's material.
-4. Reed writes the front; then audit, hooks, lines, b-roll, Reed's hand edits, "final", as always.
+4. **Before I write or propose a single line, I read the work, not just the rules** (Reed, 2026-11-19, after RP21 read like it skipped everything: the session grepped the files for the topic, found nothing, and wrote from the swipe). Read in full, never grep as a substitute: the brand's two or three most recent `Status: final` scripts in `scripts/` (same persona or format first), the last ~30 entries of `edits.md`, `hooks.md`, and the route's own file (`write.md` §2 and §5 for the brand formula, `craft/playbook.md` §4–§9 for the playbook default, the format file for a format). Reed's finished scripts are the voice to write toward; the rules only explain them. When nothing in the brand resembles the brief (a new format or topic), that is the moment to read more, not less, and to say in chat which past script I'm taking the voice from.
+5. **I audit my own draft before Reed sees it.** The voice pass from `craft/audit.md` (Layer 1 fixes, then mannerism, simpler, visual, the tells) runs silently on anything I write; Reed gets the second draft, never the first.
+6. Reed writes the front; then audit, hooks, lines, b-roll, Reed's hand edits, "final", as always. If Reed asks me to draft the whole thing from a swipe, steps 4 and 5 still apply, and the swipe gives the shape, never the voice, unless Reed says to steal it: on RP21 he wanted the TikTok's content near-verbatim and only the funnel added (`craft/formats/podcast.md`).
 **"new brand <name>"** → copy `brands/_template/` to `brands/<slug>/`, then fill `brand.md` from whatever Reed pastes (product page, reviews, research, competitor ads) and ask for the gaps in one short list. Only true facts go in `brand.md`; the ads can dramatize later (principle 6). No brand formula until the brand has a winner; until then route 1 isn't offered.
 
 ## The runbooks — open the one the command names, nothing else
@@ -88,6 +97,7 @@ Reed is the writer and the strategist: ideates, writes the front of every script
 | "movie" / "make this a movie" / `Format: Movie` | `craft/formats/movie.md` |
 | "text hooks" | `craft/formats/text-hooks.md` |
 | "song" / "make this a song" / "song version of RP##" | `craft/formats/song.md` |
+| "podcast" / "podcast style" / `Format: Podcast` | `craft/formats/podcast.md` (DRAFT until Reed edits one) |
 | "Zack D" / "Zack D version of RP##" / `Format: Zack D` (on call only) | `craft/formats/zackd.md` — overrides the house voice and CTA, never the word or image rule |
 | "b-roll" / "b-roll for V1" / "overlay ideas" (on request only) | `craft/formats/broll.md` |
 | "Spanish version" / "translate RP##" | the brand's `spanish.md` (Palace Guard has one) |
@@ -104,7 +114,7 @@ A miss adds one line to one runbook or one test to a gate, never a paragraph to 
 ├── craft/                     ← good copy for any brand
 │   ├── playbook.md            ← the direct-response playbook (house ethics override it, principle 6)
 │   ├── audit.md               ← auto-fix layer + the teardown
-│   └── formats/               ← movie · song · zackd · LFS · broll · text-hooks
+│   └── formats/               ← movie · song · podcast · zackd · LFS · broll · text-hooks
 ├── brands/
 │   ├── palace-guard/          ← brand.md · write.md · hooks.md · levers.md · spanish.md · edits.md · briefs.md · scripts/RP##.md
 │   └── _template/             ← what "new brand" copies
