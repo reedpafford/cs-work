@@ -4,18 +4,20 @@
 ## What it is
 A clip that looks cut from a longer conversation: a guest with authority (an investigator, a detective, a nurse, a founder) and a host who stands in for the viewer. The format buys credibility (nobody's selling, they're just talking) and lets the authority deliver the pitch as a recommendation (`craft/playbook.md` §7). The script file uses the movie shape for speakers: `Name: line`, with a `Cast:` line in the header.
 
-## Lead with a case, not a list
-The trap is the swipe's shape. Informational clips ("4 signs…") get their hold from the list, but a list with nobody in danger gives the viewer nothing to picture or feel (principle 2; the brand formula is a story because a story installs the belief). So:
-- **The guest tells one case** (a named girl, a place, the moment it went wrong), and the tips come out of it: "the zip tie was still on her handle when we got there."
-- **A list is fine as the hook's promise** ("four signs a trafficker leaves on her car"), as long as at least one sign is told as something that happened to someone.
-- If Reed wants a pure list on purpose, it's a test of a new shape; say so in the memo.
+## Steal the swipe's content, then funnel (Reed, RP21, 2026-11-19)
+The case-led rewrite (a named girl, the signs coming out of her story) was "bad bad." Reed's call: "write closer to the tiktok, basically stealing its content, just funnel it to buying the product." So when the swipe is an informational clip that already works (a "4 signs" countdown):
+- **Keep its list, its order and its wording, near-verbatim.** Change only what routes it to the buyer (her daughter instead of "you") and what the word rule needs.
+- **Keep the host's short reactions where the swipe has them** ("Oh my gosh." "No." "That's scary."), then give the host one real question at the end of the list, the one the mom watching is thinking ("What if she doesn't see any of it?"), and that question is the turn.
+- **Don't invent a story the swipe doesn't have.** The value is the list; the ad's only addition is the funnel after it.
 
 ## The two voices
 - **The guest** gets a persona register like any authority (`brand.md`): what they've seen, said flat, with their own words, never the stock openers ("Look," "Here's the thing") by default.
 - **The host** is the viewer's mouth, not a reaction track. One-word reactions ("No." "Oh my gosh.") are seasoning, once or twice; the host's real job is the question the viewer is thinking ("What if she doesn't see any of it?"), which becomes the turn into the product.
 
+**From Reed's RP21 pass:** the guest gives orders, not descriptions ("Don't touch it. She needs to get in her car and get to safety."). The host's lines are recognition, not just reactions: "I think I've heard this one" on a sign, and "Oh wait, I've heard of these! How do we get one?" on the brand, so the host is social proof for the product as well as the viewer's mouth.
+
 ## The back half
-The guest carries the sell as a recommendation ("That's why we've been telling moms…"), then the brand's product block, offer, share CTA and close from `write.md`, in the guest's voice. The host can ask where to get one; the host never pitches.
+The guest carries the sell as a recommendation ("That's why we've been telling moms…"), then the brand's product block, offer, share CTA and close from `write.md`, in the guest's voice. The host can ask where to get one, and can say she's heard of it; the host never pitches. The guest points at the link ("It'll be linked to this post") before the sale, and "not affiliated" comes as an afterthought ("Oh and I'm not affiliated with them at all").
 
 ## Read before drafting
 RP21 (`brands/palace-guard/scripts/RP21.md`) for what the first one did, and its `briefs.md` entry for what Reed changed, once it's final.
