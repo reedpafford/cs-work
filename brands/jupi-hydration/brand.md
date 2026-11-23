@@ -43,7 +43,17 @@ Bloating gone and jeans fitting · energy back · not catching everything · foo
 All four male lanes are wide open.
 
 ## Customer language
-Reviews centre on bloating easing within days, jeans fitting, and the taste. Quotes with source: ?
+**Amazon 5-star reviews, the top 100 by helpful (read 2026-11-23).** Rough counts: taste ~25 · bloating ~15 · energy ~12 · "it replaced what I used to mix myself" ~6 · regularity ~5 · hydration ~4 · appetite or eating less ~3 · immunity ~3 · reflux 2 · mental clarity 2. Buyers skew older than the primer's lanes (seniors, a 67-year-old working 50 hours a week, a dad recommending it, husbands drinking it too); some are Spanish speakers; some found it through Facebook health pages.
+- **Why they gave it 5 stars:** it fixed one thing they could feel within a week, it tasted better than they expected from turmeric and ginger, and it replaced a routine they used to put together themselves.
+- **Bloating:** "I usually get super bad digestion by the end of the day, and this has helped me feel so much lighter and more comfortable after meals!" · "It definitely knocks out the bloating." · "I am not bloated anymore like I use to be." · "no more bloating and inflammation" · "I feel less bloated or not at all, and also find I am eating less."
+- **Energy:** "a really clean, steady energy boost without any jitters or crash" · "I'm not reaching for coffee or high carb options in the mornings" · "I'm 67 years old and still working 50 hours a week… gives me the energy that I need to get through my day" · "I haven't felt this good in years" · "Love The Little Ginger Jolt"
+- **It replaced their homemade version:** "I've made similar with a real juicer, this has all same ingredients and is easy and way less work." · "all the ingredients I was mixing in tea are in it already" · "I'm an herbalist and can make it myself, but why would I" · "Usually, I have made my own combination in the past with these ingredients and no longer need to." · "easier than swallowing a handful of vitamins"
+- **Taste, as a surprise:** "it actually tastes delicious (which I wasn't expecting with turmeric + ginger)" · "I had to recheck to make sure it really didn't have any sugar in it" · "like a watered-down orange flavor (tang, almost) with black pepper"
+- **Regularity:** "I have been constipated most of my life… If it will make me go it will make anyone go." · "It's working better than MiraLax!"
+- **Hydration:** "Stay more hydrated without drinking a lot of water."
+- **Their rituals:** first thing in the morning, sipped hot while getting ready, poured over ice, with a frother, blended with kiwi and pear, mixed into green tea or collagen.
+- **What even the 5-star reviewers didn't like:** a bitter, harsh taste for the first few days · grit at the bottom · "too much salt" · ginger stains · it burns going down · the price.
+- **Not usable as claims** (medical, or not what the label says): stopping reflux medication, blood sugar, leg pain, losing weight.
 
 ## Beliefs and objections
 - "I drink plenty of water, so I'm hydrated." · "I eat healthy, so it can't be my food." · "It's just my age / just stress." · Category: "powders don't do anything." · Avatar (M1): "that's a women's thing."
