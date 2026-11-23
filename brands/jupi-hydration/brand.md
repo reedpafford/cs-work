@@ -3,8 +3,10 @@
 
 **Briefs are `JRP##`** (Reed, 2026-11-23), their own series, never `RP##`.
 
+**Before any Jupi script work, read `organic.md`** (how organic scripts work, from the Tankas masterclass; Jupi only). Scripts are in US English: mom, fiber, eight glasses (Reed, 2026-11-23).
+
 ## The channel (how this brand is different from Palace Guard)
-Organic, not paid: AI avatar pages on Facebook and Instagram, monetised through an **Amazon affiliate link**. Nobody assigns the brief; Reed picks the direction, so I generate and pressure-test ideas and **push back when one is generic or saturated** (the primer: "being agreeable costs me months"). **The KPI is US reach**; engagement from the wrong geography converts to nothing, so the references, money and vocabulary are American. Tools: Veo 3, Google Flow, Higgsfield, CapCut, ElevenLabs.
+Organic, not paid: AI avatar pages on Facebook and Instagram, monetized through an **Amazon affiliate link**. Nobody assigns the brief; Reed picks the direction, so I generate and pressure-test ideas and **push back when one is generic or saturated** (the primer: "being agreeable costs me months"). **The KPI is US reach**; engagement from the wrong geography converts to nothing, so the references, money and vocabulary are American. Tools: Veo 3, Google Flow, Higgsfield, CapCut, ElevenLabs.
 - **The five pillars:** avatar and environment · content concepts and scripts (the most room) · editing style · realism · volume and consistency. Hit all five and it generally goes viral; where one isn't new, the others carry it. On any idea, the question is which pillar it innovates in and whether it's actually new, not whether it matches the format working now.
 - **Saturated (2026-11-23):** talking head plus subtitle overlay as the whole edit · generic wellness avatars in generic kitchens · network formats copied without real change · the three-second visual hook opening is now baseline, not an edge.
 - **What reads as AI:** orange or cartoony skin · green-screen or floating backgrounds · face lighting that doesn't match the room · hands · a robotic or inconsistent voice.
@@ -33,7 +35,7 @@ Bloating gone and jeans fitting · energy back · not catching everything · foo
 - **F4 sensitive-gut woman (30–55):** trigger-food list, scans menus, plans life around her stomach; wants food freedom.
 - **F5 depleted-gut woman (35–60):** "My stomach hasn't been right since those antibiotics."
 - **F6 desk-life woman (35–55):** the 5pm bloat, unbuttoning jeans by evening, "I eat a salad and still bloat"; wants low effort, sceptical of overhauls.
-- **F7 run-down mum (30–48):** catches every bug the kids bring home; won't buy for herself, will buy to stay strong for her family.
+- **F7 run-down mom (30–48):** catches every bug the kids bring home; won't buy for herself, will buy to stay strong for her family.
 - **M1 bloated midlife man (45–65):** the belly that isn't just beer; won't touch anything feminine or medical; his wife is often the buyer.
 - **M2 stressed working man (35–55):** performance framing, never vulnerability.
 - **M3 older man slowing down (55–70):** wants to stay capable and independent.
@@ -61,7 +63,8 @@ None yet. Built per avatar (the primer's Primer 2 is one chat per avatar; here, 
 - **Numbers:** the symptom library is directional, not statistics. A specific health number in a script gets sourced first. This is stricter than the house principle 6 and holds for this brand.
 - **Never invent an ingredient.**
 - The house word and image rules (CLAUDE.md principle 8) still hold. No before/after imagery (a waistline or jeans shot that reads as before/after is the same landmine).
-- **Platform read, Reed's call:** affiliate posts need a disclosure (#ad, or "I earn from links"). If a post is ever boosted or run as an ad, Meta's personal-attributes rule bites on "you" plus a health condition ("Are you bloated?"); organic posts aren't reviewed that way.
+- **Not flagged (Reed, 2026-11-23):** affiliate disclosure and Meta's personal-attributes rule; organic posts.
+- **The product has to really solve what the script sets up**; commenters and Amazon reviewers call it out when it doesn't (`organic.md`).
 
 ## Brand formula
 `?` until a piece wins.
