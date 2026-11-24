@@ -1,5 +1,5 @@
 # JRP2 — The no-surgery tummy tuck (celebrity dupes)
-Brand: jupi-hydration · Persona: the athletic fitness-influencer man · Awareness: TOF · Format: Celebrity dupes (talking head)
+Brand: jupi-hydration · Persona: the athletic fitness-influencer man · Awareness: TOF · Format: Celebrity dupes (talking head, in a Walmart supplement aisle)
 Status: drafting
 Parent: — · Lever: —
 
@@ -15,14 +15,14 @@ The drugstore version of every celebrity belly pill
 That's a tummy tuck, and so is that one.
 And this one, look at her, she's 60 and that's a tummy tuck.
 Except not one of them went under the knife, and not one of them is living on lettuce.
-So put that 50 dollar bottle of belly pills down, because I'm about to show you what's actually in them, and the drugstore version that does the same thing for drugstore money.
+So put that 50 dollar bottle of belly pills down, because I'm about to show you what's actually in them, and the Walmart version that does the same thing for Walmart money.
 If you're over 40, stay right here, this one's for you.
 I'm 34, I've trained women for twelve years, and I know exactly what to look for on these labels.
 Everybody's on berberine right now, they're calling it nature's Ozempic, and the fancy bottles run about 45 dollars.
-Nature's Bounty makes one for about 18 dollars at Walmart.
+Nature's Bounty makes this one for about 18 dollars.
 Same berberine in both.
 Take it with your biggest meal and it helps keep your blood sugar from spiking, and that spike is what tells your body to store fat around your middle.
-Then for the bloating, the celebs are on Seed at about 50 dollars a month, and Culturelle is about 20 dollars at CVS.
+Then for the bloating, the celebs are on Seed at about 50 dollars a month, and Culturelle is about 20 dollars, right here.
 Both put the good bacteria back in your gut, the kind that keeps you from swelling up after dinner.
 Now the one everybody keeps quiet about, Moon Juice magnesium, 42 dollars.
 Natural Calm is about 20 dollars, and it's the same magnesium.
