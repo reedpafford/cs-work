@@ -84,6 +84,7 @@ Others built per avatar (the primer's Primer 2 is one chat per avatar; here, one
 `?` until a piece wins.
 
 ## Product blocks
+- **Fitness-influencer man, three-way comparison on hydration:** JRP4 ("this anti-bloating hydration mix," pink Himalayan salt and nine electrolytes so the water stays in you, drink less and feel more hydrated than on a gallon, "and yes, it actually tastes good," orange with no added sugar, "the best part" ginger plus kiwi and papaya so it doesn't sit and bloat you, about a dollar a scoop and a jar lasts a month, Amazon by search and the profile link, selling out since it went viral, grab one before the holidays, share, comment "Jupi", follow first).
 - **Fitness-influencer man, comparison format:** JRP1 ("switching over to this anti-bloating mix," the fixes in order, "This is because" ginger plus kiwi and papaya, orange with no added sugar, electrolytes, about a dollar a scoop, one scoop and you're good to go, Amazon by search and the profile link, the sell-out and holiday clock, share, comment "Jupi", follow first).
 - **The fitness-influencer avatar, anti-bloat mix (JRP2, 2026-11-23):** the newest is in `write.md` § Winning messaging, "The product block, anti-bloat mix."
 - **The fitness guy, closing a skit (JRP3, 2026-11-24):** "This is Jupi, and it's every single thing you just did, in one scoop." · taste: "Wait, where's the sugar?" / "There isn't any. That's blood orange, sweetened with monk fruit." · the close in `write.md` (JRP3 close).
