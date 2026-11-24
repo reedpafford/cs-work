@@ -32,6 +32,16 @@ What the socks script got wrong, so ours don't:
 - **Once she's sold, stop.** Bringing up the failed fixes again after the pitch is out of place.
 - **Cut filler** ("that's why I never go without it" didn't carry anything).
 
+## The "How X vs how Y" comparison (Reed, 2026-11-23, JRP1, from the @dealswithkeelz pillow script)
+1. **Curiosity hook with the desired outcome in it:** "How ugly people sleep vs how models sleep." The bad side is what the viewer is living with.
+2. **The common cause, explained, then a chain of symptoms**, each one causing the next (American pillow → double chin → mouth breathing → snoring → facial posture), tied back to the hook's look.
+3. **A second common pain, more chained symptoms** (side sleepers → the gap → neck sinks → neck pain). She should be thinking "so that's why I feel like this."
+4. **The fix she already tried, and how it backfires** (arm under the pillow → numb hands). "Not to mention" one more.
+5. **Transition to the product:** "this is why so many people are switching over to this."
+6. **The good symptoms, in the same order, each one fixing a pain from 2–4**, and landing back on the hook's outcome.
+7. **Product selling:** features after the fixes ("It even has…", the material, the price).
+8. **Direct CTA** (the organic two-part CTA above).
+
 ## Where the product goes
 - **Late, and on the side.** The video is about the recipe, or the comparison, or the routine. Jupi is one ingredient or one product among the others. Viewers drop off whenever a product appears; that can't be avoided.
 - **The desire is built in the body of the script, not the CTA.** If the script makes her want it enough, she buys without being pushed. A good bridge keeps the CTA from sounding out of place.
