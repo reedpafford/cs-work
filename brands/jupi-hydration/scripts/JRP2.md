@@ -33,11 +33,11 @@ Every woman over 40 knows what I'm talking about, you eat a salad for lunch and 
 That's inflammation, and your belly fat won't go down until the inflammation does.
 And this is the one thing I don't dupe.
 Turmeric is what calms that fire, but most of the turmeric you swallow goes straight through you and never does a thing.
-Jupi puts it with black pepper, and the black pepper is the whole reason it works.
+So what I take is an anti-bloat mix that puts the turmeric with black pepper, and the black pepper is the whole reason it works.
 Then there's ginger, the same ginger that's in a 6 dollar shot at the juice bar, and enzymes from real kiwi and papaya that help break your food down so it isn't just sitting there.
-One scoop in water every morning, and it tastes like blood orange.
-But be careful, most brands fill theirs with cheap fillers and sugar, which is why the only one I trust is Jupi.
-No added sugar, and it's made right here in America.
+One scoop in water every morning.
+But be careful, most of these mixes are full of cheap fillers and sugar, which is why the only one I trust is Jupi.
+No added sugar, it tastes like blood orange, and it's made right here in America.
 You can find it on Amazon by searching Jupi Hydration.
 Or to make it easier, just click the link in my profile.
 Send this to someone who needs to see it.
