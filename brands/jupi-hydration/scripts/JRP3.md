@@ -38,27 +38,37 @@ Him: Go ahead, I'll wait.
 [SCENE 1 — her kitchen counter, the same morning]
 (she squeezes half a lemon into a mug of warm water)
 Her: Lemon water first, because it helps settle my stomach.
-Him: (taps the jar) Lemon.
+(he taps the jar; the label pops up on screen: Organic Lemon 25 mg, Lemon Balm 100 mg)
+Him: Lemon, and lemon balm on top of it, which calms your stomach down even more.
 (she pours apple cider vinegar into a shot glass, knocks it back, and her whole face scrunches up)
 Her: Apple cider vinegar for that heavy feeling after I eat.
+(on screen: Organic Apple Cider Vinegar 125 mg)
 Him: That's in here too, and you don't have to make that face.
 (she peels the ginger with a spoon, grates it, and pushes it through the juicer, which is loud)
 Her: Fresh ginger, so my food actually moves instead of sitting in there like a brick.
-Him: Got it.
+(on screen: Organic Ginger Root 250 mg)
+Him: 250 milligrams of ginger.
 Her: I'm not done.
+(she cuts a kiwi in half, then scoops out a papaya, and the seeds go everywhere)
+Her: Kiwi and papaya, because they've got the enzymes that actually break your food down.
+(on screen: Kiwi Fruit 300 mg, Papaya Fruit 150 mg)
+Him: Both of them.
 (she shakes cayenne into the ginger juice and coughs)
-Her: A pinch of cayenne, which wakes up your digestion and gets your blood moving.
+Her: A pinch of cayenne, to get my blood moving.
+(on screen: Organic Cayenne Pepper 10 mg)
 Him: Yep.
 (her hair is coming out of its clip; she spoons turmeric into a glass, stops, and grabs the pepper grinder)
 Her: Now turmeric, for the stiff, achy mornings, but you have to grind black pepper on it, because without the pepper your body barely absorbs any of it.
-(he turns the jar around and points at the label)
-Him: Even the pepper.
-(she stares at the jar for a second, then tears open an electrolyte packet with her teeth)
-Her: I drink water all day and still feel dried out, so electrolytes.
-Him: Sodium, potassium and magnesium are all in here, and that's what makes the water actually stick.
-(she unscrews her vitamin C bottle, then her vitamin D bottle, and shakes one pill out of each)
-Her: And my vitamin C and D, so I'm not catching every cold that goes around.
-Him: Both in here.
+(he turns the jar around and points at the label; on screen: Organic Turmeric Root 500 mg, BioPerine Black Pepper Extract 5 mg)
+Him: 500 milligrams of turmeric, and even the pepper.
+(she stares at the jar for a second, then pours coconut water into a glass and shakes in pink salt)
+Her: I drink water all day and still feel dried out, so coconut water with a little pink salt.
+(on screen: Sodium 400 mg from Himalayan Pink Salt, Potassium 150 mg, Magnesium 100 mg, Coconut Water 100 mg)
+Him: The coconut water and the pink salt are in here, plus potassium and magnesium, and that's what makes the water actually stick.
+(she unscrews her vitamin C, her vitamin D and her zinc, and shakes one pill out of each)
+Her: And my vitamin C, my D and my zinc, so I'm not catching every cold that goes around.
+(on screen: Vitamin C 100 mg, Vitamin D3 2,000 IU, Zinc 2 mg)
+Him: All three, with 2,000 units of vitamin D.
 (she looks down at the counter: lemon rinds, ginger peel, a juicer full of pulp, six bottles, four dirty glasses)
 (the clock on the stove says 7:42)
 Her: That's twenty minutes, and I still have to clean the juicer.
