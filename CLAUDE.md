@@ -71,7 +71,7 @@ Reed is the writer and the strategist: ideates, writes the front of every script
 
 ## The brief workflow
 1. **"new brief"** → which brand (ask in one line if Reed didn't say), then the number (said in chat), then `brands/<brand>/scripts/RP##.md` from the shape below.
-2. **The memo, before any line is written** (`craft/playbook.md` §3 and §13). I draft it from `brand.md`, `briefs.md` and what Reed said, Reed corrects it, it goes in the file's `## Memo`: **Why** (the evidence: a winner, a research find, a gap) · **What** (the ad in one line) · **How** (a reference ad or past brief) · avatar and sub-avatar · desire · angle · awareness stage · mechanism · authority · **route**. Two minutes, not a document.
+2. **The memo, before any line is written** (`craft/playbook.md` §3 and §13). I draft it from `brand.md`, `briefs.md` and what Reed said, Reed corrects it, it goes in the file's `## Memo`: **Why** (the evidence: a winner, a research find, a gap) · **What** (the ad in one line) · **How** (a reference ad or past brief) · avatar and sub-avatar · desire · angle · awareness stage · mechanism · authority · **route**. **When the brief opens a new cohort, the memo also gets a `Words:` line: the words that cohort uses for its own problem, pulled from the sources (post titles, captions, comments), and the hooks and framing lines use them (Reed, RP27, 2026-11-24: "elope," "wander," "non-verbal" were in every source and I wrote "gotten out of the house").** Two minutes, not a document.
 3. **The route** decides the shape:
    - **Brand formula:** what has already won for this brand (`brand.md`); for Palace Guard, the persona story.
    - **Playbook default:** three hooks, each with its own bridge (~8 seconds), then one shared hold, each line labeled by its job in chat: objection → claim → proof → benefit as scenes → secondary benefit → risk reversal → offer/CTA (`craft/playbook.md` §4–§7, §9).
@@ -133,6 +133,7 @@ Parent: — · Lever: —
 ## Memo
 Why: … · What: … · How: …
 Avatar: … · Desire: … · Angle: … · Mechanism: … · Authority: …
+Words: … (a new cohort only: its own words, pulled from the sources)
 Route: brand formula | playbook default | <format>
 
 ## V1
