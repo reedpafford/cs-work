@@ -83,4 +83,4 @@ Others built per avatar (the primer's Primer 2 is one chat per avatar; here, one
 `?` until a piece wins.
 
 ## Product blocks
-`?` until a brief is final.
+- **Fitness-influencer man, comparison format:** JRP1 ("switching over to this anti-bloating mix," the fixes in order, "This is because" ginger plus kiwi and papaya, orange with no added sugar, electrolytes, about a dollar a scoop, one scoop and you're good to go, Amazon by search and the profile link, the sell-out and holiday clock, share, comment "Jupi", follow first).

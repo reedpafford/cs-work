@@ -1,6 +1,6 @@
 # JRP1 — Which is better?
 Brand: jupi-hydration · Persona: the athletic fitness-influencer man, cloned three times · Awareness: MOF · Format: Comparison
-Status: drafting
+Status: final
 Parent: — · Lever: —
 
 ## Memo
@@ -24,7 +24,7 @@ And this is why so many people are dealing with it the way they do in Japan, by 
 This way, instead of waiting it out, your food actually gets broken down, so your stomach stays soft instead of tight, which actually helps you feel light and awake after you eat.
 And at work it's so much better, because you can sip it at your desk with lunch and sit through that meeting without holding anything in.
 And at night, you can lay however you want and actually fall asleep.
-**This is because it's got ginger to calm your stomach down, and kiwi and papaya to help break your food down, so it's not just covering the bloating up like a gas pill.**
+This is because it's got ginger to calm your stomach down, and kiwi and papaya to help break your food down, so it's not just covering the bloating up like a gas pill.
 It tastes like orange with no added sugar, it's got electrolytes if you don't drink enough water, and it's about a dollar a scoop.
 All you have to do is stir one scoop into water after you eat, and you're good to go.
 You can find it on Amazon by searching Jupi Hydration.
