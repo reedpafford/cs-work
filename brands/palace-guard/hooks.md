@@ -170,3 +170,5 @@ Plain numbered list, grouped by bucket, one line each, no commentary. Every hook
 - RP16 (2026-11-20, BOF): each hook names one buyer, never two ("moms and grandmas" was cut, Reed: "pick an identity"); when a third hook needs a target, give grandmas a second way in (the gift swap) before reaching for a new cohort like dads.
 
 - RP12 (Reed, 2026-11-17): on a viral swipe, the hooks are variations of the original video's own opening ("Truth is, ladies, make sure y'all share this with every woman you know. Human trafficking, things to avoid."), changing only who it's addressed to. Nothing about who the speaker is goes in the spoken hook when the visual already shows it ("don't include anything about a body guard, the visual will show that").
+
+- **A cohort's own word is the keyword (Reed, RP27, 2026-11-24).** When a hook names a community with its own vocabulary (autism parents: "elope," "wander," "non-verbal"), the hook uses their word, not a plain-English stand-in; it's how she knows the ad is from one of her own.
