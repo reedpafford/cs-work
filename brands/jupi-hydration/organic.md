@@ -40,7 +40,7 @@ What the socks script got wrong, so ours don't:
 5. **Transition to the product:** "this is why so many people are switching over to this."
 6. **The good symptoms, in the same order, each one fixing a pain from 2–4**, and landing back on the hook's outcome.
 7. **Product selling:** features after the fixes ("It even has…", the material, the price).
-8. **Direct CTA** (the organic two-part CTA above).
+8. **Direct CTA** (the organic two-part CTA, below).
 
 ## Where the product goes
 - **Late, and on the side.** The video is about the recipe, or the comparison, or the routine. Jupi is one ingredient or one product among the others. Viewers drop off whenever a product appears; that can't be avoided.
