@@ -13,7 +13,6 @@ Route: format (recipe, on the swipe's skeleton)
 My water recipe for butter skin
 ### Script
 Drinking more water isn't going to give you butter skin.
-You're just peeing it out, because it never makes it to your skin.
 Pinch the skin on the back of your hand right now, and if it takes a second to go flat, that's your skin telling you it's thirsty.
 
 ## V2
@@ -21,12 +20,13 @@ Pinch the skin on the back of your hand right now, and if it takes a second to g
 Pinch the back of your hand
 ### Script
 Pinch the skin on the back of your hand right now, and if it takes a second to go flat, your skin is thirsty.
-And drinking more water won't fix it, because you're peeing most of it out before it ever gets to your skin.
+**And no, drinking more water isn't going to fix it.**
 
 ## Body
 ### Script
 It's the same reason your makeup cracks by lunch, and the lines under your eyes are deeper at four o'clock than they were when you woke up.
 No cream can fix that, because a cream sits on top of your skin, and the water your skin is missing has to come from the inside.
+**And more water doesn't help, because most of it runs straight through you, and you pee it out before it ever gets to your skin.**
 To hold on to that water, your body needs something called electrolytes.
 So here's how I make my water for butter skin, and stay for the last ingredient, because almost nobody has heard of it and it's the one your skin needs most.
 Fill a big glass with cold water.
