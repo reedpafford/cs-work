@@ -10,13 +10,13 @@ Route: format (recipe, on the swipe's skeleton)
 
 ## V1
 ### Text Hook
-**It might not be your age**
-**Drinking all that water and still dry?**
-**It's not your serum**
+**Do your arms look like this?**
 ### Script
-**If the skin on your neck and arms is starting to look like crepe paper, it might not be your age.**
-**You carry a giant water bottle around all day, and your skin's still dry and tight by the afternoon.**
-**You can spend three hundred dollars on serums and your skin will still feel tight by lunch, and it's not the serums.**
+**Do your arms look like this?**
+**Does the skin on your arms do this when you bend your elbow?**
+**When you bend your elbow, the skin folds up like tissue paper, and when you wave, the skin underneath looks like crepe.**
+**Maybe you've started seeing it on your neck and your chest too.**
+**Everyone tells you that's just your age, but it might not be.**
 
 ## V2
 ### Text Hook
@@ -51,4 +51,4 @@ You can find it on Amazon by searching Jupi Hydration, or just tap the link in m
 Last year they ran out of stock for the holidays, so if the link still works, I wouldn't wait.
 If you want the night drink I make for my skin, comment the word jupi and I'll send it to you. Just make sure you're following me, or my message won't send.
 ### Notes
-His face fills the frame for the hook, close enough to see his skin. On the pinch line, he pinches the back of his own hand on camera. Each ingredient goes into the glass by hand as he names it; the acerola cherries in his palm on the reveal. At the Jupi line, the jar and its label with the same ingredients pointed out, then one scoop into a fresh glass and the stir, clear water turning blood orange.
+V1: on "like this," a close-up of a woman's arm, the skin folding like tissue paper as she bends her elbow, then the loose skin under her arm as she waves; her neck and chest on the next line. Never a before and after. V2: his face fills the frame, close enough to see his skin. On the pinch line, he pinches the back of his own hand on camera. Each ingredient goes into the glass by hand as he names it; the acerola cherries in his palm on the reveal. At the Jupi line, the jar and its label with the same ingredients pointed out, then one scoop into a fresh glass and the stir, clear water turning blood orange.
