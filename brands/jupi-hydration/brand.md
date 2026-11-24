@@ -84,4 +84,4 @@ Others built per avatar (the primer's Primer 2 is one chat per avatar; here, one
 `?` until a piece wins.
 
 ## Product blocks
-`?` until a brief is final.
+- **The fitness guy, closing a skit (JRP3, 2026-11-24):** "This is Jupi, and it's every single thing you just did, in one scoop." · taste: "Wait, where's the sugar?" / "There isn't any. That's blood orange, sweetened with monk fruit." · the close in `write.md` (JRP3 close).

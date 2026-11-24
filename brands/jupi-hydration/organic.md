@@ -40,7 +40,7 @@ What the socks script got wrong, so ours don't:
 
 ## The CTA on organic (Reed, 2026-11-23, JRP1): always two parts, different from paid
 1. **Where to buy, said out loud, at the product intro or the close.** Amazon by name, the search term, and the profile link. Reed's example: "but you can find it on Amazon by searching Jupi Hydration. Or to make it easier, just click the link in my profile." There's no ad button on an organic post, so the script has to tell her where it is.
-2. **Engagement asks at the very end, to push reach.** A share, a comment keyword with a reward, and the follow so the DM lands. Reed's example: "Send this to someone who needs to see it. And if you comment the word glow, I'll send you the morning routine I take with this. Just be sure you follow me first so my message delivers." The keyword and the reward change to fit each video (an example, not a line to reuse).
+2. **Engagement asks at the very end, to push reach.** A share, a comment keyword with a reward, and the follow so the DM lands. Reed's example: "Send this to someone who needs to see it. And if you comment the word glow, I'll send you the morning routine I take with this. Just be sure you follow me first so my message delivers." The keyword and the reward change to fit each video (an example, not a line to reuse). JRP3 (Reed, 2026-11-24): a scarcity line before it ("Last year they ran out of stock for the holidays. If the link still works, I wouldn't wait."), the share ask dropped, the keyword the brand name and the reward "my favorite remedy to pair alongside Jupi."
 
 ## Formats now (2026-11), with where Jupi fits
 - **Recipe:** the most effective for Jupi. She's already trying recipes to fix her symptoms, so a little education gets her to try a new one.

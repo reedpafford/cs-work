@@ -1,6 +1,6 @@
 # JRP3 — Doing all that just to debloat
 Brand: jupi-hydration · Persona: the athletic fitness-influencer man, answering; the ICP woman, building · Awareness: MOF · Format: Movie (two-person skit, the DIY stack against one scoop)
-Status: drafting
+Status: final
 Parent: — · Lever: —
 Cast: Her (late 40s, our buyer, in her robe at her own kitchen counter) · Him (the fitness guy, 30s, across the island with one jar and a glass of water)
 
@@ -13,19 +13,11 @@ Route: format (the DIY stack against one scoop), product named late and plainly
 ### Script
 [HOOK — her kitchen, a weekday morning]
 (she's at the counter in her robe with a cutting board, a lemon, a knob of ginger, a juicer and a row of bottles; he sits across the island with one jar and a glass of water)
-Her: This is what I do every single morning so my jeans still button by dinner.
+Her: This is what I do every single morning to fix my stubborn bloating.
 Him: Okay. Show me.
 (no cut; the body picks up at SCENE 1)
 
-## V2 - His challenge
-### Script
-[HOOK — her kitchen, a weekday morning]
-(same setup; he slides his jar to the middle of the island)
-Him: Show me everything you do to stop the bloating, and I'll tell you if it's in here.
-Her: Oh, you're gonna be here a while.
-(no cut; the body picks up at SCENE 1)
-
-## V3 - Just your age
+## V2 - Just your age
 ### Script
 [HOOK — her kitchen, a weekday morning]
 (same setup)
@@ -83,4 +75,8 @@ Him: There isn't any. That's blood orange, sweetened with monk fruit.
 (she looks at the juicer, then at him)
 Her: So what am I supposed to do with that thing?
 Him: It's on Amazon, just search Jupi Hydration, or tap the link in my profile and it'll take you right to it.
-Him: Send this to the friend with ginger pulp in her sink right now. And if you comment the word scoop, I'll send you how I take mine after a big dinner, so just follow me first so the message goes through.
+(she takes it and runs off)
+Her: It's mine now!
+(he shakes his head)
+Him: Last year they ran out of stock for the holidays. If the link still works, I wouldn't wait.
+Him: If you want my favorite remedy to pair alongside Jupi, comment the word jupi and I'll send it to you. Just make sure you're following me, or my message won't send.
