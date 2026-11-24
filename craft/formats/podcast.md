@@ -21,3 +21,6 @@ The guest carries the sell as a recommendation ("That's why we've been telling m
 
 ## Read before drafting
 RP21 (`brands/palace-guard/scripts/RP21.md`) for what the first one did, and its `briefs.md` entry for what Reed changed, once it's final.
+
+## The interview variant (RP25, 2026-11-24, DRAFT)
+A reporter and the threat himself (an abductor, face blurred, dark room; the CNN cartel-interview shape). The hook is the reporter's question and his answer is the bridge. The reporter stays neutral and asks in whole, natural sentences ("Do you have any idea how many girls it was?"), never one-word prompts. He's emotionless but not robotic (Reed): a chuckle, a small joke, "I'm not sure," "we," a crew around him. The product never comes from him; it's his grudge ("the ones I really hated were the girls with those little alarms"), and the reporter closes by reporting what she found and telling the viewer to do the same.
