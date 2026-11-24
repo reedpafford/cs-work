@@ -1,6 +1,6 @@
 # JRP2 — The no-surgery tummy tuck (celebrity dupes)
 Brand: jupi-hydration · Persona: the athletic fitness-influencer man · Awareness: TOF · Format: Celebrity dupes (talking head, in a Walmart supplement aisle)
-Status: drafting
+Status: final
 Parent: — · Lever: —
 
 ## Memo
@@ -14,10 +14,9 @@ The drugstore version of every celebrity belly pill
 ### Script
 That's a tummy tuck, and so is that one.
 And this one, look at her, she's 60 and that's a tummy tuck.
-Except not one of them went under the knife, and not one of them is living on lettuce.
+Except not one of them went under the knife, and not one of them is on the shot.
 So put that 50 dollar bottle of belly pills down, because I'm about to show you what's actually in them, and the Walmart version that does the same thing for Walmart money.
-If you're over 40, stay right here, this one's for you.
-I'm 34, I've trained women for twelve years, and I know exactly what to look for on these labels.
+I've helped millions of men and women in their 40s, 50s and 60s achieve their dream body over the last 12 years, so trust me when I say I know exactly what to look for on these labels.
 Everybody's on berberine right now, they're calling it nature's Ozempic, and the fancy bottles run about 45 dollars.
 Nature's Bounty makes this one for about 18 dollars.
 Same berberine in both.
@@ -33,13 +32,14 @@ Every woman over 40 knows what I'm talking about, you eat a salad for lunch and 
 That's inflammation, and your belly fat won't go down until the inflammation does.
 And this is the one thing I don't dupe.
 Turmeric is what calms that fire, but most of the turmeric you swallow goes straight through you and never does a thing.
-So what I take is an anti-bloat mix that puts the turmeric with black pepper, and the black pepper is the whole reason it works.
-Then there's ginger, the same ginger that's in a 6 dollar shot at the juice bar, and enzymes from real kiwi and papaya that help break your food down so it isn't just sitting there.
-One scoop in water every morning.
-But be careful, most of these mixes are full of cheap fillers and sugar, which is why the only one I trust is Jupi.
-No added sugar, it tastes like blood orange, and it's made right here in America.
+So what I recommend is an anti-bloat mix that puts the turmeric with black pepper, and the black pepper is the whole reason it works.
+The best mixes also have ginger, and enzymes from real kiwi and papaya that help break your food down so it isn't just sitting there.
+There's only one mix that combines all of these, and isn't made with cheap fillers and sugar, and it's called Jupi Hydration.
+It's got no added sugar, tastes better than orange juice, and it's made right here in America.
 You can find it on Amazon by searching Jupi Hydration.
 Or to make it easier, just click the link in my profile.
 Send this to someone who needs to see it.
 And if you comment the word flat, I'll send you the morning routine I take with this.
 Just be sure you follow me first so my message delivers.
+### Notes
+From the authority line on, every product is shown: the real labels, all off the same Walmart shelf.

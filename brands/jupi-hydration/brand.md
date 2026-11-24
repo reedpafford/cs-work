@@ -82,4 +82,4 @@ Others built per avatar (the primer's Primer 2 is one chat per avatar; here, one
 `?` until a piece wins.
 
 ## Product blocks
-`?` until a brief is final.
+- **The fitness-influencer avatar, anti-bloat mix (JRP2, 2026-11-23):** the newest is in `write.md` § Winning messaging, "The product block, anti-bloat mix."
