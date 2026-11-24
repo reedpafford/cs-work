@@ -1,6 +1,6 @@
 # JRP5 — Butter skin water
 Brand: jupi-hydration · Persona: the athletic fitness-influencer man · Awareness: TOF · Format: Recipe
-Status: drafting
+Status: final
 Parent: — · Lever: —
 
 ## Memo
@@ -10,26 +10,26 @@ Route: format (recipe, on the swipe's skeleton)
 
 ## V1
 ### Text Hook
-**Do your arms look like this?**
+Do your arms look like this?
 ### Script
-**Do your arms look like this?**
-**Does the skin on your arms do this when you bend your elbow?**
-**When you bend your elbow, the skin folds up like tissue paper, and when you wave, the skin underneath looks like crepe.**
-**Maybe you've started seeing it on your neck and your chest too.**
-**Everyone tells you that's just your age, but it might not be.**
+Do your arms look like this?
+Does the skin on your arms do this when you bend your elbow?
+When you bend your elbow, the skin folds up like tissue paper, and when you wave, the skin underneath looks like crepe.
+Maybe you've started seeing it on your neck and your chest too.
+Everyone tells you that's just your age, but it might not be.
 
 ## V2
 ### Text Hook
 Pinch the back of your hand
 ### Script
 Pinch the skin on the back of your hand right now, and if it takes a second to go flat, your skin is thirsty.
-**And no, drinking more water isn't going to fix it.**
+And no, drinking more water isn't going to fix it.
 
 ## Body
 ### Script
 It's the same reason your makeup cracks by lunch, and the lines under your eyes are deeper at four o'clock than they were when you woke up.
 No cream can fix that, because a cream sits on top of your skin, and the water your skin is missing has to come from the inside.
-**And more water doesn't help, because most of it runs straight through you, and you pee it out before it ever gets to your skin.**
+And more water doesn't help, because most of it runs straight through you, and you pee it out before it ever gets to your skin.
 To hold on to that water, your body needs something called electrolytes.
 So here's how I make my water for butter skin, and stay for the last ingredient, because almost nobody has heard of it and it's the one your skin needs most.
 Fill a big glass with cold water.
