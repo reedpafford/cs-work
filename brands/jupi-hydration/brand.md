@@ -84,3 +84,4 @@ Others built per avatar (the primer's Primer 2 is one chat per avatar; here, one
 
 ## Product blocks
 - **Fitness-influencer man, comparison format:** JRP1 ("switching over to this anti-bloating mix," the fixes in order, "This is because" ginger plus kiwi and papaya, orange with no added sugar, electrolytes, about a dollar a scoop, one scoop and you're good to go, Amazon by search and the profile link, the sell-out and holiday clock, share, comment "Jupi", follow first).
+- **The fitness-influencer avatar, anti-bloat mix (JRP2, 2026-11-23):** the newest is in `write.md` § Winning messaging, "The product block, anti-bloat mix."
