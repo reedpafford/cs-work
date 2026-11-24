@@ -34,7 +34,7 @@ What the socks script got wrong, so ours don't:
 
 ## The "How X vs how Y" comparison (Reed, 2026-11-23, JRP1, from the @dealswithkeelz pillow script)
 1. **Curiosity hook with the desired outcome in it:** "How ugly people sleep vs how models sleep." The bad side is what the viewer is living with.
-**One villain, like the regular pillow (Reed, JRP1):** one object or habit she uses every day and never suspected, which the product directly replaces. Every pain in steps 2–4 comes from that same villain, and every pain stays on the one problem (bloating). A list of causes (ice water, then soda, then wine) reads as a lecture, not a pillow.
+**One villain, like the regular pillow (Reed, JRP1):** one object or habit she uses every day and never suspected, which the product directly replaces. Every pain in steps 2–4 comes from that same villain, and every pain stays on the one problem (bloating). A list of causes (ice water, then soda, then wine) reads as a lecture, not a pillow. For Jupi the villain is the bloat, and the cause is what her meal is missing (what Jupi has); the pains are normal things everyone feels after eating, not unusual causes she has to be taught (Reed, JRP1: "we need to belief shift them that their bloating is from not having this").
 2. **The common cause, explained, then a chain of symptoms**, each one causing the next (American pillow → double chin → mouth breathing → snoring → facial posture), tied back to the hook's look.
 3. **A second common pain, more chained symptoms** (side sleepers → the gap → neck sinks → neck pain). She should be thinking "so that's why I feel like this."
 4. **The fix she already tried, and how it backfires** (arm under the pillow → numb hands). "Not to mention" one more.
