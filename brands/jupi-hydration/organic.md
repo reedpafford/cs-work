@@ -2,6 +2,7 @@
 > **Jupi only.** Never apply this to another brand. Source: the copywriting masterclass with Tankas, hosted by Ollie (Kinveo, 2026-11-19), and Reed's calls (2026-11-23). Organic AI-avatar posts on Facebook and Instagram that end on an Amazon link, not paid ads. Where this file and the house rules in CLAUDE.md disagree on how a Jupi script is shaped, this file wins. The word rule, the image rule and Reed's edits still win over everything.
 
 ## Who's watching
+- **Talk straight to her: "you," never "us" or "a lot of us"** (Reed, JRP1, 2026-11-23). Even where a swipe says "a lot of us wind up…", ours says "you might…".
 - **She came to relax, not to think.** People in their 40s and 50s open Instagram and Facebook to wind down after a long day. So the job is to pack in as much information as possible in the easiest possible way to take in.
 - **Nine-year-old words.** Even easier than the house's sixth grade. "A fire going on inside your belly," not "gut inflammation." If a line comes out too simple, toughen it up one notch from there, never the other way round.
 - **US English, US references** (Reed, 2026-11-23). Mom, fiber, eight glasses, a gallon. Never mum, fibre or litres.
@@ -33,6 +34,17 @@ What the socks script got wrong, so ours don't:
 - **Once she's sold, stop.** Bringing up the failed fixes again after the pitch is out of place.
 - **Cut filler** ("that's why I never go without it" didn't carry anything).
 
+## The "How X vs how Y" comparison (Reed, 2026-11-23, JRP1, from the @dealswithkeelz pillow script)
+1. **Curiosity hook with the desired outcome in it:** "How ugly people sleep vs how models sleep." The bad side is what the viewer is living with.
+**One villain, like the regular pillow (Reed, JRP1):** one object or habit she uses every day and never suspected, which the product directly replaces. Every pain in steps 2–4 comes from that same villain, and every pain stays on the one problem (bloating). A list of causes (ice water, then soda, then wine) reads as a lecture, not a pillow. For Jupi the villain is the bloat, and the cause is what her meal is missing (what Jupi has); the pains are normal things everyone feels after eating, not unusual causes she has to be taught (Reed, JRP1: "we need to belief shift them that their bloating is from not having this").
+2. **The common cause, explained, then a chain of symptoms**, each one causing the next (American pillow → double chin → mouth breathing → snoring → facial posture), tied back to the hook's look.
+3. **A second common pain, more chained symptoms** (side sleepers → the gap → neck sinks → neck pain). She should be thinking "so that's why I feel like this."
+4. **The fix she already tried, and how it backfires** (arm under the pillow → numb hands). "Not to mention" one more.
+5. **Transition to the product:** "this is why so many people are switching over to this."
+6. **The good symptoms, in the same order, each one fixing a pain from 2–4**, and landing back on the hook's outcome.
+7. **Product selling:** features after the fixes ("It even has…", the material, the price).
+8. **Direct CTA** (the organic two-part CTA, below).
+
 ## Where the product goes
 - **Late, and on the side.** The video is about the recipe, or the comparison, or the routine. Jupi is one ingredient or one product among the others. Viewers drop off whenever a product appears; that can't be avoided.
 - **The desire is built in the body of the script, not the CTA.** If the script makes her want it enough, she buys without being pushed. A good bridge keeps the CTA from sounding out of place.
@@ -46,6 +58,7 @@ What the socks script got wrong, so ours don't:
 - **Recipe:** the most effective for Jupi. She's already trying recipes to fix her symptoms, so a little education gets her to try a new one.
 - **Product comparison** (Costco: walk the aisle, say what each thing costs and what it's good for): converts well even on low views, because she's already in shopping mode and writing down what to buy. For Jupi it's weaker than the recipe, because a consumable has fewer rivals than makeup does. Middle of funnel. Untested ideas: "cheap stuff from Amazon that helps your health" (better conversion, less to look at); the in-store stack, "this does that, but take it with this and you get…".
 - **The ingredient stack** (from the magnesium glycinate sleep post): "if you take X you get this, take X with Y you get more, take X with Y and Z…", then Jupi at the end as the one that has them all, then its key benefits, then proof, carried through her emotions, behaviors, pains and desires. Tankas would put Jupi at the end, not the start, but both are worth testing. Every ingredient claim has to be true.
+- **Celebrity dupes** (JRP2, from the Serene Herbs soursop "facelift" post): celebrity bodies as the anchor, then expensive fix → cheap dupe, then "the one thing I don't dupe" is Jupi. **Every dupe is a brand name or a household item she already owns or has seen in the aisle, on both sides** (La Mer → Nivea, the blue tin). That recognition is why she keeps listening. Never a generic activity or a no-name product ("a walk after dinner," "peppermint tea") (Reed, 2026-11-23) **And every dupe is the same type of product, the whole way through, and Jupi is that type too:** all skincare in the swipe, all supplements for Jupi (fat burners, debloaters, gut pills). Never shapewear, then a spice, then a pill (Reed, 2026-11-23). **The store the script names is the set:** say Walmart and the video is shot in a Walmart aisle, and every cheap dupe comes off that store's shelf, so name one store, never Walmart in one line and CVS in the next (Reed, JRP2). **The product comes in as a kind of thing first and the brand name second:** the swipe says "soursop bitters" and only names Serene Herbs at "the only brand I trust." Reed's JRP2 shape: he *recommends* the kind ("an anti-bloat mix that puts the turmeric with black pepper"), lists what the best ones also have ("the best mixes also have ginger, and enzymes…"), then "there's only one mix that combines all of these, and isn't made with cheap fillers and sugar, and it's called Jupi Hydration." Naming Jupi in the mechanism makes the trust line pointless (Reed, JRP2).
 - **Wide open:** recipe swapped for a workout routine (a different audience) · conspiracy mixed with recipe · sleep.
 - **Open angles (Ollie):** hydration and immunity. Nobody is pushing them. Rich's "stop drinking plain water, it isn't hydrating you" built on the recipe skeleton is doing well because it's in its own lane.
 - **Angles come from the reviews.** If Amazon reviewers say they have more energy and sleep better because they feel hydrated, that's an angle.
