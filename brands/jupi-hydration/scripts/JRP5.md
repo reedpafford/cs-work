@@ -10,10 +10,13 @@ Route: format (recipe, on the swipe's skeleton)
 
 ## V1
 ### Text Hook
-My water recipe for butter skin
+**It might not be your age**
+**Drinking all that water and still dry?**
+**It's not your serum**
 ### Script
-Drinking more water isn't going to give you butter skin.
-Pinch the skin on the back of your hand right now, and if it takes a second to go flat, that's your skin telling you it's thirsty.
+**If the skin on your neck and arms is starting to look like crepe paper, it might not be your age.**
+**You carry a giant water bottle around all day, and your skin's still dry and tight by the afternoon.**
+**You can spend three hundred dollars on serums and your skin will still feel tight by lunch, and it's not the serums.**
 
 ## V2
 ### Text Hook
