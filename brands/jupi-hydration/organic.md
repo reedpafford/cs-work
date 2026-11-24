@@ -37,6 +37,10 @@ What the socks script got wrong, so ours don't:
 - **The desire is built in the body of the script, not the CTA.** If the script makes her want it enough, she buys without being pushed. A good bridge keeps the CTA from sounding out of place.
 - **The CTA that has worked since April 2025 (Rosabella, TikTok Shop) and still works:** most brands fill theirs with cheap fillers and chemicals, which is why the only one I trust is Jupi. A long avatar CTA, these days arriving through the recipe.
 
+## The CTA on organic (Reed, 2026-11-23, JRP1): always two parts, different from paid
+1. **Where to buy, said out loud, at the product intro or the close.** Amazon by name, the search term, and the profile link. Reed's example: "but you can find it on Amazon by searching Jupi Hydration. Or to make it easier, just click the link in my profile." There's no ad button on an organic post, so the script has to tell her where it is.
+2. **Engagement asks at the very end, to push reach.** A share, a comment keyword with a reward, and the follow so the DM lands. Reed's example: "Send this to someone who needs to see it. And if you comment the word glow, I'll send you the morning routine I take with this. Just be sure you follow me first so my message delivers." The keyword and the reward change to fit each video (an example, not a line to reuse).
+
 ## Formats now (2026-11), with where Jupi fits
 - **Recipe:** the most effective for Jupi. She's already trying recipes to fix her symptoms, so a little education gets her to try a new one.
 - **Product comparison** (Costco: walk the aisle, say what each thing costs and what it's good for): converts well even on low views, because she's already in shopping mode and writing down what to buy. For Jupi it's weaker than the recipe, because a consumable has fewer rivals than makeup does. Middle of funnel. Untested ideas: "cheap stuff from Amazon that helps your health" (better conversion, less to look at); the in-store stack, "this does that, but take it with this and you get…".

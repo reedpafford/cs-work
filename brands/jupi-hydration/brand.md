@@ -66,7 +66,9 @@ Competitors: juice-bar ginger shots ($4–6), greens powders, probiotics, electr
 ? (decided per avatar: who that person would trust, not who's impressive).
 
 ## Personas
-None yet. Built per avatar (the primer's Primer 2 is one chat per avatar; here, one register per avatar in this section). Each gets: primary ICP and why · secondary lanes · name, age, gender, ethnicity, look, distinctive features, wardrobe · setting and why it builds trust · voice and tone · three traits · two-sentence backstory · format · ten angles only this avatar could own · what makes it different.
+**The account's avatar (Reed, 2026-11-23):** an athletic man in his 30s, a fitness influencer, the authority. Shown, never introduced: the setting and the way he explains food do the work. Name and voice: not decided; don't overthink the voice. First used JRP1.
+
+Others built per avatar (the primer's Primer 2 is one chat per avatar; here, one register per avatar in this section). Each gets: primary ICP and why · secondary lanes · name, age, gender, ethnicity, look, distinctive features, wardrobe · setting and why it builds trust · voice and tone · three traits · two-sentence backstory · format · ten angles only this avatar could own · what makes it different.
 
 ## Compliance
 - **Health language:** Jupi *supports* digestion, bloating relief, immunity, energy and hydration (the label's word, the brand's word). No cures, no treats, no named disease it fixes.
