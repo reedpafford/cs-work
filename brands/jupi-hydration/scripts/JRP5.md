@@ -30,9 +30,16 @@ Fill a big glass with cold water.
 **Then a splash of coconut water and a little magnesium powder, the minerals your skin needs to stay soft instead of tight and flaky.**
 **Squeeze in some lemon and shake in a tiny bit of cayenne, for your circulation, because that's what puts the color and the glow back in your face.**
 **And a spoonful of acerola cherry powder, for the vitamin C your skin uses to make collagen, the stuff that keeps it plump.**
-**Now, if you don't want to go out and buy all of that, there's one mix that has every one of those in a single scoop, and isn't made with cheap fillers and sugar, and it's called Jupi Hydration.**
-**Stir one scoop into your water until it turns blood orange, and it tastes better than orange juice.**
-And now you've got water that actually stays in you, so your skin's hydrated from the inside out.
+**Now I'll be honest with you, that's about 50 dollars of stuff from four different stores, and it tastes like you're drinking the ocean.**
+**And you're guessing the amounts every morning, so most days your skin isn't getting nearly enough of what it needs.**
+**So here's what I actually do.**
+**It's called Jupi Hydration, and it's every one of those, the pink salt, the coconut water, the magnesium, the cayenne, the lemon and the acerola cherry, already measured out in one scoop, for about a dollar.**
+**One scoop in cold water, stir it till it turns blood orange, and it tastes better than orange juice, with no added sugar.**
+**Now the water you drink actually stays in you.**
+**Give it about a week, and you'll look in the mirror in the morning and your skin is soft before you've put a single thing on it.**
+**Your makeup stops settling into the lines around your eyes, and by three o'clock your face doesn't feel tight anymore.**
+**And because it's got ginger and real fruit enzymes in it too, you're not bloated after dinner either.**
+**Women in their 40s and 50s tell me their skin hasn't felt this soft in years.**
 You can find it on Amazon by searching Jupi Hydration, or just tap the link in my profile.
 Last year they ran out of stock for the holidays, so if the link still works, I wouldn't wait.
 If you want the night drink I make for my skin, comment the word jupi and I'll send it to you. Just make sure you're following me, or my message won't send.
