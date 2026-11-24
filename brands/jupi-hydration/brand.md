@@ -63,7 +63,8 @@ All four male lanes are wide open.
 Competitors: juice-bar ginger shots ($4–6), greens powders, probiotics, electrolyte powders. The enemy available: the healthy habit causing the problem (the wellness paradox). Awareness and sophistication: ?
 
 ## Authority available
-? (decided per avatar: who that person would trust, not who's impressive).
+- **Borrowed, Japan and Okinawa (Reed, 2026-11-23, JRP1):** Okinawans have drunk turmeric tea (ukon tea) daily for centuries, for digestion and healthy aging, on the island known for living the longest. Japan reads as healthy and trusted to a US viewer (the "Japanese pillow" swipes run on the same trust). Jupi isn't Japanese and isn't an Okinawan recipe: the line is "they've done this for centuries, this puts turmeric in your morning drink," never "a Japanese formula." Don't borrow the hangover or liver uses; Jupi doesn't claim them.
+- Otherwise (decided per avatar: who that person would trust, not who's impressive).
 
 ## Personas
 **The account's avatar (Reed, 2026-11-23):** an athletic man in his 30s, a fitness influencer, the authority. Shown, never introduced: the setting and the way he explains food do the work. Name and voice: not decided; don't overthink the voice. First used JRP1.
@@ -82,4 +83,5 @@ Others built per avatar (the primer's Primer 2 is one chat per avatar; here, one
 `?` until a piece wins.
 
 ## Product blocks
+- **Fitness-influencer man, comparison format:** JRP1 ("switching over to this anti-bloating mix," the fixes in order, "This is because" ginger plus kiwi and papaya, orange with no added sugar, electrolytes, about a dollar a scoop, one scoop and you're good to go, Amazon by search and the profile link, the sell-out and holiday clock, share, comment "Jupi", follow first).
 - **The fitness-influencer avatar, anti-bloat mix (JRP2, 2026-11-23):** the newest is in `write.md` § Winning messaging, "The product block, anti-bloat mix."

@@ -2,6 +2,7 @@
 > **Jupi only.** Never apply this to another brand. Source: the copywriting masterclass with Tankas, hosted by Ollie (Kinveo, 2026-11-19), and Reed's calls (2026-11-23). Organic AI-avatar posts on Facebook and Instagram that end on an Amazon link, not paid ads. Where this file and the house rules in CLAUDE.md disagree on how a Jupi script is shaped, this file wins. The word rule, the image rule and Reed's edits still win over everything.
 
 ## Who's watching
+- **Talk straight to her: "you," never "us" or "a lot of us"** (Reed, JRP1, 2026-11-23). Even where a swipe says "a lot of us wind up…", ours says "you might…".
 - **She came to relax, not to think.** People in their 40s and 50s open Instagram and Facebook to wind down after a long day. So the job is to pack in as much information as possible in the easiest possible way to take in.
 - **Nine-year-old words.** Even easier than the house's sixth grade. "A fire going on inside your belly," not "gut inflammation." If a line comes out too simple, toughen it up one notch from there, never the other way round.
 - **US English, US references** (Reed, 2026-11-23). Mom, fiber, eight glasses, a gallon. Never mum, fibre or litres.
@@ -31,6 +32,17 @@ What the socks script got wrong, so ours don't:
 - **Proof once.** Its second "my clients tell me" was dead weight.
 - **Once she's sold, stop.** Bringing up the failed fixes again after the pitch is out of place.
 - **Cut filler** ("that's why I never go without it" didn't carry anything).
+
+## The "How X vs how Y" comparison (Reed, 2026-11-23, JRP1, from the @dealswithkeelz pillow script)
+1. **Curiosity hook with the desired outcome in it:** "How ugly people sleep vs how models sleep." The bad side is what the viewer is living with.
+**One villain, like the regular pillow (Reed, JRP1):** one object or habit she uses every day and never suspected, which the product directly replaces. Every pain in steps 2–4 comes from that same villain, and every pain stays on the one problem (bloating). A list of causes (ice water, then soda, then wine) reads as a lecture, not a pillow. For Jupi the villain is the bloat, and the cause is what her meal is missing (what Jupi has); the pains are normal things everyone feels after eating, not unusual causes she has to be taught (Reed, JRP1: "we need to belief shift them that their bloating is from not having this").
+2. **The common cause, explained, then a chain of symptoms**, each one causing the next (American pillow → double chin → mouth breathing → snoring → facial posture), tied back to the hook's look.
+3. **A second common pain, more chained symptoms** (side sleepers → the gap → neck sinks → neck pain). She should be thinking "so that's why I feel like this."
+4. **The fix she already tried, and how it backfires** (arm under the pillow → numb hands). "Not to mention" one more.
+5. **Transition to the product:** "this is why so many people are switching over to this."
+6. **The good symptoms, in the same order, each one fixing a pain from 2–4**, and landing back on the hook's outcome.
+7. **Product selling:** features after the fixes ("It even has…", the material, the price).
+8. **Direct CTA** (the organic two-part CTA, below).
 
 ## Where the product goes
 - **Late, and on the side.** The video is about the recipe, or the comparison, or the routine. Jupi is one ingredient or one product among the others. Viewers drop off whenever a product appears; that can't be avoided.
