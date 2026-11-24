@@ -2,6 +2,7 @@
 > **Jupi only.** Never apply this to another brand. Source: the copywriting masterclass with Tankas, hosted by Ollie (Kinveo, 2026-11-19), and Reed's calls (2026-11-23). Organic AI-avatar posts on Facebook and Instagram that end on an Amazon link, not paid ads. Where this file and the house rules in CLAUDE.md disagree on how a Jupi script is shaped, this file wins. The word rule, the image rule and Reed's edits still win over everything.
 
 ## Who's watching
+- **Talk straight to her: "you," never "us" or "a lot of us"** (Reed, JRP1, 2026-11-23). Even where a swipe says "a lot of us wind up…", ours says "you might…".
 - **She came to relax, not to think.** People in their 40s and 50s open Instagram and Facebook to wind down after a long day. So the job is to pack in as much information as possible in the easiest possible way to take in.
 - **Nine-year-old words.** Even easier than the house's sixth grade. "A fire going on inside your belly," not "gut inflammation." If a line comes out too simple, toughen it up one notch from there, never the other way round.
 - **US English, US references** (Reed, 2026-11-23). Mom, fiber, eight glasses, a gallon. Never mum, fibre or litres.
