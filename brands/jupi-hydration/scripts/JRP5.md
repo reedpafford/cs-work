@@ -1,5 +1,5 @@
 # JRP5 — Butter skin water
-Brand: jupi-hydration · Persona: the athletic fitness-influencer man · Awareness: MOF · Format: Recipe
+Brand: jupi-hydration · Persona: the athletic fitness-influencer man · Awareness: TOF · Format: Recipe
 Status: drafting
 Parent: — · Lever: —
 
@@ -14,34 +14,38 @@ My water recipe for butter skin
 ### Script
 Drinking more water isn't going to give you butter skin.
 You're just peeing it out, because it never makes it to your skin.
+Pinch the skin on the back of your hand right now, and if it takes a second to go flat, that's your skin telling you it's thirsty.
 
 ## V2
 ### Text Hook
-Eight glasses a day and still dry skin?
+Pinch the back of your hand
 ### Script
-You can drink eight glasses of water a day and still have dry skin, because you're peeing most of it out.
+Pinch the skin on the back of your hand right now, and if it takes a second to go flat, your skin is thirsty.
+And drinking more water won't fix it, because you're peeing most of it out before it ever gets to your skin.
 
 ## Body
 ### Script
-To actually hold on to it, your water needs something called electrolytes.
-So here's how I make my water for butter skin.
+It's the same reason your makeup cracks by lunch, and the lines under your eyes are deeper at four o'clock than they were when you woke up.
+No cream can fix that, because a cream sits on top of your skin, and the water your skin is missing has to come from the inside.
+To hold on to that water, your body needs something called electrolytes.
+So here's how I make my water for butter skin, and stay for the last ingredient, because almost nobody has heard of it and it's the one your skin needs most.
 Fill a big glass with cold water.
-**Add a pinch of pink salt, because the salt is what keeps the water in you instead of running straight through you.**
-**Then a splash of coconut water and a little magnesium powder, the minerals your skin needs to stay soft instead of tight and flaky.**
-**Squeeze in some lemon and shake in a tiny bit of cayenne, for your circulation, because that's what puts the color and the glow back in your face.**
-**And a spoonful of acerola cherry powder, for the vitamin C your skin uses to make collagen, the stuff that keeps it plump.**
-**Now I'll be honest with you, that's about 50 dollars of stuff from four different stores, and it tastes like you're drinking the ocean.**
-**And you're guessing the amounts every morning, so most days your skin isn't getting nearly enough of what it needs.**
-**So here's what I actually do.**
-**It's called Jupi Hydration, and it's every one of those, the pink salt, the coconut water, the magnesium, the cayenne, the lemon and the acerola cherry, already measured out in one scoop, for about a dollar.**
-**One scoop in cold water, stir it till it turns blood orange, and it tastes better than orange juice, with no added sugar.**
-**Now the water you drink actually stays in you.**
-**Give it about a week, and you'll look in the mirror in the morning and your skin is soft before you've put a single thing on it.**
-**Your makeup stops settling into the lines around your eyes, and by three o'clock your face doesn't feel tight anymore.**
-**And because it's got ginger and real fruit enzymes in it too, you're not bloated after dinner either.**
-**Women in their 40s and 50s tell me their skin hasn't felt this soft in years.**
+Add a pinch of pink salt, because the salt is what tells your body to keep the water instead of sending it straight through you.
+Then a splash of coconut water, for the potassium that carries that water into your skin.
+Then a little magnesium, so your skin stays soft instead of tight and flaky.
+Squeeze in some lemon and shake in a tiny bit of cayenne for your circulation, because that's what puts the color back in your face when you look gray by the afternoon.
+And the last one is acerola cherry.
+One of these little cherries has about as much vitamin C as a whole orange, and your skin uses vitamin C to make collagen, the stuff that keeps it plump.
+Now, be honest, you're probably not going to do all of that every morning, and most days I don't either.
+So this is what I actually drink.
+It's called Jupi Hydration, and it's got every one of those in one scoop, the pink salt, the coconut water, the magnesium, the lemon, the cayenne and the acerola cherry, already measured out for you.
+Plus ginger and real fruit enzymes, so you're not bloated after dinner either.
+It's about a dollar a scoop, it's got no added sugar, and it tastes better than orange juice.
+Give it about a week, and you'll look in the mirror in the morning and your skin is soft before you've put a single thing on it.
+Your makeup stops cracking, and by four o'clock your face doesn't feel tight anymore.
+Women in their 40s and 50s tell me their skin hasn't felt this soft in years.
 You can find it on Amazon by searching Jupi Hydration, or just tap the link in my profile.
 Last year they ran out of stock for the holidays, so if the link still works, I wouldn't wait.
 If you want the night drink I make for my skin, comment the word jupi and I'll send it to you. Just make sure you're following me, or my message won't send.
 ### Notes
-His face fills the frame for the hook, close enough to see his skin. Each ingredient goes into the glass by hand as he names it; at the Jupi line, the jar and its label, with the same ingredients pointed out. The Jupi stir is the payoff shot: clear water turning blood orange, where Krystal's turned cloudy.
+His face fills the frame for the hook, close enough to see his skin. On the pinch line, he pinches the back of his own hand on camera. Each ingredient goes into the glass by hand as he names it; the acerola cherries in his palm on the reveal. At the Jupi line, the jar and its label with the same ingredients pointed out, then one scoop into a fresh glass and the stir, clear water turning blood orange.
