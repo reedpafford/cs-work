@@ -36,39 +36,42 @@ Him: Go ahead, I'll wait.
 ## Body
 ### Script
 [SCENE 1 — her kitchen counter, the same morning]
-(she squeezes half a lemon into a mug of warm water)
-Her: Lemon water first, because it helps settle my stomach.
-(he taps the jar; the label pops up on screen: Organic Lemon 25 mg, Lemon Balm 100 mg)
-Him: Lemon, and lemon balm on top of it, which calms your stomach down even more.
-(she pours apple cider vinegar into a shot glass, knocks it back, and her whole face scrunches up)
-Her: Apple cider vinegar for that heavy feeling after I eat.
-(on screen: Organic Apple Cider Vinegar 125 mg)
-Him: That's in here too, and you don't have to make that face.
-(she peels the ginger with a spoon, grates it, and pushes it through the juicer, which is loud)
-Her: Fresh ginger, so my food actually moves instead of sitting in there like a brick.
+(she peels fresh ginger with a spoon, grates it onto a little kitchen scale, and pushes it through the juicer, which is loud)
+Her: 250 milligrams of fresh ginger, so my food actually moves instead of sitting in there like a brick.
 (on screen: Organic Ginger Root 250 mg)
-Him: 250 milligrams of ginger.
-Her: I'm not done.
-(she cuts a kiwi in half, then scoops out a papaya, and the seeds go everywhere)
-Her: Kiwi and papaya, because they've got the enzymes that actually break your food down.
+Him: Got that.
+(she measures apple cider vinegar into a shot glass, knocks it back, and her whole face scrunches up)
+Her: 125 milligrams of apple cider vinegar, for that heavy feeling after I eat.
+(on screen: Organic Apple Cider Vinegar 125 mg)
+Him: Same amount, and you don't have to make that face.
+(she cuts a kiwi in half, scoops out a papaya, and weighs them, and the seeds go everywhere)
+Her: Then 300 of kiwi and 150 of papaya, because they've got the enzymes that actually break your food down.
 (on screen: Kiwi Fruit 300 mg, Papaya Fruit 150 mg)
-Him: Both of them.
-(she shakes cayenne into the ginger juice and coughs)
-Her: A pinch of cayenne, to get my blood moving.
+Him: Both in here.
+(she squeezes a lemon into the glass and drops in a dropper of lemon balm)
+Her: A little lemon, and 100 milligrams of lemon balm, which calms my stomach down.
+(he taps the jar; on screen: Organic Lemon 25 mg, Lemon Balm Extract 100 mg)
+(her hair is coming out of its clip; she weighs out turmeric, stops, and grabs the pepper grinder)
+Her: 500 milligrams of turmeric for the stiff, achy mornings, and 5 of black pepper, because without the pepper your body barely absorbs any of it.
+(he turns the jar around and points at the label; on screen: Organic Turmeric Root 500 mg, BioPerine Black Pepper Extract 5 mg)
+Him: Even the pepper.
+(she shakes cayenne onto the scale and coughs)
+Her: 10 milligrams of cayenne, to get my blood moving.
 (on screen: Organic Cayenne Pepper 10 mg)
 Him: Yep.
-(her hair is coming out of its clip; she spoons turmeric into a glass, stops, and grabs the pepper grinder)
-Her: Now turmeric, for the stiff, achy mornings, but you have to grind black pepper on it, because without the pepper your body barely absorbs any of it.
-(he turns the jar around and points at the label; on screen: Organic Turmeric Root 500 mg, BioPerine Black Pepper Extract 5 mg)
-Him: 500 milligrams of turmeric, and even the pepper.
-(she stares at the jar for a second, then pours coconut water into a glass and shakes in pink salt)
-Her: I drink water all day and still feel dried out, so coconut water with a little pink salt.
-(on screen: Sodium 400 mg from Himalayan Pink Salt, Potassium 150 mg, Magnesium 100 mg, Coconut Water 100 mg)
-Him: The coconut water and the pink salt are in here, plus potassium and magnesium, and that's what makes the water actually stick.
-(she unscrews her vitamin C, her vitamin D and her zinc, and shakes one pill out of each)
-Her: And my vitamin C, my D and my zinc, so I'm not catching every cold that goes around.
+(she lines up pink salt, a potassium bottle, a magnesium bottle and a carton of coconut water)
+Her: I drink water all day and still feel dried out, so it's pink salt, then 150 milligrams of potassium and 100 of magnesium, with coconut water on top.
+(on screen: Sodium 400 mg from Himalayan Pink Salt, Potassium 150 mg, Magnesium Glycinate 100 mg, Coconut Water 100 mg)
+Him: That's what makes the water actually stick, and it's all in here.
+(she shakes one pill out of each of three bottles)
+Her: 100 milligrams of vitamin C, 2,000 units of D and my zinc, so I'm not catching every cold that goes around.
 (on screen: Vitamin C 100 mg, Vitamin D3 2,000 IU, Zinc 2 mg)
-Him: All three, with 2,000 units of vitamin D.
+Him: All three.
+(she rips open a padded mailer and pulls out a bag of powder)
+Her: And 200 milligrams of baobab, which I had to order online, for my gut.
+(on screen: Baobab Fruit 200 mg)
+Him: Baobab's in here too.
+Her: Of course it is.
 (she looks down at the counter: lemon rinds, ginger peel, a juicer full of pulp, six bottles, four dirty glasses)
 (the clock on the stove says 7:42)
 Her: That's twenty minutes, and I still have to clean the juicer.
