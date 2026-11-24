@@ -20,6 +20,7 @@ Organic, not paid: AI avatar pages on Facebook and Instagram, monetized through 
 - **In sixth-grade words:** a ginger shot you stir into water, with the stuff that helps you digest and the salts that make the water actually stick.
 - **Hidden mechanisms on hand:** the black pepper that makes turmeric work · fruit enzymes in a powder · electrolytes, so water hydrates instead of passing through.
 - **Experience:** morning, after a meal for a lighter feel, or after a workout. Reported within a week: hydration, digestion, energy. Two weeks-plus: immunity, inflammation, recovery.
+- **Skin, through hydration (Reed, JRP5, 2026-11-24):** Jupi can carry a skin promise (the water stays in you, so the skin shows it; vitamin C for collagen; circulation for the glow). Don't push back on it for missing from the reviews. Still never acne, rosacea or a named skin condition.
 - **Mechanism type:** ? (picked per avatar and angle).
 
 ## Offer
@@ -68,7 +69,7 @@ Competitors: juice-bar ginger shots ($4–6), greens powders, probiotics, electr
 - Otherwise (decided per avatar: who that person would trust, not who's impressive).
 
 ## Personas
-**The account's avatar (Reed, 2026-11-23):** an athletic man in his 30s, a fitness influencer, the authority. Shown, never introduced: the setting and the way he explains food do the work. Name and voice: not decided; don't overthink the voice. First used JRP1.
+**The account's avatar (Reed, 2026-11-23):** an athletic man in his 30s, a fitness influencer, the authority. Shown, never introduced: the setting and the way he explains food do the work. Name and voice: not decided; don't overthink the voice. First used JRP1. He carries skin content too (Reed, JRP5: "yes he can"), so a new topic doesn't need a new avatar.
 
 Others built per avatar (the primer's Primer 2 is one chat per avatar; here, one register per avatar in this section). Each gets: primary ICP and why · secondary lanes · name, age, gender, ethnicity, look, distinctive features, wardrobe · setting and why it builds trust · voice and tone · three traits · two-sentence backstory · format · ten angles only this avatar could own · what makes it different.
 
@@ -87,4 +88,5 @@ Others built per avatar (the primer's Primer 2 is one chat per avatar; here, one
 - **Fitness-influencer man, three-way comparison on hydration:** JRP4 ("this anti-bloating hydration mix," pink Himalayan salt and nine electrolytes so the water stays in you, drink less and feel more hydrated than on a gallon, "and yes, it actually tastes good," orange with no added sugar, "the best part" ginger plus kiwi and papaya so it doesn't sit and bloat you, about a dollar a scoop and a jar lasts a month, Amazon by search and the profile link, selling out since it went viral, grab one before the holidays, share, comment "Jupi", follow first).
 - **Fitness-influencer man, comparison format:** JRP1 ("switching over to this anti-bloating mix," the fixes in order, "This is because" ginger plus kiwi and papaya, orange with no added sugar, electrolytes, about a dollar a scoop, one scoop and you're good to go, Amazon by search and the profile link, the sell-out and holiday clock, share, comment "Jupi", follow first).
 - **The fitness-influencer avatar, anti-bloat mix (JRP2, 2026-11-23):** the newest is in `write.md` § Winning messaging, "The product block, anti-bloat mix."
+- **The fitness guy, closing a recipe (JRP5, 2026-11-24):** "Now, be honest, you're probably not going to do all of that every morning, and most days I don't either. So this is what I actually drink. It's called Jupi Hydration, and it's got every one of those in one scoop… already measured out for you. Plus ginger and real fruit enzymes, so you're not bloated after dinner either. It's about a dollar a scoop, it's got no added sugar, and it tastes better than orange juice." Then the result as scenes, proof once, the JRP3 close.
 - **The fitness guy, closing a skit (JRP3, 2026-11-24):** "This is Jupi, and it's every single thing you just did, in one scoop." · taste: "Wait, where's the sugar?" / "There isn't any. That's blood orange, sweetened with monk fruit." · the close in `write.md` (JRP3 close).
