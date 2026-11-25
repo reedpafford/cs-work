@@ -1,0 +1,61 @@
+# RP20b — The four signs (podcast)
+Brand: palace-guard · Persona: professional guest (trafficking investigator, new) · Awareness: UA→PA · Format: Podcast
+Status: final
+Parent: — · Lever: —
+Cast: the investigator (50s, works trafficking cases, flat and plain) · the mom (the co-host, reacts and asks what the mom watching is thinking)
+
+## Memo
+Why: the informational trafficking-signs podcast clip (thegentlemenof333: money on the ground, a zip tie on the handle, money on the windshield, a chalk mark) is a shape we haven't run; it opens on value, so the front is product-agnostic and only the back pivots to the alarm (the plan in brand.md). Rewritten from scratch 2026-11-19 (Reed: "the whole script is bad," a tips list in a generic voice). · What: the TikTok's four signs, kept close to its own words and order (Reed, 2026-11-19, after the case-led rewrite: "write closer to the tiktok, basically stealing its content, just funnel it to buying the product"), the co-host mom's question as the turn, "that's why we've been telling moms to get their daughter a personal alarm," then RP13's recommendation close. · How: the TikTok transcript, near-verbatim, then RP13's officer close in the investigator's mouth.
+Avatar: mothers and grandmothers 45 to 70 of a daughter 16 to 25 who drives herself · Sub-avatar: the mother who already knows trafficking is real and wants the signs so she can teach her daughter.
+Desire: knowing what to look for, and knowing her daughter has a way out if she misses it.
+Angle: the signs are real and worth knowing, but they only work if she spots them in time; the alarm is the fallback for the night she doesn't.
+Mechanism (JC33): he needs her quiet with nobody looking; one pin and the whole lot is made aware of the scene.
+Authority: an investigator who works trafficking cases; the co-host is a mom.
+Route: Podcast format, the swipe as is: hook → the countdown four to one, as the TikTok has it → the mom's question → the turn → attention → the recommendation and product → offer → regret → share → link and "Don't wait."
+
+## V1
+### Text Hook
+4 SIGNS a TRAFFICKER picked your DAUGHTER…😰
+(this could save her life)
+### Script
+Investigator: 4 signs your daughter may be a target of human trafficking.
+
+## V2
+### Text Hook
+Traffickers DO THIS…🚨
+(WATCH TO BE AWARE)
+### Script
+Investigator: 4 signs your granddaughter may be a target of human trafficking.
+
+## V3
+### Text Hook
+Traffickers DO THIS…🚨
+(WATCH TO BE AWARE)
+### Script
+Investigator: Stay alert, moms, there are 4 signs your daughter may be a target of human trafficking.
+
+## Body
+### Script
+Investigator: Number four, she finds money on the ground outside her car.
+Investigator: If she picks it up, it could be coated with a sedative, or something that could knock her unconscious.
+Mom: Oh my gosh.
+Investigator: Don’t touch it. She needs to get in her car and get to safety.
+Investigator: Number three, she finds a zip tie on the door handle of her car.
+Mom: I think I’ve heard this one.
+Investigator: This might seem odd, and she might want to get it off or fix it right away. Don’t. Same thing, she needs to get in her car and get to safety.
+Investigator: The second she starts messing with it, it gives a trafficker time to get to her. It can also be used to signal to other traffickers, like a marker.
+Investigator: Number two, she finds money on her windshield.
+Investigator: Similar to the money on the ground, she might get in her car, see the money, and get back out to grab it. Don’t do that.
+Investigator: She needs to stay in her car, even if she’s already gotten in, drive to safety, and take it off after.
+Mom: That’s scary.
+Investigator: And number one is her car being marked with a dot, or a smudge of paint or chalk.
+Investigator: If she sees anything like that on her car, don't take any chances. Drive straight to the police station. That mark could mean she’s been picked out as a vulnerable victim.
+Mom: Okay, but what if she doesn’t see any of it? What if he’s already there when she walks out?
+Investigator: That’s the part that keeps me up at night. Every one of these only works if she spots it in time, and most girls don’t.
+Investigator: That’s why we’ve been telling moms to get their daughter a personal alarm.
+Investigator: These traffickers need her quiet with nobody looking. She pulls one pin, and their edge is gone. Everyone is now looking towards them.
+Investigator: The one we recommend is Palace Guard. It’s louder than an ambulance siren, it’s got a strobe light, and it clips right on her keys, so it’s already in her hand on the walk to her car. It even has an anti-misfire feature, so it won’t go off in her purse.
+Mom: Oh wait, I’ve heard of these! How do we get one?
+Investigator: It’ll be linked to this post. The last I checked they were doing a holiday sale, buy three, get two free, which comes out to less than twenty dollars each. From what I’ve heard their inventory runs low this time of year, so I’d act now.
+Investigator: Oh and I’m not affiliated with them at all. I’ve just sat across from too many mothers who wished their daughters had something like this on their keychain.
+Investigator: Share this with every mother you know so their daughter doesn’t get abducted or assaulted. Tap the link below. Don’t wait until it’s too late.
